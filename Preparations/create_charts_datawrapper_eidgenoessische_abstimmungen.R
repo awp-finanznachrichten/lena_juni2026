@@ -48,6 +48,7 @@ vorlagen_kantone_special_stichentscheid <- c("Cc5YB","cDy1R","ygRKA")
 vorlagen_all <- rbind(vorlagen,vorlagen_fr)
 vorlagen_all <- rbind(vorlagen_all,vorlagen_it)
 
+
 #Load Folders
 folder_uebersicht <- readRDS("./Preparations/folders/folder_uebersicht.RDS")
 folder_gemeindeebene <- readRDS("./Preparations/folders/folder_gemeindeebene.RDS")
@@ -86,8 +87,6 @@ colnames(new_entry) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe",
 grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry)
 }
 
-
-
 ##SWISS MAPS/TABLES GEMEINDEN UND KANTONE
 for (v in 1:length(vorlagen_short)) {
   title_select <- c(v,v+length(vorlagen_short),v+length(vorlagen_short)+length(vorlagen_short))
@@ -97,11 +96,11 @@ for (v in 1:length(vorlagen_short)) {
   titel_it <- paste0(vorlagen_all$text[title_select[3]],": panoramica dei cantoni")
   
   titel_all <- c(titel_de,titel_fr,titel_it)
-  
+
   #Alle drei Sprachen
   for (i in 1:3) {
 
-  if (vorlagen$type[v] == "initiative") {
+  if (vorlagen_all$type[v] == "initiative") {
     
     #Gemeinden Übersicht
     data_chart <- dw_copy_chart(vorlagen_kantone_special_overview[i])
@@ -148,7 +147,7 @@ for (v in 1:length(vorlagen_short)) {
     grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry) 
     
     
-  } else if (vorlagen$type[v] == "counterproposal"){
+  } else if (vorlagen_all$type[v] == "counterproposal"){
     
     #Gemeinden Gegenvorschlag
     data_chart <- dw_copy_chart(vorlagen_kantone_special_gegenvorschlag[i])
@@ -172,7 +171,7 @@ for (v in 1:length(vorlagen_short)) {
     colnames(new_entry) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
     grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry) 
     
-  } else if (vorlagen$type[v] == "casting_vote") {
+  } else if (vorlagen_all$type[v] == "casting_vote") {
     
     #Gemeinden Gegenvorschlag
     data_chart <- dw_copy_chart(vorlagen_kantone_special_stichentscheid[i])
@@ -271,6 +270,7 @@ grafiken_uebersicht$Script <- gsub('png"','png?unq=keystone-sda"',grafiken_ueber
 library(xlsx)
 write.xlsx(grafiken_uebersicht,"./Data/metadaten_grafiken.xlsx",row.names = FALSE)
 
+
 #Enter Data in DB
 mydb <- connectDB(db_name = "sda_votes")
 for (i in 1:nrow(grafiken_uebersicht)) {
@@ -294,7 +294,7 @@ folder_kanton <- dw_create_folder(cantons_overview$area_ID[c],parent_id = folder
 for (v in 1:length(vorlagen_short)) {
   if (grepl("de",cantons_overview$languages[c]) == TRUE) {
     
-    if (vorlagen$type[v] == "initiative") {
+    if (vorlagen_all$type[v] == "initiative") {
       #Overview
       data_chart <- dw_copy_chart(vorlagen_kantone_special_overview[1])
       dw_edit_chart(data_chart$id,
@@ -349,7 +349,7 @@ for (v in 1:length(vorlagen_short)) {
       
       
       
-    } else if (vorlagen$type[v] == "counterproposal"){
+    } else if (vorlagen_all$type[v] == "counterproposal"){
       
       #Initiative
       data_chart <- dw_copy_chart(vorlagen_kantone_special_gegenvorschlag[1])
@@ -378,7 +378,7 @@ for (v in 1:length(vorlagen_short)) {
       grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry)
       
       
-    } else if (vorlagen$type[v] == "casting_vote") {
+    } else if (vorlagen_all$type[v] == "casting_vote") {
       
       #Initiative
       data_chart <- dw_copy_chart(vorlagen_kantone_special_stichentscheid[1])
@@ -434,7 +434,7 @@ for (v in 1:length(vorlagen_short)) {
   }
   if (grepl("fr",cantons_overview$languages[c]) == TRUE) {
     
-    if (vorlagen$type[v] == "initiative") {
+    if (vorlagen_all$type[v] == "initiative") {
       #Overview
       data_chart <- dw_copy_chart(vorlagen_kantone_special_overview[2])
       dw_edit_chart(data_chart$id,
@@ -489,7 +489,7 @@ for (v in 1:length(vorlagen_short)) {
       
       
       
-    } else if (vorlagen$type[v] == "counterproposal"){
+    } else if (vorlagen_all$type[v] == "counterproposal"){
       
       #Initiative
       data_chart <- dw_copy_chart(vorlagen_kantone_special_gegenvorschlag[2])
@@ -518,7 +518,7 @@ for (v in 1:length(vorlagen_short)) {
       grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry)
       
       
-    } else if (vorlagen$type[v] == "casting_vote") {
+    } else if (vorlagen_all$type[v] == "casting_vote") {
       
       #Initiative
       data_chart <- dw_copy_chart(vorlagen_kantone_special_stichentscheid[2])
@@ -574,7 +574,7 @@ for (v in 1:length(vorlagen_short)) {
   }
   if (grepl("it",cantons_overview$languages[c]) == TRUE) {
     
-    if (vorlagen$type[v] == "initiative") {
+    if (vorlagen_all$type[v] == "initiative") {
       #Overview
       data_chart <- dw_copy_chart(vorlagen_kantone_special_overview[3])
       dw_edit_chart(data_chart$id,
@@ -629,7 +629,7 @@ for (v in 1:length(vorlagen_short)) {
       
       
       
-    } else if (vorlagen$type[v] == "counterproposal"){
+    } else if (vorlagen_all$type[v] == "counterproposal"){
       
       #Initiative
       data_chart <- dw_copy_chart(vorlagen_kantone_special_gegenvorschlag[3])
@@ -658,7 +658,7 @@ for (v in 1:length(vorlagen_short)) {
       grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry)
       
       
-    } else if (vorlagen$type[v] == "casting_vote") {
+    } else if (vorlagen_all$type[v] == "casting_vote") {
       
       #Initiative
       data_chart <- dw_copy_chart(vorlagen_kantone_special_stichentscheid[3])
