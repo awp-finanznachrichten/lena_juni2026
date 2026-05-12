@@ -61,7 +61,6 @@ kantonal_selection <- votes_metadata %>%
          remarks != "special")
 kantonal_short <- kantonal_selection$spreadsheet
 
-
 #Nummer in JSON 
 kantonal_number <- c()
 kantonal_add <- c()
