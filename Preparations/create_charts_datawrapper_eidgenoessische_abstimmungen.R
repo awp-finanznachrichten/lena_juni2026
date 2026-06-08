@@ -48,7 +48,6 @@ vorlagen_kantone_special_stichentscheid <- c("Cc5YB","cDy1R","ygRKA")
 vorlagen_all <- rbind(vorlagen,vorlagen_fr)
 vorlagen_all <- rbind(vorlagen_all,vorlagen_it)
 
-
 #Load Folders
 folder_uebersicht <- readRDS("./Preparations/folders/folder_uebersicht.RDS")
 folder_gemeindeebene <- readRDS("./Preparations/folders/folder_gemeindeebene.RDS")

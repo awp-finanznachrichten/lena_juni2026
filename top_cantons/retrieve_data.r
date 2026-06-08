@@ -6,6 +6,6 @@
 kanton_wappen_raw <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/11ubsMMA94G-aRhz7e3mganRLKzqEzfK1UgJ4e2h-RNE/edit?gid=0#gid=0") %>%
   select(Canton,Wappen)
 
-vorlagen_names <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1wl8rWUd_V1AJgmMaONT-_S3mcocilomhws7A8B3mWeA/edit?gid=1093738023#gid=1093738023")
+vorlagen_names <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1xasdFg0DM7V9vTexPL9C9IJBNdNelvyz6nc00W_FH_Q/edit?gid=1093738023#gid=1093738023")
 
 

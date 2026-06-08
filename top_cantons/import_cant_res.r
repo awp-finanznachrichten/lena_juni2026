@@ -1,11 +1,8 @@
 ##importer res. cantonaux
 
-link_nov <- "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260308-eidgAbstimmung.json"
+link_jun <- "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json"
 
-#link <- "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20250928-eidgAbstimmung.json"
-#test_link <- "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20241124-eidgAbstimmung.json"
-
-vot_raw <- jsonlite::fromJSON(link_nov)
+vot_raw <- jsonlite::fromJSON(link_jun)
 
 
 ##issue list
@@ -31,15 +28,11 @@ mapping_issues <- vot_raw$schweiz$vorlagen %>%
   group_by(vorlagenId) %>%
   #mutate(vorlagenId = case_when(vorlagenId == 6780 ~ 6800, #a supprimer! 6821,6822,6830,6840,6850
    #                             vorlagenId == 6790 ~ 6810)) %>% #a supprimer
-  mutate(issue_number = case_when(vorlagenId == 6821 ~ 1,
-                                  vorlagenId == 6822 ~ 2,
-                                  vorlagenId == 6823 ~ 3,
-                                  vorlagenId == 6830 ~ 4,
-                                  vorlagenId == 6840 ~ 5,
-                                  vorlagenId == 6850 ~ 6)) %>%
+  mutate(issue_number = case_when(vorlagenId == 6860 ~ 1,
+                                  vorlagenId == 6870 ~ 2)) %>%
   tidyr::unnest(vorlagenTitel) %>%
   dplyr::left_join(vorlagen_names, join_by("vorlagenId" == "Vorlage_ID")) %>%
-  select(vorlagenId,langKey, issue_number, text,Vorlage_f, Vorlage_d, Vorlage_i) #%>%
+  select(vorlagenId,langKey, issue_number, text,Vorlage_f, Vorlage_d, Vorlage_i)
   
 #mapping_issues <- vot_raw$schweiz$vorlagen$vorlagenTitel %>%
  # purrr::pluck() %>%
@@ -54,7 +47,7 @@ mapping_issues <- vot_raw$schweiz$vorlagen %>%
 
 
   
-cant_link <- "https://raw.githubusercontent.com/awp-finanznachrichten/lena_november2025/refs/heads/main/Output_Switzerland/CH_Service_Citoyen_all_data.csv"
+cant_link <- "https://raw.githubusercontent.com/awp-finanznachrichten/lena_juni2026/refs/heads/master/Output_Switzerland/CH_Zivildienst_all_data.csv"
 
 
 cant_names <- readr::read_csv(cant_link) %>%
@@ -74,13 +67,9 @@ cant <- vot_raw$schweiz$vorlagen$kantone %>%
     issue_number = dplyr::row_number(),
     issue = dplyr::case_when( #adapter au nombre de votation
       issue_number == 1 ~ issues_list_fr[1],
-      issue_number == 2 ~ issues_list_fr[2],
-      issue_number == 3 ~ issues_list_fr[3],
-      issue_number == 4 ~ issues_list_fr[4],
-      issue_number == 5 ~ issues_list_fr[5],
-      issue_number == 6 ~ issues_list_fr[6]
+      issue_number == 2 ~ issues_list_fr[2]
     )
-  ) %>%
+    ) %>%
   tidyr::unnest(resultat) %>%
   dplyr::filter(gebietAusgezaehlt) %>%
   dplyr::mutate(geoLevelnummer = as.numeric(geoLevelnummer),
@@ -101,8 +90,8 @@ cant <- vot_raw$schweiz$vorlagen$kantone %>%
 
 #cant_test <- cant %>%
  # dplyr::mutate(
-  #  cantonJaStimmenInProzent = round(runif(n(), 0, 100), 1),
-   # cantonNoStimmenInProzent = round(runif(n(), 0, 100), 1)
+#    cantonJaStimmenInProzent = round(runif(n(), 0, 100), 1),
+#    cantonNoStimmenInProzent = round(runif(n(), 0, 100), 1)
 #  )
 
 #cant <- cant_test
