@@ -17,7 +17,7 @@
 5422,41.6,41.6,50.9,"Aubonne (VD)",
 5423,37.7,37.7,60.1,"Ballens (VD)",
 5424,45.2,45.2,49.2,"Berolle (VD)",
-5425,50,0,0,"Bière (VD)","I risultati di questo comune non sono ancora noti."
+5425,42,42,54,"Bière (VD)",
 5426,35.8,35.8,60,"Bougy-Villars (VD)",
 5427,33.1,33.1,65.3,"Féchy (VD)",
 5428,46.8,46.8,48.9,"Gimel (VD)",
@@ -39,7 +39,7 @@
 5475,51.9,51.9,45.6,"Chavannes-le-Veyron (VD)",
 5476,37.2,37.2,60.6,"Chevilly (VD)",
 5477,48.8,48.8,46.6,"Cossonay (VD)",
-5479,50,0,0,"Cuarnens (VD)","I risultati di questo comune non sono ancora noti."
+5479,37.3,37.3,57.9,"Cuarnens (VD)",
 5480,44.6,44.6,51.8,"Daillens (VD)",
 5481,50,50,45.8,"Dizy (VD)",
 5482,47.5,47.5,49.9,"Eclépens (VD)",
@@ -60,7 +60,7 @@
 5498,50,0,0,"La Sarraz (VD)","I risultati di questo comune non sono ancora noti."
 5499,33.9,33.9,61.3,"Senarclens (VD)",
 5501,38.2,38.2,56.7,"Sullens (VD)",
-5503,50,0,0,"Vufflens-la-Ville (VD)","I risultati di questo comune non sono ancora noti."
+5503,48,48,49,"Vufflens-la-Ville (VD)",
 5511,36.5,36.5,60.4,"Assens (VD)",
 5512,41.5,41.5,51.6,"Bercher (VD)",
 5514,42.6,42.6,54.6,"Bottens (VD)",
@@ -71,9 +71,9 @@
 5521,44.6,44.6,51.1,"Etagnières (VD)",
 5522,45.3,45.3,50.4,"Fey (VD)",
 5523,42.9,42.9,50.3,"Froideville (VD)",
-5527,50,0,0,"Morrens (VD)","I risultati di questo comune non sono ancora noti."
+5527,48,48,50,"Morrens (VD)",
 5529,32.2,32.2,64.4,"Oulens-sous-Echallens (VD)",
-5530,50,0,0,"Pailly (VD)","I risultati di questo comune non sono ancora noti."
+5530,39.3,39.3,56.5,"Pailly (VD)",
 5531,42.1,42.1,51.9,"Penthéréaz (VD)",
 5533,38.9,38.9,56.8,"Poliez-Pittet (VD)",
 5534,40.7,40.7,58.6,"Rueyres (VD)",
@@ -106,7 +106,7 @@
 5585,39.7,39.7,55.2,"Jouxtens-Mézery (VD)",
 5586,50,0,0,"Losanna (VD)","I risultati di questo comune non sono ancora noti."
 5587,46.2,46.2,48.7,"Le Mont-sur-Lausanne (VD)",
-5588,50,0,0,"Paudex (VD)","I risultati di questo comune non sono ancora noti."
+5588,46.3,46.3,49.9,"Paudex (VD)",
 5589,57.9,57.9,36.1,"Prilly (VD)",
 5590,45.4,45.4,49.6,"Pully (VD)",
 5591,63.7,63.7,31.6,"Renens (VD)",
@@ -127,7 +127,7 @@
 5628,41.2,41.2,55.4,"Chigny (VD)",
 5629,27.1,27.1,71.8,"Clarmont (VD)",
 5631,34.3,34.3,61.7,"Denens (VD)",
-5632,50,0,0,"Denges (VD)","I risultati di questo comune non sono ancora noti."
+5632,49.3,49.3,49,"Denges (VD)",
 5633,41.9,41.9,55.4,"Echandens (VD)",
 5634,40.6,40.6,54.7,"Echichens (VD)",
 5635,53.6,53.6,40.9,"Ecublens (VD)",
@@ -157,7 +157,7 @@
 5673,39.6,39.6,58.3,"Hermenches (VD)",
 5674,54.7,54.7,42.2,"Lovatens (VD)",
 5675,53.2,53.2,42,"Lucens (VD)",
-5678,50,0,0,"Moudon (VD)","I risultati di questo comune non sono ancora noti."
+5678,50.8,50.8,42.2,"Moudon (VD)",
 5680,48.4,48.4,50,"Ogens (VD)",
 5683,30.2,30.2,65.1,"Prévonloup (VD)",
 5684,50,50,46.9,"Rossenges (VD)",
@@ -178,7 +178,7 @@
 5711,50,0,0,"Commugny (VD)","I risultati di questo comune non sono ancora noti."
 5712,36.5,36.5,58,"Coppet (VD)",
 5713,33.7,33.7,63.7,"Crans-près-Céligny (VD)",
-5714,50,0,0,"Crassier (VD)","I risultati di questo comune non sono ancora noti."
+5714,44.3,44.3,52.1,"Crassier (VD)",
 5715,50,0,0,"Duillier (VD)","I risultati di questo comune non sono ancora noti."
 5716,43.1,43.1,49.8,"Eysins (VD)",
 5717,38.7,38.7,56.3,"Founex (VD)",
@@ -193,14 +193,14 @@
 5726,37.8,37.8,58.3,"La Rippe (VD)",
 5727,47.2,47.2,45,"Saint-Cergue (VD)",
 5728,34.3,34.3,57.4,"Signy-Avenex (VD)",
-5729,50,0,0,"Tannay (VD)","I risultati di questo comune non sono ancora noti."
+5729,35.9,35.9,60.6,"Tannay (VD)",
 5730,37.8,37.8,56.4,"Trélex (VD)",
-5731,50,0,0,"Le Vaud (VD)","I risultati di questo comune non sono ancora noti."
+5731,85.7,85.7,14.3,"Le Vaud (VD)",
 5732,37,37,57.3,"Vich (VD)",
 5741,49.7,49.7,48.3,"L'Abergement (VD)",
 5742,40.7,40.7,56.9,"Agiez (VD)",
 5743,45.1,45.1,50.2,"Arnex-sur-Orbe (VD)",
-5744,48.6,48.6,47.1,"Ballaigues (VD)",
+5744,48.4,48.4,47.2,"Ballaigues (VD)",
 5745,53.3,53.3,42.7,"Baulmes (VD)",
 5746,39.1,39.1,57.1,"Bavois (VD)",
 5747,41.3,41.3,55.4,"Bofflens (VD)",
@@ -211,7 +211,7 @@
 5754,40.8,40.8,52.6,"Juriens (VD)",
 5755,36,36,59.8,"Lignerolle (VD)",
 5756,48.1,48.1,48.1,"Montcherand (VD)",
-5757,50,0,0,"Orbe (VD)","I risultati di questo comune non sono ancora noti."
+5757,51.4,51.4,42.3,"Orbe (VD)",
 5758,52.1,52.1,44.7,"La Praz (VD)",
 5759,50,50,49.1,"Premier (VD)",
 5760,43.1,43.1,55.2,"Rances (VD)",
@@ -229,7 +229,7 @@
 5803,37.7,37.7,59.6,"Vulliens (VD)",
 5804,44.2,44.2,52.6,"Jorat-Menthue (VD)",
 5805,49.3,49.3,45.3,"Oron (VD)",
-5806,50,0,0,"Jorat-Mézières (VD)","I risultati di questo comune non sono ancora noti."
+5806,44.8,44.8,49.4,"Jorat-Mézières (VD)",
 5812,54.5,54.5,45.5,"Champtauroz (VD)",
 5813,43.5,43.5,53.6,"Chevroux (VD)",
 5816,37.9,37.9,55.3,"Corcelles-près-Payerne (VD)",
@@ -262,7 +262,7 @@
 5873,51.4,51.4,44.6,"Le Lieu (VD)",
 5882,42.7,42.7,51,"Chardonne (VD)",
 5883,40.5,40.5,53.5,"Corseaux (VD)",
-5884,50,0,0,"Corsier-sur-Vevey (VD)","I risultati di questo comune non sono ancora noti."
+5884,52.2,52.2,40.5,"Corsier-sur-Vevey (VD)",
 5885,50,0,0,"Jongny (VD)","I risultati di questo comune non sono ancora noti."
 5886,48.6,48.6,45.7,"Montreux (VD)",
 5889,51.4,51.4,43,"La Tour-de-Peilz (VD)",
