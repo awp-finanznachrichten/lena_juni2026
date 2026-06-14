@@ -1,6 +1,6 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
 1301,50,0,0,"Einsiedeln (SZ)","Les résultats ne sont pas encore connus dans cette commune."
-1311,50,0,0,"Gersau (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1311,41.7,41.7,58.3,"Gersau (SZ)",
 1321,34.6,34.6,65.4,"Feusisberg (SZ)",
 1322,40.4,40.4,59.6,"Freienbach (SZ)",
 1323,50,0,0,"Wollerau (SZ)","Les résultats ne sont pas encore connus dans cette commune."
@@ -13,17 +13,17 @@
 1346,50,0,0,"Schübelbach (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1347,50,0,0,"Tuggen (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1348,50,0,0,"Vorderthal (SZ)","Les résultats ne sont pas encore connus dans cette commune."
-1349,50,0,0,"Wangen (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1349,44.9,44.9,55.1,"Wangen (SZ)",
 1361,30.4,30.4,69.6,"Alpthal (SZ)",
 1362,50,0,0,"Arth (SZ)","Les résultats ne sont pas encore connus dans cette commune."
-1363,50,0,0,"Illgau (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1363,29.3,29.3,70.7,"Illgau (SZ)",
 1364,42.3,42.3,57.7,"Ingenbohl (SZ)",
 1365,42.2,42.2,57.8,"Lauerz (SZ)",
-1366,50,0,0,"Morschach (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1366,46.9,46.9,53.1,"Morschach (SZ)",
 1367,50,0,0,"Muotathal (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1368,37.5,37.5,62.5,"Oberiberg (SZ)",
 1369,46.3,46.3,53.7,"Riemenstalden (SZ)",
-1370,50,0,0,"Rothenthurm (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1370,40.6,40.6,59.4,"Rothenthurm (SZ)",
 1371,50,0,0,"Sattel (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1372,50,0,0,"Schwyz (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1373,50,0,0,"Steinen (SZ)","Les résultats ne sont pas encore connus dans cette commune."
