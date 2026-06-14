@@ -24,7 +24,7 @@
 5429,42.3,42.3,51.4,"Longirod (VD)",
 5430,40.8,40.8,56.2,"Marchissy (VD)",
 5431,47.4,47.4,47.4,"Mollens (VD)",
-5434,50,0,0,"Saint-George (VD)","I risultati di questo comune non sono ancora noti."
+5434,45,45,52.8,"Saint-George (VD)",
 5435,40.1,40.1,56.4,"Saint-Livres (VD)",
 5436,37.7,37.7,55.2,"Saint-Oyens (VD)",
 5437,51.8,51.8,46,"Saubraz (VD)",
@@ -85,7 +85,7 @@
 5551,35.4,35.4,60.7,"Bonvillars (VD)",
 5552,35.7,35.7,59.6,"Bullet (VD)",
 5553,36.9,36.9,58.7,"Champagne (VD)",
-5554,50,0,0,"Concise (VD)","I risultati di questo comune non sono ancora noti."
+5554,44.5,44.5,50.5,"Concise (VD)",
 5555,51.7,51.7,46.2,"Corcelles-près-Concise (VD)",
 5556,53.7,53.7,44.5,"Fiez (VD)",
 5557,38.7,38.7,61.3,"Fontaines-sur-Grandson (VD)",
@@ -119,7 +119,7 @@
 5610,55.4,55.4,41.8,"Saint-Saphorin (Lavaux) (VD)",
 5611,46.1,46.1,49.2,"Savigny (VD)",
 5613,44.9,44.9,49.7,"Bourg-en-Lavaux (VD)",
-5621,50,0,0,"Aclens (VD)","I risultati di questo comune non sono ancora noti."
+5621,36.9,36.9,59.6,"Aclens (VD)",
 5622,50,0,0,"Bremblens (VD)","I risultati di questo comune non sono ancora noti."
 5623,36.4,36.4,62.2,"Buchillon (VD)",
 5624,52.1,52.1,42.5,"Bussigny (VD)",
@@ -168,9 +168,9 @@
 5701,35.6,35.6,62.1,"Arnex-sur-Nyon (VD)",
 5702,38.7,38.7,53.8,"Arzier-Le Muids (VD)",
 5703,43.4,43.4,49.7,"Bassins (VD)",
-5704,50,0,0,"Begnins (VD)","I risultati di questo comune non sono ancora noti."
+5704,42.7,42.7,53.8,"Begnins (VD)",
 5705,39.1,39.1,58,"Bogis-Bossey (VD)",
-5706,50,0,0,"Borex (VD)","I risultati di questo comune non sono ancora noti."
+5706,44.3,44.3,53.8,"Borex (VD)",
 5707,33.2,33.2,62.5,"Chavannes-de-Bogis (VD)",
 5708,40.1,40.1,58.3,"Chavannes-des-Bois (VD)",
 5709,33,33,60.2,"Chéserex (VD)",
@@ -182,7 +182,7 @@
 5715,50,0,0,"Duillier (VD)","I risultati di questo comune non sono ancora noti."
 5716,43.1,43.1,49.8,"Eysins (VD)",
 5717,38.7,38.7,56.3,"Founex (VD)",
-5718,50,0,0,"Genolier (VD)","I risultati di questo comune non sono ancora noti."
+5718,34.2,34.2,62.2,"Genolier (VD)",
 5719,39.4,39.4,57.5,"Gingins (VD)",
 5720,37.5,37.5,58.4,"Givrins (VD)",
 5721,47,47,46.1,"Gland (VD)",
@@ -298,4 +298,4 @@
 5935,50,0,0,"Villars-Epeney (VD)","I risultati di questo comune non sono ancora noti."
 5937,38.5,38.5,57.7,"Vugelles-La Mothe (VD)",
 5938,50,0,0,"Yverdon-les-Bains (VD)","I risultati di questo comune non sono ancora noti."
-5939,50,0,0,"Yvonand (VD)","I risultati di questo comune non sono ancora noti."
+5939,51.5,51.5,46,"Yvonand (VD)",
