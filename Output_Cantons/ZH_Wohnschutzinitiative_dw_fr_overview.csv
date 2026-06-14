@@ -1,6 +1,6 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
 1,"aucun résultat",0,0,"Aeugst am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-2,"aucun résultat",0,0,"Affoltern am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+2,"contre-proposition oui",39.2,60.8,"Affoltern am Albis (ZH)",
 3,"aucun résultat",0,0,"Bonstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 4,"aucun résultat",0,0,"Hausen am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 5,"aucun résultat",0,0,"Hedingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -70,7 +70,7 @@
 95,"aucun résultat",0,0,"Regensberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 96,"aucun résultat",0,0,"Regensdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 97,"aucun résultat",0,0,"Rümlang (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-98,"aucun résultat",0,0,"Schleinikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+98,"contre-proposition oui",35.3,64.7,"Schleinikon (ZH)",
 99,"contre-proposition oui",28.3,71.7,"Schöfflisdorf (ZH)",
 100,"contre-proposition oui",31.1,68.9,"Stadel (ZH)",
 101,"contre-proposition oui",30.2,69.8,"Steinmaur (ZH)",
@@ -126,7 +126,7 @@
 213,"aucun résultat",0,0,"Brütten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 214,"aucun résultat",0,0,"Dägerlen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 215,"aucun résultat",0,0,"Dättlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-216,"aucun résultat",0,0,"Dinhard (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+216,"contre-proposition oui",28.1,71.9,"Dinhard (ZH)",
 218,"aucun résultat",0,0,"Ellikon an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 219,"aucun résultat",0,0,"Elsau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 220,"aucun résultat",0,0,"Hagenbuch (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -144,7 +144,7 @@
 243,"aucun résultat",0,0,"Dietikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 244,"aucun résultat",0,0,"Geroldswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 245,"aucun résultat",0,0,"Oberengstringen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-246,"aucun résultat",0,0,"Oetwil an der Limmat (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+246,"contre-proposition oui",28.9,71.1,"Oetwil an der Limmat (ZH)",
 247,"aucun résultat",0,0,"Schlieren (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 248,"aucun résultat",0,0,"Uitikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 249,"aucun résultat",0,0,"Unterengstringen (ZH)","Les résultats ne sont pas encore connus dans cette commune."

@@ -1,6 +1,6 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
 1,50,0,0,"Aeugst am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-2,50,0,0,"Affoltern am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+2,37,37,63,"Affoltern am Albis (ZH)",
 3,50,0,0,"Bonstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 4,50,0,0,"Hausen am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 5,50,0,0,"Hedingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -70,7 +70,7 @@
 95,50,0,0,"Regensberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 96,50,0,0,"Regensdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 97,50,0,0,"Rümlang (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-98,50,0,0,"Schleinikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+98,33.6,33.6,66.4,"Schleinikon (ZH)",
 99,29.1,29.1,70.9,"Schöfflisdorf (ZH)",
 100,30.6,30.6,69.4,"Stadel (ZH)",
 101,29.6,29.6,70.4,"Steinmaur (ZH)",
@@ -126,7 +126,7 @@
 213,50,0,0,"Brütten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 214,50,0,0,"Dägerlen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 215,50,0,0,"Dättlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-216,50,0,0,"Dinhard (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+216,24.5,24.5,75.5,"Dinhard (ZH)",
 218,50,0,0,"Ellikon an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 219,50,0,0,"Elsau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 220,50,0,0,"Hagenbuch (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -144,7 +144,7 @@
 243,50,0,0,"Dietikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 244,50,0,0,"Geroldswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 245,50,0,0,"Oberengstringen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-246,50,0,0,"Oetwil an der Limmat (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+246,25.7,25.7,74.3,"Oetwil an der Limmat (ZH)",
 247,50,0,0,"Schlieren (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 248,50,0,0,"Uitikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 249,50,0,0,"Unterengstringen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
