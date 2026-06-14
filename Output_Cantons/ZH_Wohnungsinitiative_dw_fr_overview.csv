@@ -7,7 +7,7 @@
 6,"contre-proposition oui",28,72,"Kappel am Albis (ZH)",
 7,"contre-proposition oui",32.5,67.5,"Knonau (ZH)",
 8,"contre-proposition oui",33.6,66.4,"Maschwanden (ZH)",
-9,"aucun résultat",0,0,"Mettmenstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+9,"contre-proposition oui",28.7,71.3,"Mettmenstetten (ZH)",
 10,"contre-proposition oui",34,66,"Obfelden (ZH)",
 11,"contre-proposition oui",27.4,72.6,"Ottenbach (ZH)",
 12,"contre-proposition oui",38,62,"Rifferswil (ZH)",
@@ -16,13 +16,13 @@
 22,"contre-proposition oui",24.7,75.3,"Benken (ZH)",
 23,"contre-proposition oui",19.5,80.5,"Berg am Irchel (ZH)",
 24,"contre-proposition oui",17.3,82.7,"Buch am Irchel (ZH)",
-25,"aucun résultat",0,0,"Dachsen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+25,"contre-proposition oui",30.5,69.5,"Dachsen (ZH)",
 26,"contre-proposition oui",16.7,83.3,"Dorf (ZH)",
 27,"contre-proposition oui",33.6,66.4,"Feuerthalen (ZH)",
 28,"contre-proposition oui",19.5,80.5,"Flaach (ZH)",
 29,"contre-proposition oui",29.5,70.5,"Flurlingen (ZH)",
 31,"contre-proposition oui",24.9,75.1,"Henggart (ZH)",
-33,"aucun résultat",0,0,"Kleinandelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+33,"contre-proposition oui",27.1,72.9,"Kleinandelfingen (ZH)",
 34,"contre-proposition oui",25.5,74.5,"Laufen-Uhwiesen (ZH)",
 35,"contre-proposition oui",22,78,"Marthalen (ZH)",
 37,"contre-proposition oui",26.8,73.2,"Ossingen (ZH)",
@@ -38,7 +38,7 @@
 55,"contre-proposition oui",30.2,69.8,"Eglisau (ZH)",
 56,"contre-proposition oui",32.1,67.9,"Embrach (ZH)",
 57,"contre-proposition oui",27.3,72.7,"Freienstein-Teufen (ZH)",
-58,"aucun résultat",0,0,"Glattfelden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+58,"contre-proposition oui",28.3,71.7,"Glattfelden (ZH)",
 59,"contre-proposition oui",29.2,70.8,"Hochfelden (ZH)",
 60,"contre-proposition oui",31.4,68.6,"Höri (ZH)",
 61,"contre-proposition oui",23.7,76.3,"Hüntwangen (ZH)",
@@ -62,7 +62,7 @@
 87,"contre-proposition oui",18.6,81.4,"Hüttikon (ZH)",
 88,"contre-proposition oui",21,79,"Neerach (ZH)",
 89,"contre-proposition oui",31.1,68.9,"Niederglatt (ZH)",
-90,"aucun résultat",0,0,"Niederhasli (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+90,"contre-proposition oui",31.9,68.1,"Niederhasli (ZH)",
 91,"contre-proposition oui",29.4,70.6,"Niederweningen (ZH)",
 92,"contre-proposition oui",37.8,62.2,"Oberglatt (ZH)",
 93,"contre-proposition oui",28.4,71.6,"Oberweningen (ZH)",
@@ -79,8 +79,8 @@
 112,"contre-proposition oui",29.4,70.6,"Bubikon (ZH)",
 113,"contre-proposition oui",28.8,71.2,"Dürnten (ZH)",
 114,"contre-proposition oui",24.9,75.1,"Fischenthal (ZH)",
-115,"aucun résultat",0,0,"Gossau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-116,"aucun résultat",0,0,"Grüningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+115,"contre-proposition oui",25.9,74.1,"Gossau (ZH)",
+116,"contre-proposition oui",29.6,70.4,"Grüningen (ZH)",
 117,"contre-proposition oui",30.8,69.2,"Hinwil (ZH)",
 118,"aucun résultat",0,0,"Rüti (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 119,"contre-proposition oui",29.7,70.3,"Seegräben (ZH)",
@@ -106,7 +106,7 @@
 161,"contre-proposition oui",28.1,71.9,"Zollikon (ZH)",
 172,"aucun résultat",0,0,"Fehraltorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 173,"contre-proposition oui",27.9,72.1,"Hittnau (ZH)",
-176,"aucun résultat",0,0,"Lindau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+176,"contre-proposition oui",26.4,73.6,"Lindau (ZH)",
 177,"contre-proposition oui",35.1,64.9,"Pfäffikon (ZH)",
 178,"contre-proposition oui",21.2,78.8,"Russikon (ZH)",
 180,"contre-proposition oui",21.8,78.2,"Weisslingen (ZH)",
@@ -123,7 +123,7 @@
 199,"contre-proposition oui",32.6,67.4,"Volketswil (ZH)",
 200,"contre-proposition oui",28.5,71.5,"Wangen-Brüttisellen (ZH)",
 211,"contre-proposition oui",23.1,76.9,"Altikon (ZH)",
-213,"aucun résultat",0,0,"Brütten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+213,"contre-proposition oui",19.8,80.2,"Brütten (ZH)",
 214,"contre-proposition oui",25.4,74.6,"Dägerlen (ZH)",
 215,"contre-proposition oui",22.6,77.4,"Dättlikon (ZH)",
 216,"contre-proposition oui",24.7,75.3,"Dinhard (ZH)",
@@ -136,9 +136,9 @@
 225,"contre-proposition oui",27.5,72.5,"Rickenbach (ZH)",
 226,"contre-proposition oui",34.1,65.9,"Schlatt (ZH)",
 227,"contre-proposition oui",28.2,71.8,"Seuzach (ZH)",
-228,"aucun résultat",0,0,"Turbenthal (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+228,"contre-proposition oui",32.7,67.3,"Turbenthal (ZH)",
 230,"aucun résultat",0,0,"Winterthour (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-231,"aucun résultat",0,0,"Zell (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+231,"contre-proposition oui",35.7,64.3,"Zell (ZH)",
 241,"contre-proposition oui",18.4,81.6,"Aesch (ZH)",
 242,"aucun résultat",0,0,"Birmensdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 243,"aucun résultat",0,0,"Dietikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
