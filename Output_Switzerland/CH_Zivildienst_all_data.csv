@@ -567,25 +567,25 @@
 3,1147,59.173553719,358,247,64.166666667,616,960,605,TRUE,"LU","Wikon","Wikon","Wikon","Wikon LU","Wikon (LU)","Wikon (LU)","Luzern","Lucerne","Lucerna",57.202871722,FALSE,FALSE
 3,1150,62.007874016,630,386,65.365239295,1038,1588,1016,TRUE,"LU","Zell LU","Zell (LU)","Zell LU","Zell LU","Zell (LU)","Zell (LU) (LU)","Luzern","Lucerne","Lucerna",57.202871722,FALSE,FALSE
 3,1151,60.856793146,2486,1599,65.067958132,4165,6401,4085,TRUE,"LU","Willisau","Willisau","Willisau","Willisau LU","Willisau (LU)","Willisau (LU)","Luzern","Lucerne","Lucerna",57.202871722,FALSE,FALSE
-4,1201,,,,,,,,FALSE,"UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Altdorf UR","Altdorf (UR)","Altdorf (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1202,,,,,,,,FALSE,"UR","Andermatt","Andermatt","Andermatt","Andermatt UR","Andermatt (UR)","Andermatt (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1203,,,,,,,,FALSE,"UR","Attinghausen","Attinghausen","Attinghausen","Attinghausen UR","Attinghausen (UR)","Attinghausen (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1205,,,,,,,,FALSE,"UR","Bürglen UR","Bürglen (UR)","Bürglen UR","Bürglen UR","Bürglen (UR)","Bürglen (UR) (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1206,,,,,,,,FALSE,"UR","Erstfeld","Erstfeld","Erstfeld","Erstfeld UR","Erstfeld (UR)","Erstfeld (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1207,,,,,,,,FALSE,"UR","Flüelen","Flüelen","Flüelen","Flüelen UR","Flüelen (UR)","Flüelen (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1208,,,,,,,,FALSE,"UR","Göschenen","Göschenen","Göschenen","Göschenen UR","Göschenen (UR)","Göschenen (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1209,,,,,,,,FALSE,"UR","Gurtnellen","Gurtnellen","Gurtnellen","Gurtnellen UR","Gurtnellen (UR)","Gurtnellen (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1210,,,,,,,,FALSE,"UR","Hospental","Hospental","Hospental","Hospental UR","Hospental (UR)","Hospental (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1211,,,,,,,,FALSE,"UR","Isenthal","Isenthal","Isenthal","Isenthal UR","Isenthal (UR)","Isenthal (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1212,,,,,,,,FALSE,"UR","Realp","Realp","Realp","Realp UR","Realp (UR)","Realp (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1213,,,,,,,,FALSE,"UR","Schattdorf","Schattdorf","Schattdorf","Schattdorf UR","Schattdorf (UR)","Schattdorf (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1214,,,,,,,,FALSE,"UR","Seedorf UR","Seedorf (UR)","Seedorf UR","Seedorf UR","Seedorf (UR)","Seedorf (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1215,,,,,,,,FALSE,"UR","Seelisberg","Seelisberg","Seelisberg","Seelisberg UR","Seelisberg (UR)","Seelisberg (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1216,,,,,,,,FALSE,"UR","Silenen","Silenen","Silenen","Silenen UR","Silenen (UR)","Silenen (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1217,,,,,,,,FALSE,"UR","Sisikon","Sisikon","Sisikon","Sisikon UR","Sisikon (UR)","Sisikon (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1218,,,,,,,,FALSE,"UR","Spiringen","Spiringen","Spiringen","Spiringen UR","Spiringen (UR)","Spiringen (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1219,,,,,,,,FALSE,"UR","Unterschächen","Unterschächen","Unterschächen","Unterschächen UR","Unterschächen (UR)","Unterschächen (UR)","Uri","Uri","Uri",,FALSE,FALSE
-4,1220,,,,,,,,FALSE,"UR","Wassen","Wassen","Wassen","Wassen UR","Wassen (UR)","Wassen (UR)","Uri","Uri","Uri",,FALSE,FALSE
+4,1201,53.368469294,2329,2035,62.463343109,4473,7161,4364,TRUE,"UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Altdorf UR","Altdorf (UR)","Altdorf (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1202,63.669064748,354,202,59.554140127,561,942,556,TRUE,"UR","Andermatt","Andermatt","Andermatt","Andermatt UR","Andermatt (UR)","Andermatt (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1203,60.784313725,465,300,59.424678274,785,1321,765,TRUE,"UR","Attinghausen","Attinghausen","Attinghausen","Attinghausen UR","Attinghausen (UR)","Attinghausen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1205,55.032119914,1028,840,64.131897712,1906,2972,1868,TRUE,"UR","Bürglen UR","Bürglen (UR)","Bürglen UR","Bürglen UR","Bürglen (UR)","Bürglen (UR) (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1206,57.457520453,913,676,66.801783543,1648,2467,1589,TRUE,"UR","Erstfeld","Erstfeld","Erstfeld","Erstfeld UR","Erstfeld (UR)","Erstfeld (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1207,59.186046512,509,351,61.928219564,880,1421,860,TRUE,"UR","Flüelen","Flüelen","Flüelen","Flüelen UR","Flüelen (UR)","Flüelen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1208,54.696132597,99,82,64.912280702,185,285,181,TRUE,"UR","Göschenen","Göschenen","Göschenen","Göschenen UR","Göschenen (UR)","Göschenen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1209,53.55450237,113,98,52.487562189,211,402,211,TRUE,"UR","Gurtnellen","Gurtnellen","Gurtnellen","Gurtnellen UR","Gurtnellen (UR)","Gurtnellen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1210,57.352941176,39,29,61.403508772,70,114,68,TRUE,"UR","Hospental","Hospental","Hospental","Hospental UR","Hospental (UR)","Hospental (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1211,44.239631336,96,121,61.971830986,220,355,217,TRUE,"UR","Isenthal","Isenthal","Isenthal","Isenthal UR","Isenthal (UR)","Isenthal (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1212,72.463768116,50,19,70.408163265,69,98,69,TRUE,"UR","Realp","Realp","Realp","Realp UR","Realp (UR)","Realp (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1213,61.155295103,1461,928,61.534591195,2446,3975,2389,TRUE,"UR","Schattdorf","Schattdorf","Schattdorf","Schattdorf UR","Schattdorf (UR)","Schattdorf (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1214,56.701030928,495,378,59.838274933,888,1484,873,TRUE,"UR","Seedorf UR","Seedorf (UR)","Seedorf UR","Seedorf UR","Seedorf (UR)","Seedorf (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1215,65.86102719,218,113,65.961538462,343,520,331,TRUE,"UR","Seelisberg","Seelisberg","Seelisberg","Seelisberg UR","Seelisberg (UR)","Seelisberg (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1216,59.390243902,487,333,52.75490817,833,1579,820,TRUE,"UR","Silenen","Silenen","Silenen","Silenen UR","Silenen (UR)","Silenen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1217,62.732919255,101,60,70.25862069,163,232,161,TRUE,"UR","Sisikon","Sisikon","Sisikon","Sisikon UR","Sisikon (UR)","Sisikon (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1218,49.406175772,208,213,63.4643377,436,687,421,TRUE,"UR","Spiringen","Spiringen","Spiringen","Spiringen UR","Spiringen (UR)","Spiringen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1219,56.083086053,189,148,61.330935252,341,556,337,TRUE,"UR","Unterschächen","Unterschächen","Unterschächen","Unterschächen UR","Unterschächen (UR)","Unterschächen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
+4,1220,58.278145695,88,63,61.943319838,153,247,151,TRUE,"UR","Wassen","Wassen","Wassen","Wassen UR","Wassen (UR)","Wassen (UR)","Uri","Uri","Uri",56.941563987,FALSE,FALSE
 5,1301,,,,,,,,FALSE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln (SZ)","Schwyz","Schwyz","Svitto",64.247155922,FALSE,FALSE
 5,1311,61.236506379,624,395,66.645285439,1039,1559,1019,TRUE,"SZ","Gersau","Gersau","Gersau","Gersau SZ","Gersau (SZ)","Gersau (SZ)","Schwyz","Schwyz","Svitto",64.247155922,FALSE,FALSE
 5,1321,70.21365731,1676,711,67.813822285,2404,3545,2387,TRUE,"SZ","Feusisberg","Feusisberg","Feusisberg","Feusisberg SZ","Feusisberg (SZ)","Feusisberg (SZ)","Schwyz","Schwyz","Svitto",64.247155922,FALSE,FALSE
@@ -637,17 +637,17 @@
 8,1630,,,,,,,,FALSE,"GL","Glarus Nord","Glarus Nord","Glarus Nord","Glarus Nord GL","Glarus Nord (GL)","Glarus Nord (GL)","Glarus","Glaris","Glarona",,FALSE,FALSE
 8,1631,,,,,,,,FALSE,"GL","Glarus Süd","Glarus Süd","Glarus Süd","Glarus Süd GL","Glarus Süd (GL)","Glarus Süd (GL)","Glarus","Glaris","Glarona",,FALSE,FALSE
 8,1632,,,,,,,,FALSE,"GL","Glarus","Glaris","Glarona","Glarus GL","Glaris (GL)","Glarona (GL)","Glarus","Glaris","Glarona",,FALSE,FALSE
-9,1701,,,,,,,,FALSE,"ZG","Baar","Baar","Baar","Baar ZG","Baar (ZG)","Baar (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1702,,,,,,,,FALSE,"ZG","Cham","Cham","Cham","Cham ZG","Cham (ZG)","Cham (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1703,,,,,,,,FALSE,"ZG","Hünenberg","Hünenberg","Hünenberg","Hünenberg ZG","Hünenberg (ZG)","Hünenberg (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1704,,,,,,,,FALSE,"ZG","Menzingen","Menzingen","Menzingen","Menzingen ZG","Menzingen (ZG)","Menzingen (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1705,,,,,,,,FALSE,"ZG","Neuheim","Neuheim","Neuheim","Neuheim ZG","Neuheim (ZG)","Neuheim (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1706,,,,,,,,FALSE,"ZG","Oberägeri","Oberägeri","Oberägeri","Oberägeri ZG","Oberägeri (ZG)","Oberägeri (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1707,,,,,,,,FALSE,"ZG","Risch","Risch","Risch","Risch ZG","Risch (ZG)","Risch (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1708,,,,,,,,FALSE,"ZG","Steinhausen","Steinhausen","Steinhausen","Steinhausen ZG","Steinhausen (ZG)","Steinhausen (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1709,,,,,,,,FALSE,"ZG","Unterägeri","Unterägeri","Unterägeri","Unterägeri ZG","Unterägeri (ZG)","Unterägeri (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1710,,,,,,,,FALSE,"ZG","Walchwil","Walchwil","Walchwil","Walchwil ZG","Walchwil (ZG)","Walchwil (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1711,,,,,,,,FALSE,"ZG","Zug","Zoug","Zugo","Zug ZG","Zoug (ZG)","Zugo (ZG)","Zug","Zoug","Zugo",,FALSE,FALSE
+9,1701,59.944722016,5639,3768,64.046755341,9534,14886,9407,TRUE,"ZG","Baar","Baar","Baar","Baar ZG","Baar (ZG)","Baar (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1702,59.258206622,4170,2867,63.995312359,7099,11093,7037,TRUE,"ZG","Cham","Cham","Cham","Cham ZG","Cham (ZG)","Cham (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1703,61.584347411,2581,1610,69.575238722,4226,6074,4191,TRUE,"ZG","Hünenberg","Hünenberg","Hünenberg","Hünenberg ZG","Hünenberg (ZG)","Hünenberg (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1704,62.100879223,1342,819,69.443561208,2184,3145,2161,TRUE,"ZG","Menzingen","Menzingen","Menzingen","Menzingen ZG","Menzingen (ZG)","Menzingen (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1705,63.538611926,650,373,66.925566343,1034,1545,1023,TRUE,"ZG","Neuheim","Neuheim","Neuheim","Neuheim ZG","Neuheim (ZG)","Neuheim (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1706,70.057581574,1825,780,65.675,2627,4000,2605,TRUE,"ZG","Oberägeri","Oberägeri","Oberägeri","Oberägeri ZG","Oberägeri (ZG)","Oberägeri (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1707,60.552707823,2717,1770,63.603147836,4526,7116,4487,TRUE,"ZG","Risch","Risch","Risch","Risch ZG","Risch (ZG)","Risch (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1708,59.403559404,2470,1688,64.849420849,4199,6475,4158,TRUE,"ZG","Steinhausen","Steinhausen","Steinhausen","Steinhausen ZG","Steinhausen (ZG)","Steinhausen (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1709,60.009886307,2428,1618,68.112798265,4082,5993,4046,TRUE,"ZG","Unterägeri","Unterägeri","Unterägeri","Unterägeri ZG","Unterägeri (ZG)","Unterägeri (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1710,68.070818071,1115,523,73.117803366,1651,2258,1638,TRUE,"ZG","Walchwil","Walchwil","Walchwil","Walchwil ZG","Walchwil (ZG)","Walchwil (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
+9,1711,56.656346749,6771,5180,68.97279416,12093,17533,11951,TRUE,"ZG","Zug","Zoug","Zugo","Zug ZG","Zoug (ZG)","Zugo (ZG)","Zug","Zoug","Zugo",60.162416515,FALSE,FALSE
 10,2008,43.776824034,102,131,60.880829016,235,386,233,TRUE,"FR","Châtillon FR","Châtillon (FR)","Châtillon FR","Châtillon FR","Châtillon (FR)","Châtillon (FR)","Freiburg","Fribourg","Friburgo",50.14801494,FALSE,FALSE
 10,2011,54.612005857,373,310,53.846153846,700,1300,683,TRUE,"FR","Cugy FR","Cugy (FR)","Cugy FR","Cugy FR","Cugy (FR)","Cugy (FR)","Freiburg","Fribourg","Friburgo",50.14801494,FALSE,FALSE
 10,2022,55.609756098,228,182,52.119700748,418,802,410,TRUE,"FR","Gletterens","Gletterens","Gletterens","Gletterens FR","Gletterens (FR)","Gletterens (FR)","Freiburg","Fribourg","Friburgo",50.14801494,FALSE,FALSE
@@ -1186,282 +1186,282 @@
 18,3986,,,,,,,,FALSE,"GR","Tujetsch","Tujetsch","Tujetsch","Tujetsch GR","Tujetsch (GR)","Tujetsch (GR)","Graubünden","Grisons","Grigioni",60.324294613,FALSE,FALSE
 18,3987,67.720090293,300,143,51.708428246,454,878,443,TRUE,"GR","Trun","Trun","Trun","Trun GR","Trun (GR)","Trun (GR)","Graubünden","Grisons","Grigioni",60.324294613,FALSE,FALSE
 18,3988,65.287769784,363,193,59.789473684,568,950,556,TRUE,"GR","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun GR","Obersaxen Mundaun (GR)","Obersaxen Mundaun (GR)","Graubünden","Grisons","Grigioni",60.324294613,FALSE,FALSE
-19,4001,,,,,,,,FALSE,"AG","Aarau","Aarau","Aarau","Aarau AG","Aarau (AG)","Aarau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4002,57.817772778,514,375,72.800645682,902,1239,889,TRUE,"AG","Biberstein","Biberstein","Biberstein","Biberstein AG","Biberstein (AG)","Biberstein (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4003,50.50999592,1238,1213,58.247663551,2493,4280,2451,TRUE,"AG","Buchs AG","Buchs (AG)","Buchs AG","Buchs AG","Buchs (AG)","Buchs (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4004,60.932944606,209,134,62.032085561,348,561,343,TRUE,"AG","Densbüren","Densbüren","Densbüren","Densbüren AG","Densbüren (AG)","Densbüren (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4005,61.237950279,1207,764,64.285714286,1989,3094,1971,TRUE,"AG","Erlinsbach AG","Erlinsbach (AG)","Erlinsbach AG","Erlinsbach AG","Erlinsbach (AG)","Erlinsbach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4006,58.000638774,1816,1315,60.585328772,3188,5262,3131,TRUE,"AG","Gränichen","Gränichen","Gränichen","Gränichen AG","Gränichen (AG)","Gränichen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4007,60,480,320,62.770897833,811,1292,800,TRUE,"AG","Hirschthal","Hirschthal","Hirschthal","Hirschthal AG","Hirschthal (AG)","Hirschthal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4008,,,,,,,,FALSE,"AG","Küttigen","Küttigen","Küttigen","Küttigen AG","Küttigen (AG)","Küttigen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4009,,,,,,,,FALSE,"AG","Muhen","Muhen","Muhen","Muhen AG","Muhen (AG)","Muhen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4010,59.164367363,1501,1036,55.022297728,2591,4709,2537,TRUE,"AG","Oberentfelden","Oberentfelden","Oberentfelden","Oberentfelden AG","Oberentfelden (AG)","Oberentfelden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4012,,,,,,,,FALSE,"AG","Suhr","Suhr","Suhr","Suhr AG","Suhr (AG)","Suhr (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4013,52.756892231,842,754,62.830482115,1616,2572,1596,TRUE,"AG","Unterentfelden","Unterentfelden","Unterentfelden","Unterentfelden AG","Unterentfelden (AG)","Unterentfelden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4021,,,,,,,,FALSE,"AG","Baden","Baden","Baden","Baden AG","Baden (AG)","Baden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4022,,,,,,,,FALSE,"AG","Bellikon","Bellikon","Bellikon","Bellikon AG","Bellikon (AG)","Bellikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4023,66.58496732,815,409,65.575501584,1242,1894,1224,TRUE,"AG","Bergdietikon","Bergdietikon","Bergdietikon","Bergdietikon AG","Bergdietikon (AG)","Bergdietikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4024,62.283737024,720,436,60.880829016,1175,1930,1156,TRUE,"AG","Birmenstorf AG","Birmenstorf (AG)","Birmenstorf AG","Birmenstorf AG","Birmenstorf (AG)","Birmenstorf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4026,45.174186179,791,960,72.675367047,1782,2452,1751,TRUE,"AG","Ennetbaden","Ennetbaden","Ennetbaden","Ennetbaden AG","Ennetbaden (AG)","Ennetbaden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4027,53.700787402,1023,882,53.965612867,1946,3606,1905,TRUE,"AG","Fislisbach","Fislisbach","Fislisbach","Fislisbach AG","Fislisbach (AG)","Fislisbach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4028,51.412429379,273,258,68.461538462,534,780,531,TRUE,"AG","Freienwil","Freienwil","Freienwil","Freienwil AG","Freienwil (AG)","Freienwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4029,57.24137931,1079,806,56.849925706,1913,3365,1885,TRUE,"AG","Gebenstorf","Gebenstorf","Gebenstorf","Gebenstorf AG","Gebenstorf (AG)","Gebenstorf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4030,55.52193646,367,294,51.136363636,675,1320,661,TRUE,"AG","Killwangen","Killwangen","Killwangen","Killwangen AG","Killwangen (AG)","Killwangen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4031,60.126582278,475,315,62.676056338,801,1278,790,TRUE,"AG","Künten","Künten","Künten","Künten AG","Künten (AG)","Künten (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4032,55.957161981,418,329,57.11026616,751,1315,747,TRUE,"AG","Mägenwil","Mägenwil","Mägenwil","Mägenwil AG","Mägenwil (AG)","Mägenwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4033,56.630620376,995,762,53.562874251,1789,3340,1757,TRUE,"AG","Mellingen","Mellingen","Mellingen","Mellingen AG","Mellingen (AG)","Mellingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4034,54.512195122,894,746,45.566502463,1665,3654,1640,TRUE,"AG","Neuenhof","Neuenhof","Neuenhof","Neuenhof AG","Neuenhof (AG)","Neuenhof (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4035,57.390417941,1126,836,64.140599807,1989,3101,1962,TRUE,"AG","Niederrohrdorf","Niederrohrdorf","Niederrohrdorf","Niederrohrdorf AG","Niederrohrdorf (AG)","Niederrohrdorf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4037,61.356297094,1140,718,68.040491685,1882,2766,1858,TRUE,"AG","Oberrohrdorf","Oberrohrdorf","Oberrohrdorf","Oberrohrdorf AG","Oberrohrdorf (AG)","Oberrohrdorf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4038,52.598055649,1569,1414,60.590936315,3035,5009,2983,TRUE,"AG","Obersiggenthal","Obersiggenthal","Obersiggenthal","Obersiggenthal AG","Obersiggenthal (AG)","Obersiggenthal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4039,61.46393972,571,358,63.93220339,943,1475,929,TRUE,"AG","Remetschwil","Remetschwil","Remetschwil","Remetschwil AG","Remetschwil (AG)","Remetschwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4040,53.559483994,1121,972,42.100098135,2145,5095,2093,TRUE,"AG","Spreitenbach","Spreitenbach","Spreitenbach","Spreitenbach AG","Spreitenbach (AG)","Spreitenbach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4041,62.361623616,507,306,54.780876494,825,1506,813,TRUE,"AG","Stetten AG","Stetten (AG)","Stetten AG","Stetten AG","Stetten (AG)","Stetten (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4044,54.447739066,1469,1229,62.425900593,2738,4386,2698,TRUE,"AG","Untersiggenthal","Untersiggenthal","Untersiggenthal","Untersiggenthal AG","Untersiggenthal (AG)","Untersiggenthal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4045,,,,,,,,FALSE,"AG","Wettingen","Wettingen","Wettingen","Wettingen AG","Wettingen (AG)","Wettingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4046,58.939393939,389,271,59.593280283,674,1131,660,TRUE,"AG","Wohlenschwil","Wohlenschwil","Wohlenschwil","Wohlenschwil AG","Wohlenschwil (AG)","Wohlenschwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4047,62.946673997,1145,674,60.306089222,1852,3071,1819,TRUE,"AG","Würenlingen","Würenlingen","Würenlingen","Würenlingen AG","Würenlingen (AG)","Würenlingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4048,,,,,,,,FALSE,"AG","Würenlos","Würenlos","Würenlos","Würenlos AG","Würenlos (AG)","Würenlos (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4049,54.652351738,1069,887,62.058276503,2002,3226,1956,TRUE,"AG","Ehrendingen","Ehrendingen","Ehrendingen","Ehrendingen AG","Ehrendingen (AG)","Ehrendingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4061,59.737417943,546,368,68.740740741,928,1350,914,TRUE,"AG","Arni AG","Arni (AG)","Arni AG","Arni AG","Arni (AG)","Arni (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4062,58.337801609,1088,777,59.634760705,1894,3176,1865,TRUE,"AG","Berikon","Berikon","Berikon","Berikon AG","Berikon (AG)","Berikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4063,,,,,,,,FALSE,"AG","Bremgarten AG","Bremgarten (AG)","Bremgarten AG","Bremgarten AG","Bremgarten (AG)","Bremgarten (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4064,65.494505495,298,157,63.237311385,461,729,455,TRUE,"AG","Büttikon","Büttikon","Büttikon","Büttikon AG","Büttikon (AG)","Büttikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4065,59.911111111,674,451,57.135703555,1141,1997,1125,TRUE,"AG","Dottikon","Dottikon","Dottikon","Dottikon AG","Dottikon (AG)","Dottikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4066,56,238,187,61.925287356,431,696,425,TRUE,"AG","Eggenwil","Eggenwil","Eggenwil","Eggenwil AG","Eggenwil (AG)","Eggenwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4067,60.844250364,418,269,57.785179017,694,1201,687,TRUE,"AG","Fischbach-Göslikon","Fischbach-Göslikon","Fischbach-Göslikon","Fischbach-Göslikon AG","Fischbach-Göslikon (AG)","Fischbach-Göslikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4068,60.440528634,686,449,62.875888464,1150,1829,1135,TRUE,"AG","Hägglingen","Hägglingen","Hägglingen","Hägglingen AG","Hägglingen (AG)","Hägglingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4071,58.039215686,592,428,65.648854962,1032,1572,1020,TRUE,"AG","Jonen","Jonen","Jonen","Jonen AG","Jonen (AG)","Jonen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4072,61.876075731,719,443,60.607621009,1177,1942,1162,TRUE,"AG","Niederwil AG","Niederwil (AG)","Niederwil AG","Niederwil AG","Niederwil (AG)","Niederwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4073,58.309859155,621,444,68.686868687,1088,1584,1065,TRUE,"AG","Oberlunkhofen","Oberlunkhofen","Oberlunkhofen","Oberlunkhofen AG","Oberlunkhofen (AG)","Oberlunkhofen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4074,64.308176101,818,454,67.393561786,1298,1926,1272,TRUE,"AG","Oberwil-Lieli","Oberwil-Lieli","Oberwil-Lieli","Oberwil-Lieli AG","Oberwil-Lieli (AG)","Oberwil-Lieli (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4075,58.458244111,819,582,55.181747873,1427,2586,1401,TRUE,"AG","Rudolfstetten-Friedlisberg","Rudolfstetten-Friedlisberg","Rudolfstetten-Friedlisberg","Rudolfstetten-Friedlisberg AG","Rudolfstetten-Friedlisberg (AG)","Rudolfstetten-Friedlisberg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4076,61.13152094,832,529,64.386129335,1374,2134,1361,TRUE,"AG","Sarmenstorf","Sarmenstorf","Sarmenstorf","Sarmenstorf AG","Sarmenstorf (AG)","Sarmenstorf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4077,62.234042553,351,213,58.847320526,582,989,564,TRUE,"AG","Tägerig","Tägerig","Tägerig","Tägerig AG","Tägerig (AG)","Tägerig (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4078,58.07860262,133,96,63.440860215,236,372,229,TRUE,"AG","Uezwil","Uezwil","Uezwil","Uezwil AG","Uezwil (AG)","Uezwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4079,57.483443709,434,321,65.670367208,769,1171,755,TRUE,"AG","Unterlunkhofen","Unterlunkhofen","Unterlunkhofen","Unterlunkhofen AG","Unterlunkhofen (AG)","Unterlunkhofen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4080,62.804068996,1420,841,52.849264706,2300,4352,2261,TRUE,"AG","Villmergen","Villmergen","Villmergen","Villmergen AG","Villmergen (AG)","Villmergen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4081,59.774881517,1009,679,64.41509434,1707,2650,1688,TRUE,"AG","Widen","Widen","Widen","Widen AG","Widen (AG)","Widen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4082,,,,,,,,FALSE,"AG","Wohlen AG","Wohlen (AG)","Wohlen AG","Wohlen AG","Wohlen (AG)","Wohlen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4083,56.280667321,1147,891,65.498737374,2075,3168,2038,TRUE,"AG","Zufikon","Zufikon","Zufikon","Zufikon AG","Zufikon (AG)","Zufikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4084,63.582089552,213,122,72.162740899,337,467,335,TRUE,"AG","Islisberg","Islisberg","Islisberg","Islisberg AG","Islisberg (AG)","Islisberg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4091,63.913595934,503,284,63.89111289,798,1249,787,TRUE,"AG","Auenstein","Auenstein","Auenstein","Auenstein AG","Auenstein (AG)","Auenstein (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4092,62.982273201,604,355,46.804420951,974,2081,959,TRUE,"AG","Birr","Birr","Birr","Birr AG","Birr (AG)","Birr (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4093,67.134831461,239,117,61.073825503,364,596,356,TRUE,"AG","Birrhard","Birrhard","Birrhard","Birrhard AG","Birrhard (AG)","Birrhard (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4095,,,,,,,,FALSE,"AG","Brugg","Brugg","Brugg","Brugg AG","Brugg (AG)","Brugg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4099,65.271966527,156,83,75.632911392,239,316,239,TRUE,"AG","Habsburg","Habsburg","Habsburg","Habsburg AG","Habsburg (AG)","Habsburg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4100,63.07922272,844,494,60.070206231,1369,2279,1338,TRUE,"AG","Hausen AG","Hausen (AG)","Hausen AG","Hausen AG","Hausen (AG)","Hausen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4104,64.182509506,844,471,59.893048128,1344,2244,1315,TRUE,"AG","Lupfig","Lupfig","Lupfig","Lupfig AG","Lupfig (AG)","Lupfig (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4105,63.97515528,103,58,70.995670996,164,231,161,TRUE,"AG","Mandach","Mandach","Mandach","Mandach AG","Mandach (AG)","Mandach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4106,63.855421687,106,60,59.786476868,168,281,166,TRUE,"AG","Mönthal","Mönthal","Mönthal","Mönthal AG","Mönthal (AG)","Mönthal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4107,57.176470588,243,182,59.141274238,427,722,425,TRUE,"AG","Mülligen","Mülligen","Mülligen","Mülligen AG","Mülligen (AG)","Mülligen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4110,64.864864865,360,195,62.666666667,564,900,555,TRUE,"AG","Remigen","Remigen","Remigen","Remigen AG","Remigen (AG)","Remigen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4111,59.083469722,361,250,64.168377823,625,974,611,TRUE,"AG","Riniken","Riniken","Riniken","Riniken AG","Riniken (AG)","Riniken (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4112,60.740740741,246,159,68.333333333,410,600,405,TRUE,"AG","Rüfenach","Rüfenach","Rüfenach","Rüfenach AG","Rüfenach (AG)","Rüfenach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4117,61.396303901,299,188,70.454545455,496,704,487,TRUE,"AG","Thalheim AG","Thalheim (AG)","Thalheim AG","Thalheim AG","Thalheim (AG)","Thalheim (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4120,57.911908646,355,258,60.882352941,621,1020,613,TRUE,"AG","Veltheim AG","Veltheim (AG)","Veltheim AG","Veltheim AG","Veltheim (AG)","Veltheim (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4121,63.151658768,533,311,61.087267525,854,1398,844,TRUE,"AG","Villigen","Villigen","Villigen","Villigen AG","Villigen (AG)","Villigen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4123,,,,,,,,FALSE,"AG","Windisch","Windisch","Windisch","Windisch AG","Windisch (AG)","Windisch (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4124,58.997429306,459,319,65.469387755,802,1225,778,TRUE,"AG","Bözberg","Bözberg","Bözberg","Bözberg AG","Bözberg (AG)","Bözberg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4125,60.55705301,674,439,66.78550208,1124,1683,1113,TRUE,"AG","Schinznach","Schinznach","Schinznach","Schinznach AG","Schinznach (AG)","Schinznach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4131,54.72541507,857,709,63.273453094,1585,2505,1566,TRUE,"AG","Beinwil am See","Beinwil am See","Beinwil am See","Beinwil am See AG","Beinwil am See (AG)","Beinwil am See (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4132,57.741935484,358,262,65.58915537,629,959,620,TRUE,"AG","Birrwil","Birrwil","Birrwil","Birrwil AG","Birrwil (AG)","Birrwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4134,67.441860465,435,210,69.206349206,654,945,645,TRUE,"AG","Dürrenäsch","Dürrenäsch","Dürrenäsch","Dürrenäsch AG","Dürrenäsch (AG)","Dürrenäsch (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4135,64.09978308,591,331,62.893503014,939,1493,922,TRUE,"AG","Gontenschwil","Gontenschwil","Gontenschwil","Gontenschwil AG","Gontenschwil (AG)","Gontenschwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4136,67.226890756,400,195,54.727272727,602,1100,595,TRUE,"AG","Holziken","Holziken","Holziken","Holziken AG","Holziken (AG)","Holziken (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4137,59.90990991,133,89,62.568306011,229,366,222,TRUE,"AG","Leimbach AG","Leimbach (AG)","Leimbach AG","Leimbach AG","Leimbach (AG)","Leimbach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4138,68.393782383,264,122,68.275862069,396,580,386,TRUE,"AG","Leutwil","Leutwil","Leutwil","Leutwil AG","Leutwil (AG)","Leutwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4139,61.396208969,1328,835,51.944378977,2204,4243,2163,TRUE,"AG","Menziken","Menziken","Menziken","Menziken AG","Menziken (AG)","Menziken (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4140,62.455516014,702,422,61.724327293,1124,1821,1124,TRUE,"AG","Oberkulm","Oberkulm","Oberkulm","Oberkulm AG","Oberkulm (AG)","Oberkulm (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4141,60.433244916,1367,895,51.247516008,2321,4529,2262,TRUE,"AG","Reinach AG","Reinach (AG)","Reinach AG","Reinach AG","Reinach (AG)","Reinach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4142,63.408521303,253,146,63.636363636,406,638,399,TRUE,"AG","Schlossrued","Schlossrued","Schlossrued","Schlossrued AG","Schlossrued (AG)","Schlossrued (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4143,65.261044177,325,173,59.906759907,514,858,498,TRUE,"AG","Schmiedrued","Schmiedrued","Schmiedrued","Schmiedrued AG","Schmiedrued (AG)","Schmiedrued (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4144,58.208955224,1053,756,58.639412328,1836,3131,1809,TRUE,"AG","Schöftland","Schöftland","Schöftland","Schöftland AG","Schöftland (AG)","Schöftland (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4145,57.342657343,328,244,56.809338521,584,1028,572,TRUE,"AG","Teufenthal AG","Teufenthal (AG)","Teufenthal AG","Teufenthal AG","Teufenthal (AG)","Teufenthal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4146,61.604095563,722,450,56.585829767,1190,2103,1172,TRUE,"AG","Unterkulm","Unterkulm","Unterkulm","Unterkulm AG","Unterkulm (AG)","Unterkulm (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4147,62.75862069,364,216,61.706555671,593,961,580,TRUE,"AG","Zetzwil","Zetzwil","Zetzwil","Zetzwil AG","Zetzwil (AG)","Zetzwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4161,57.195571956,465,348,53.701298701,827,1540,813,TRUE,"AG","Eiken","Eiken","Eiken","Eiken AG","Eiken (AG)","Eiken (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4163,55.58240696,1150,919,57.431693989,2102,3660,2069,TRUE,"AG","Frick","Frick","Frick","Frick AG","Frick (AG)","Frick (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4164,60.392156863,308,202,67.941952507,515,758,510,TRUE,"AG","Gansingen","Gansingen","Gansingen","Gansingen AG","Gansingen (AG)","Gansingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4165,57.434402332,985,730,65.848129958,1743,2647,1715,TRUE,"AG","Gipf-Oberfrick","Gipf-Oberfrick","Gipf-Oberfrick","Gipf-Oberfrick AG","Gipf-Oberfrick (AG)","Gipf-Oberfrick (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4169,59.387923904,718,491,61.63901458,1226,1989,1209,TRUE,"AG","Kaisten","Kaisten","Kaisten","Kaisten AG","Kaisten (AG)","Kaisten (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4170,61.243611584,719,455,59.059405941,1193,2020,1174,TRUE,"AG","Laufenburg","Laufenburg","Laufenburg","Laufenburg AG","Laufenburg (AG)","Laufenburg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4172,62.65060241,208,124,56.208053691,335,596,332,TRUE,"AG","Münchwilen AG","Münchwilen (AG)","Münchwilen AG","Münchwilen AG","Münchwilen (AG)","Münchwilen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4173,55.271565495,173,140,72.209567198,317,439,313,TRUE,"AG","Oberhof","Oberhof","Oberhof","Oberhof AG","Oberhof (AG)","Oberhof (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4175,58.979591837,289,201,59.495192308,495,832,490,TRUE,"AG","Oeschgen","Oeschgen","Oeschgen","Oeschgen AG","Oeschgen (AG)","Oeschgen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4176,63.76146789,139,79,53.04136253,218,411,218,TRUE,"AG","Schwaderloch","Schwaderloch","Schwaderloch","Schwaderloch AG","Schwaderloch (AG)","Schwaderloch (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4177,58.857142857,309,216,57.373519914,533,929,525,TRUE,"AG","Sisseln","Sisseln","Sisseln","Sisseln AG","Sisseln (AG)","Sisseln (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4181,63.065693431,432,253,66.954851105,697,1041,685,TRUE,"AG","Wittnau","Wittnau","Wittnau","Wittnau AG","Wittnau (AG)","Wittnau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4182,58.20610687,305,219,65.892420538,539,818,524,TRUE,"AG","Wölflinswil","Wölflinswil","Wölflinswil","Wölflinswil AG","Wölflinswil (AG)","Wölflinswil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4183,53.333333333,256,224,59.950556242,485,809,480,TRUE,"AG","Zeihen","Zeihen","Zeihen","Zeihen AG","Zeihen (AG)","Zeihen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4184,57.482993197,507,375,63.154221912,905,1433,882,TRUE,"AG","Mettauertal","Mettauertal","Mettauertal","Mettauertal AG","Mettauertal (AG)","Mettauertal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4185,62.157382847,703,428,61.099365751,1156,1892,1131,TRUE,"AG","Böztal","Böztal","Böztal","Böztal AG","Böztal (AG)","Böztal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4186,54.095701541,667,566,68.481219379,1258,1837,1233,TRUE,"AG","Herznach-Ueken","Herznach-Ueken","Herznach-Ueken","Herznach-Ueken AG","Herznach-Ueken (AG)","Herznach-Ueken (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4191,53.250773994,172,151,62.620423892,325,519,323,TRUE,"AG","Ammerswil","Ammerswil","Ammerswil","Ammerswil AG","Ammerswil (AG)","Ammerswil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4192,59.225806452,459,316,65.429042904,793,1212,775,TRUE,"AG","Boniswil","Boniswil","Boniswil","Boniswil AG","Boniswil (AG)","Boniswil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4193,64.96350365,178,96,52.551984877,278,529,274,TRUE,"AG","Brunegg","Brunegg","Brunegg","Brunegg AG","Brunegg (AG)","Brunegg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4194,59.395532194,452,309,57.048940833,781,1369,761,TRUE,"AG","Dintikon","Dintikon","Dintikon","Dintikon AG","Dintikon (AG)","Dintikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4195,56.647398844,392,300,60.290350128,706,1171,692,TRUE,"AG","Egliswil","Egliswil","Egliswil","Egliswil AG","Egliswil (AG)","Egliswil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4196,56.896551724,462,350,55.363091272,831,1501,812,TRUE,"AG","Fahrwangen","Fahrwangen","Fahrwangen","Fahrwangen AG","Fahrwangen (AG)","Fahrwangen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4197,55.172413793,208,169,57.918552036,384,663,377,TRUE,"AG","Hallwil","Hallwil","Hallwil","Hallwil AG","Hallwil (AG)","Hallwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4198,48.837209302,231,242,56.837098692,478,841,473,TRUE,"AG","Hendschiken","Hendschiken","Hendschiken","Hendschiken AG","Hendschiken (AG)","Hendschiken (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4199,63.325183374,259,150,47.85631518,413,863,409,TRUE,"AG","Holderbank AG","Holderbank (AG)","Holderbank AG","Holderbank AG","Holderbank (AG)","Holderbank (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4200,60.458958517,685,448,48.404701931,1153,2382,1133,TRUE,"AG","Hunzenschwil","Hunzenschwil","Hunzenschwil","Hunzenschwil AG","Hunzenschwil (AG)","Hunzenschwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4201,48.597194389,1940,2052,61.937452326,4060,6555,3992,TRUE,"AG","Lenzburg","Lenzburg","Lenzburg","Lenzburg AG","Lenzburg (AG)","Lenzburg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4202,62.905405405,931,549,63.853367434,1498,2346,1480,TRUE,"AG","Meisterschwanden","Meisterschwanden","Meisterschwanden","Meisterschwanden AG","Meisterschwanden (AG)","Meisterschwanden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4203,60.939947781,1167,748,63.180051813,1951,3088,1915,TRUE,"AG","Möriken-Wildegg","Möriken-Wildegg","Möriken-Wildegg","Möriken-Wildegg AG","Möriken-Wildegg (AG)","Möriken-Wildegg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4204,51.476251605,802,756,57.168784029,1575,2755,1558,TRUE,"AG","Niederlenz","Niederlenz","Niederlenz","Niederlenz AG","Niederlenz (AG)","Niederlenz (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4205,55.294117647,564,456,53.560371517,1038,1938,1020,TRUE,"AG","Othmarsingen","Othmarsingen","Othmarsingen","Othmarsingen AG","Othmarsingen (AG)","Othmarsingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4206,60.751665081,1277,825,57.822210213,2140,3701,2102,TRUE,"AG","Rupperswil","Rupperswil","Rupperswil","Rupperswil AG","Rupperswil (AG)","Rupperswil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4207,57.833333333,694,506,62.013151239,1226,1977,1200,TRUE,"AG","Schafisheim","Schafisheim","Schafisheim","Schafisheim AG","Schafisheim (AG)","Schafisheim (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4208,62.970014279,1323,778,65.950824774,2119,3213,2101,TRUE,"AG","Seengen","Seengen","Seengen","Seengen AG","Seengen (AG)","Seengen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4209,58.421317245,1162,827,58.743089904,2019,3437,1989,TRUE,"AG","Seon","Seon","Seon","Seon AG","Seon (AG)","Seon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4210,54.524495677,946,789,63.682493657,1757,2759,1735,TRUE,"AG","Staufen","Staufen","Staufen","Staufen AG","Staufen (AG)","Staufen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4221,61.047835991,268,171,61.506276151,441,717,439,TRUE,"AG","Abtwil","Abtwil","Abtwil","Abtwil AG","Abtwil (AG)","Abtwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4222,60,378,252,60.754716981,644,1060,630,TRUE,"AG","Aristau","Aristau","Aristau","Aristau AG","Aristau (AG)","Aristau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4223,60.457142857,529,346,60.647829083,880,1451,875,TRUE,"AG","Auw","Auw","Auw","Auw AG","Auw (AG)","Auw (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4224,66.725043783,381,190,65.345413364,577,883,571,TRUE,"AG","Beinwil (Freiamt)","Beinwil (Freiamt)","Beinwil (Freiamt)","Beinwil (Freiamt) AG","Beinwil (Freiamt) (AG)","Beinwil (Freiamt) (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4226,58.032786885,177,128,63.524590164,310,488,305,TRUE,"AG","Besenbüren","Besenbüren","Besenbüren","Besenbüren AG","Besenbüren (AG)","Besenbüren (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4227,65.217391304,225,120,66.353383459,353,532,345,TRUE,"AG","Bettwil","Bettwil","Bettwil","Bettwil AG","Bettwil (AG)","Bettwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4228,64.126712329,749,419,58.137254902,1186,2040,1168,TRUE,"AG","Boswil","Boswil","Boswil","Boswil AG","Boswil (AG)","Boswil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4229,56.310679612,290,225,64.127764128,522,814,515,TRUE,"AG","Bünzen","Bünzen","Bünzen","Bünzen AG","Bünzen (AG)","Bünzen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4230,60.320284698,339,223,64.766248575,568,877,562,TRUE,"AG","Buttwil","Buttwil","Buttwil","Buttwil AG","Buttwil (AG)","Buttwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4231,61.88034188,362,223,61.483007209,597,971,585,TRUE,"AG","Dietwil","Dietwil","Dietwil","Dietwil AG","Dietwil (AG)","Dietwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4232,59.615384615,62,42,65.82278481,104,158,104,TRUE,"AG","Geltwil","Geltwil","Geltwil","Geltwil AG","Geltwil (AG)","Geltwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4233,64.766839378,125,68,70,196,280,193,TRUE,"AG","Kallern","Kallern","Kallern","Kallern AG","Kallern (AG)","Kallern (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4234,60.275862069,874,576,60.576131687,1472,2430,1450,TRUE,"AG","Merenschwand","Merenschwand","Merenschwand","Merenschwand AG","Merenschwand (AG)","Merenschwand (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4235,64.453125,330,182,59.884393064,518,865,512,TRUE,"AG","Mühlau","Mühlau","Mühlau","Mühlau AG","Mühlau (AG)","Mühlau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4236,55.787476281,1764,1398,58.4,3212,5500,3162,TRUE,"AG","Muri AG","Muri (AG)","Muri AG","Muri AG","Muri (AG)","Muri (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4237,58.305647841,351,251,58.829174664,613,1042,602,TRUE,"AG","Oberrüti","Oberrüti","Oberrüti","Oberrüti AG","Oberrüti (AG)","Oberrüti (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4238,62.888888889,283,167,62.983425414,456,724,450,TRUE,"AG","Rottenschwil","Rottenschwil","Rottenschwil","Rottenschwil AG","Rottenschwil (AG)","Rottenschwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4239,62.073027091,1054,644,59.300311742,1712,2887,1698,TRUE,"AG","Sins","Sins","Sins","Sins AG","Sins (AG)","Sins (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4240,57.37704918,735,546,59.448275862,1293,2175,1281,TRUE,"AG","Waltenschwil","Waltenschwil","Waltenschwil","Waltenschwil AG","Waltenschwil (AG)","Waltenschwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4251,65.809768638,256,133,64.763458401,397,613,389,TRUE,"AG","Hellikon","Hellikon","Hellikon","Hellikon AG","Hellikon (AG)","Hellikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4252,53.633633634,893,772,50.610300685,1700,3359,1665,TRUE,"AG","Kaiseraugst","Kaiseraugst","Kaiseraugst","Kaiseraugst AG","Kaiseraugst (AG)","Kaiseraugst (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4253,56.773468241,1010,769,68.207654415,1800,2639,1779,TRUE,"AG","Magden","Magden","Magden","Magden AG","Magden (AG)","Magden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4254,,,,,,,,FALSE,"AG","Möhlin","Möhlin","Möhlin","Möhlin AG","Möhlin (AG)","Möhlin (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4255,57.462686567,231,171,49.457177322,410,829,402,TRUE,"AG","Mumpf","Mumpf","Mumpf","Mumpf AG","Mumpf (AG)","Mumpf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4256,56.233421751,212,165,53.706293706,384,715,377,TRUE,"AG","Obermumpf","Obermumpf","Obermumpf","Obermumpf AG","Obermumpf (AG)","Obermumpf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4257,60.119047619,101,67,68.8,172,250,168,TRUE,"AG","Olsberg","Olsberg","Olsberg","Olsberg AG","Olsberg (AG)","Olsberg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4258,51.390197926,2181,2063,56.010893529,4319,7711,4244,TRUE,"AG","Rheinfelden","Rheinfelden","Rheinfelden","Rheinfelden AG","Rheinfelden (AG)","Rheinfelden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4259,63.275434243,255,148,64.465408805,410,636,403,TRUE,"AG","Schupfart","Schupfart","Schupfart","Schupfart AG","Schupfart (AG)","Schupfart (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4260,58.372641509,495,353,51.22242099,859,1677,848,TRUE,"AG","Stein AG","Stein (AG)","Stein AG","Stein AG","Stein (AG)","Stein (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4261,60.606060606,520,338,63.290229885,881,1392,858,TRUE,"AG","Wallbach","Wallbach","Wallbach","Wallbach AG","Wallbach (AG)","Wallbach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4262,56.803455724,263,200,61.960784314,474,765,463,TRUE,"AG","Wegenstetten","Wegenstetten","Wegenstetten","Wegenstetten AG","Wegenstetten (AG)","Wegenstetten (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4263,55.106382979,518,422,57.45823389,963,1676,940,TRUE,"AG","Zeiningen","Zeiningen","Zeiningen","Zeiningen AG","Zeiningen (AG)","Zeiningen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4264,53.592814371,179,155,55.921052632,340,608,334,TRUE,"AG","Zuzgen","Zuzgen","Zuzgen","Zuzgen AG","Zuzgen (AG)","Zuzgen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4271,52.591463415,1035,933,49.031625398,2000,4079,1968,TRUE,"AG","Aarburg","Aarburg","Aarburg","Aarburg AG","Aarburg (AG)","Aarburg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4273,62.972972973,233,137,61.389337641,380,619,370,TRUE,"AG","Bottenwil","Bottenwil","Bottenwil","Bottenwil AG","Bottenwil (AG)","Bottenwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4274,58.262350937,1026,735,58.298011086,1788,3067,1761,TRUE,"AG","Brittnau","Brittnau","Brittnau","Brittnau AG","Brittnau (AG)","Brittnau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4275,65.6,246,129,61.12,382,625,375,TRUE,"AG","Kirchleerau","Kirchleerau","Kirchleerau","Kirchleerau AG","Kirchleerau (AG)","Kirchleerau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4276,55.548996458,941,753,56.085686465,1728,3081,1694,TRUE,"AG","Kölliken","Kölliken","Kölliken","Kölliken AG","Kölliken (AG)","Kölliken (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4277,62.303664921,238,144,59.083969466,387,655,382,TRUE,"AG","Moosleerau","Moosleerau","Moosleerau","Moosleerau AG","Moosleerau (AG)","Moosleerau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4279,55.801104972,606,480,54.518518519,1104,2025,1086,TRUE,"AG","Murgenthal","Murgenthal","Murgenthal","Murgenthal AG","Murgenthal (AG)","Murgenthal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4280,56.660849331,1948,1490,48.369640627,3486,7207,3438,TRUE,"AG","Oftringen","Oftringen","Oftringen","Oftringen AG","Oftringen (AG)","Oftringen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4281,60.519125683,443,289,63.30749354,735,1161,732,TRUE,"AG","Reitnau","Reitnau","Reitnau","Reitnau AG","Reitnau (AG)","Reitnau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4282,59.340277778,1709,1171,50.136798906,2932,5848,2880,TRUE,"AG","Rothrist","Rothrist","Rothrist","Rothrist AG","Rothrist (AG)","Rothrist (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4283,61.610352265,857,534,53.668683812,1419,2644,1391,TRUE,"AG","Safenwil","Safenwil","Safenwil","Safenwil AG","Safenwil (AG)","Safenwil (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4284,65.511265165,378,199,60.144181256,584,971,577,TRUE,"AG","Staffelbach","Staffelbach","Staffelbach","Staffelbach AG","Staffelbach (AG)","Staffelbach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4285,55.0089982,917,750,56.878573831,1691,2973,1667,TRUE,"AG","Strengelbach","Strengelbach","Strengelbach","Strengelbach AG","Strengelbach (AG)","Strengelbach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4286,58.823529412,370,259,59.627906977,641,1075,629,TRUE,"AG","Uerkheim","Uerkheim","Uerkheim","Uerkheim AG","Uerkheim (AG)","Uerkheim (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4287,60.859728507,538,346,59.418374091,899,1513,884,TRUE,"AG","Vordemwald","Vordemwald","Vordemwald","Vordemwald AG","Vordemwald (AG)","Vordemwald (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4288,71.028037383,76,31,77.464788732,110,142,107,TRUE,"AG","Wiliberg","Wiliberg","Wiliberg","Wiliberg AG","Wiliberg (AG)","Wiliberg (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4289,49.847908745,2622,2638,63.122923588,5320,8428,5260,TRUE,"AG","Zofingen","Zofingue","Zofingue","Zofingen AG","Zofingue (AG)","Zofingue (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4303,61.946133797,713,438,56.621880998,1180,2084,1151,TRUE,"AG","Böttstein","Böttstein","Böttstein","Böttstein AG","Böttstein (AG)","Böttstein (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4304,56.627592426,628,481,54.417475728,1121,2060,1109,TRUE,"AG","Döttingen","Döttingen","Döttingen","Döttingen AG","Döttingen (AG)","Döttingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4305,,,,,,,,FALSE,"AG","Endingen","Endingen","Endingen","Endingen AG","Endingen (AG)","Endingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4306,60.451977401,107,70,55.108359133,178,323,177,TRUE,"AG","Fisibach","Fisibach","Fisibach","Fisibach AG","Fisibach (AG)","Fisibach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4307,59.240506329,234,161,61.419753086,398,648,395,TRUE,"AG","Full-Reuenthal","Full-Reuenthal","Full-Reuenthal","Full-Reuenthal AG","Full-Reuenthal (AG)","Full-Reuenthal (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4309,55.36,692,558,61.020211742,1268,2078,1250,TRUE,"AG","Klingnau","Klingnau","Klingnau","Klingnau AG","Klingnau (AG)","Klingnau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4310,55.112219451,221,180,52.185089974,406,778,401,TRUE,"AG","Koblenz","Koblenz","Koblenz","Koblenz AG","Koblenz (AG)","Koblenz (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4311,71.028037383,304,124,56.732026144,434,765,428,TRUE,"AG","Leibstadt","Leibstadt","Leibstadt","Leibstadt AG","Leibstadt (AG)","Leibstadt (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4312,61.587810746,768,479,64.123294593,1269,1979,1247,TRUE,"AG","Lengnau AG","Lengnau (AG)","Lengnau AG","Lengnau AG","Lengnau (AG)","Lengnau (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4313,60.443037975,573,375,65.751544269,958,1457,948,TRUE,"AG","Leuggern","Leuggern","Leuggern","Leuggern AG","Leuggern (AG)","Leuggern (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4314,57,57,43,65.030674847,106,163,100,TRUE,"AG","Mellikon","Mellikon","Mellikon","Mellikon AG","Mellikon (AG)","Mellikon (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4318,63.347763348,439,254,63.44950849,710,1119,693,TRUE,"AG","Schneisingen","Schneisingen","Schneisingen","Schneisingen AG","Schneisingen (AG)","Schneisingen (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4319,63.190184049,206,120,61.958568738,329,531,326,TRUE,"AG","Siglistorf","Siglistorf","Siglistorf","Siglistorf AG","Siglistorf (AG)","Siglistorf (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4320,59.594095941,323,219,64.093567251,548,855,542,TRUE,"AG","Tegerfelden","Tegerfelden","Tegerfelden","Tegerfelden AG","Tegerfelden (AG)","Tegerfelden (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-19,4324,,,,,,,,FALSE,"AG","Zurzach","Zurzach","Zurzach","Zurzach AG","Zurzach (AG)","Zurzach (AG)","Aargau","Argovie","Argovia",58.052116413,FALSE,FALSE
-20,4401,,,,,,,,FALSE,"TG","Arbon","Arbon","Arbon","Arbon TG","Arbon (TG)","Arbon (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4406,63.829787234,210,119,73.548387097,342,465,329,TRUE,"TG","Dozwil","Dozwil","Dozwil","Dozwil TG","Dozwil (TG)","Dozwil (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4411,65.13064133,1371,734,62.698183915,2175,3469,2105,TRUE,"TG","Egnach","Egnach","Egnach","Egnach TG","Egnach (TG)","Egnach (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4416,64.828897338,341,185,60.622914349,545,899,526,TRUE,"TG","Hefenhofen","Hefenhofen","Hefenhofen","Hefenhofen TG","Hefenhofen (TG)","Hefenhofen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4421,65.948963317,827,427,59.402298851,1292,2175,1254,TRUE,"TG","Horn","Horn","Horn","Horn TG","Horn (TG)","Horn (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4426,60.138248848,261,173,68.325791855,453,663,434,TRUE,"TG","Kesswil","Kesswil","Kesswil","Kesswil TG","Kesswil (TG)","Kesswil (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4431,63.326374391,910,527,61.78556529,1481,2397,1437,TRUE,"TG","Roggwil TG","Roggwil (TG)","Roggwil TG","Roggwil TG","Roggwil (TG)","Roggwil (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4436,56.091370558,1989,1557,56.516348985,3647,6453,3546,TRUE,"TG","Romanshorn","Romanshorn","Romanshorn","Romanshorn TG","Romanshorn (TG)","Romanshorn (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4441,51.467268623,228,215,52.451539339,460,877,443,TRUE,"TG","Salmsach","Salmsach","Salmsach","Salmsach TG","Salmsach (TG)","Salmsach (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4446,59.706959707,163,110,64.7597254,283,437,273,TRUE,"TG","Sommeri","Sommeri","Sommeri","Sommeri TG","Sommeri (TG)","Sommeri (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4451,63.22815534,521,303,66.956521739,847,1265,824,TRUE,"TG","Uttwil","Uttwil","Uttwil","Uttwil TG","Uttwil (TG)","Uttwil (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4461,60.029069767,2478,1650,51.951399116,4233,8148,4128,TRUE,"TG","Amriswil","Amriswil","Amriswil","Amriswil TG","Amriswil (TG)","Amriswil (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4471,58.565153734,1200,849,56.742179072,2104,3708,2049,TRUE,"TG","Bischofszell","Bischofszell","Bischofszell","Bischofszell TG","Bischofszell (TG)","Bischofszell (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4476,63.222131814,777,452,57.536101083,1275,2216,1229,TRUE,"TG","Erlen","Erlen","Erlen","Erlen TG","Erlen (TG)","Erlen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4486,61.832946636,533,329,60.935350757,886,1454,862,TRUE,"TG","Hauptwil-Gottshaus","Hauptwil-Gottshaus","Hauptwil-Gottshaus","Hauptwil-Gottshaus TG","Hauptwil-Gottshaus (TG)","Hauptwil-Gottshaus (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4495,65.538461538,213,112,67.280163599,329,489,325,TRUE,"TG","Hohentannen","Hohentannen","Hohentannen","Hohentannen TG","Hohentannen (TG)","Hohentannen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4501,63.219284603,813,473,58.373626374,1328,2275,1286,TRUE,"TG","Kradolf-Schönenberg","Kradolf-Schönenberg","Kradolf-Schönenberg","Kradolf-Schönenberg TG","Kradolf-Schönenberg (TG)","Kradolf-Schönenberg (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4506,64.692653673,863,471,56.634973129,1370,2419,1334,TRUE,"TG","Sulgen","Sulgen","Sulgen","Sulgen TG","Sulgen (TG)","Sulgen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4511,64.637681159,669,366,61.865889213,1061,1715,1035,TRUE,"TG","Zihlschlacht-Sitterdorf","Zihlschlacht-Sitterdorf","Zihlschlacht-Sitterdorf","Zihlschlacht-Sitterdorf TG","Zihlschlacht-Sitterdorf (TG)","Zihlschlacht-Sitterdorf (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4536,58.168316832,470,338,65.566037736,834,1272,808,TRUE,"TG","Basadingen-Schlattingen","Basadingen-Schlattingen","Basadingen-Schlattingen","Basadingen-Schlattingen TG","Basadingen-Schlattingen (TG)","Basadingen-Schlattingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4545,60.41322314,731,479,58.88372093,1266,2150,1210,TRUE,"TG","Diessenhofen","Diessenhofen","Diessenhofen","Diessenhofen TG","Diessenhofen (TG)","Diessenhofen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4546,62.51572327,497,298,64.921875,831,1280,795,TRUE,"TG","Schlatt TG","Schlatt (TG)","Schlatt TG","Schlatt TG","Schlatt (TG)","Schlatt (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4551,,,,,,,,FALSE,"TG","Aadorf","Aadorf","Aadorf","Aadorf TG","Aadorf (TG)","Aadorf (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4561,64.08839779,696,390,53.671245855,1133,2111,1086,TRUE,"TG","Felben-Wellhausen","Felben-Wellhausen","Felben-Wellhausen","Felben-Wellhausen TG","Felben-Wellhausen (TG)","Felben-Wellhausen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4566,,,,,,,,FALSE,"TG","Frauenfeld","Frauenfeld","Frauenfeld","Frauenfeld TG","Frauenfeld (TG)","Frauenfeld (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4571,60.692002269,1070,693,58.518049398,1848,3158,1763,TRUE,"TG","Gachnang","Gachnang","Gachnang","Gachnang TG","Gachnang (TG)","Gachnang (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4590,61.757105943,239,148,66.338259442,404,609,387,TRUE,"TG","Hüttlingen","Hüttlingen","Hüttlingen","Hüttlingen TG","Hüttlingen (TG)","Hüttlingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4591,60.714285714,595,385,53.605015674,1026,1914,980,TRUE,"TG","Matzingen","Matzingen","Matzingen","Matzingen TG","Matzingen (TG)","Matzingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4601,67.391304348,372,180,68.04245283,577,848,552,TRUE,"TG","Neunforn","Neunforn","Neunforn","Neunforn TG","Neunforn (TG)","Neunforn (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4606,68.369028007,415,192,69.555555556,626,900,607,TRUE,"TG","Stettfurt","Stettfurt","Stettfurt","Stettfurt TG","Stettfurt (TG)","Stettfurt (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4611,61.508452536,473,296,63.266932271,794,1255,769,TRUE,"TG","Thundorf","Thundorf","Thundorf","Thundorf TG","Thundorf (TG)","Thundorf (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4616,67.109634551,404,198,69.710467706,626,898,602,TRUE,"TG","Uesslingen-Buch","Uesslingen-Buch","Uesslingen-Buch","Uesslingen-Buch TG","Uesslingen-Buch (TG)","Uesslingen-Buch (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4621,65.671641791,440,230,64.943609023,691,1064,670,TRUE,"TG","Warth-Weiningen","Warth-Weiningen","Warth-Weiningen","Warth-Weiningen TG","Warth-Weiningen (TG)","Warth-Weiningen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4641,53.426124197,499,435,65.994436718,949,1438,934,TRUE,"TG","Altnau","Altnau","Altnau","Altnau TG","Altnau (TG)","Altnau (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4643,58.089033659,535,386,66.501766784,941,1415,921,TRUE,"TG","Bottighofen","Bottighofen","Bottighofen","Bottighofen TG","Bottighofen (TG)","Bottighofen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4646,58.642857143,821,579,66.227272727,1457,2200,1400,TRUE,"TG","Ermatingen","Ermatingen","Ermatingen","Ermatingen TG","Ermatingen (TG)","Ermatingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4651,58.67768595,71,50,72.781065089,123,169,121,TRUE,"TG","Gottlieben","Gottlieben","Gottlieben","Gottlieben TG","Gottlieben (TG)","Gottlieben (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4656,56.438356164,412,318,64.620630861,758,1173,730,TRUE,"TG","Güttingen","Güttingen","Güttingen","Güttingen TG","Güttingen (TG)","Güttingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4666,61.137440758,645,410,62.507026419,1112,1779,1055,TRUE,"TG","Kemmental","Kemmental","Kemmental","Kemmental TG","Kemmental (TG)","Kemmental (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4671,52.693987934,2533,2274,58.693858305,4979,8483,4807,TRUE,"TG","Kreuzlingen","Kreuzlingen","Kreuzlingen","Kreuzlingen TG","Kreuzlingen (TG)","Kreuzlingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4681,62.539184953,399,239,66.531850354,658,989,638,TRUE,"TG","Langrickenbach","Langrickenbach","Langrickenbach","Langrickenbach TG","Langrickenbach (TG)","Langrickenbach (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4683,,,,,,,,FALSE,"TG","Lengwil","Lengwil","Lengwil","Lengwil TG","Lengwil (TG)","Lengwil (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4691,52.702702703,585,525,64.858757062,1148,1770,1110,TRUE,"TG","Münsterlingen","Münsterlingen","Münsterlingen","Münsterlingen TG","Münsterlingen (TG)","Münsterlingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4696,56.549935149,872,670,60.815868263,1625,2672,1542,TRUE,"TG","Tägerwilen","Tägerwilen","Tägerwilen","Tägerwilen TG","Tägerwilen (TG)","Tägerwilen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4701,66.94214876,324,160,65.771812081,490,745,484,TRUE,"TG","Wäldi","Wäldi","Wäldi","Wäldi TG","Wäldi (TG)","Wäldi (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4711,68.20702403,738,344,62.694877506,1126,1796,1082,TRUE,"TG","Affeltrangen","Affeltrangen","Affeltrangen","Affeltrangen TG","Affeltrangen (TG)","Affeltrangen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4716,68.993839836,336,151,59.543817527,496,833,487,TRUE,"TG","Bettwiesen","Bettwiesen","Bettwiesen","Bettwiesen TG","Bettwiesen (TG)","Bettwiesen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4721,63.694779116,793,452,60.227272727,1272,2112,1245,TRUE,"TG","Bichelsee-Balterswil","Bichelsee-Balterswil","Bichelsee-Balterswil","Bichelsee-Balterswil TG","Bichelsee-Balterswil (TG)","Bichelsee-Balterswil (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4723,62.75,251,149,64.678178964,412,637,400,TRUE,"TG","Braunau","Braunau","Braunau","Braunau TG","Braunau (TG)","Braunau (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4724,,,,,,,,FALSE,"TG","Eschlikon","Eschlikon","Eschlikon","Eschlikon TG","Eschlikon (TG)","Eschlikon (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4726,61.479198767,798,500,61.390667887,1342,2186,1298,TRUE,"TG","Fischingen","Fischingen","Fischingen","Fischingen TG","Fischingen (TG)","Fischingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4741,61.658031088,357,222,63.626609442,593,932,579,TRUE,"TG","Lommis","Lommis","Lommis","Lommis TG","Lommis (TG)","Lommis (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4746,59.376708584,1086,743,51.130482157,1877,3671,1829,TRUE,"TG","Münchwilen TG","Münchwilen (TG)","Münchwilen TG","Münchwilen TG","Münchwilen (TG)","Münchwilen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4751,58.869908016,448,313,51.587301587,780,1512,761,TRUE,"TG","Rickenbach TG","Rickenbach (TG)","Rickenbach TG","Rickenbach TG","Rickenbach (TG)","Rickenbach (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4756,66.336633663,268,136,66.393442623,405,610,404,TRUE,"TG","Schönholzerswilen","Schönholzerswilen","Schönholzerswilen","Schönholzerswilen TG","Schönholzerswilen (TG)","Schönholzerswilen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4761,61.367978601,1606,1011,53.20437671,2723,5118,2617,TRUE,"TG","Sirnach","Sirnach","Sirnach","Sirnach TG","Sirnach (TG)","Sirnach (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4776,61.949685535,394,242,59.75177305,674,1128,636,TRUE,"TG","Tobel-Tägerschen","Tobel-Tägerschen","Tobel-Tägerschen","Tobel-Tägerschen TG","Tobel-Tägerschen (TG)","Tobel-Tägerschen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4781,,,,,,,,FALSE,"TG","Wängi","Wängi","Wängi","Wängi TG","Wängi (TG)","Wängi (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4786,61.303890641,583,368,59.765865681,970,1623,951,TRUE,"TG","Wilen TG","Wilen (TG)","Wilen TG","Wilen TG","Wilen (TG)","Wilen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4791,59.892086331,333,223,68.143712575,569,835,556,TRUE,"TG","Wuppenau","Wuppenau","Wuppenau","Wuppenau TG","Wuppenau (TG)","Wuppenau (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4801,60.64690027,225,146,65.570934256,379,578,371,TRUE,"TG","Berlingen","Berlingen","Berlingen","Berlingen TG","Berlingen (TG)","Berlingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4806,,,,,,,,FALSE,"TG","Eschenz","Eschenz","Eschenz","Eschenz TG","Eschenz (TG)","Eschenz (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4811,62.661737523,339,202,68.187422935,553,811,541,TRUE,"TG","Herdern","Herdern","Herdern","Herdern TG","Herdern (TG)","Herdern (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4816,65.972222222,475,245,66.6367713,743,1115,720,TRUE,"TG","Homburg","Homburg","Homburg","Homburg TG","Homburg (TG)","Homburg (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4821,61.39088729,512,322,68.699839486,856,1246,834,TRUE,"TG","Hüttwilen","Hüttwilen","Hüttwilen","Hüttwilen TG","Hüttwilen (TG)","Hüttwilen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4826,61.940298507,166,102,68.564356436,277,404,268,TRUE,"TG","Mammern","Mammern","Mammern","Mammern TG","Mammern (TG)","Mammern (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4831,65.183917879,762,407,55.03875969,1207,2193,1169,TRUE,"TG","Müllheim","Müllheim","Müllheim","Müllheim TG","Müllheim (TG)","Müllheim (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4841,,,,,,,,FALSE,"TG","Pfyn","Pfyn","Pfyn","Pfyn TG","Pfyn (TG)","Pfyn (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4846,60.849056604,129,83,67.936507937,214,315,212,TRUE,"TG","Raperswilen","Raperswilen","Raperswilen","Raperswilen TG","Raperswilen (TG)","Raperswilen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4851,63.130434783,363,212,66.516347238,590,887,575,TRUE,"TG","Salenstein","Salenstein","Salenstein","Salenstein TG","Salenstein (TG)","Salenstein (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4864,56.638418079,802,614,60.361099713,1471,2437,1416,TRUE,"TG","Steckborn","Steckborn","Steckborn","Steckborn TG","Steckborn (TG)","Steckborn (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4871,59.201141227,415,286,63.51590106,719,1132,701,TRUE,"TG","Wagenhausen","Wagenhausen","Wagenhausen","Wagenhausen TG","Wagenhausen (TG)","Wagenhausen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4881,62.02143951,405,248,66.236345581,667,1007,653,TRUE,"TG","Amlikon-Bissegg","Amlikon-Bissegg","Amlikon-Bissegg","Amlikon-Bissegg TG","Amlikon-Bissegg (TG)","Amlikon-Bissegg (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4891,63.108108108,934,546,62.540453074,1546,2472,1480,TRUE,"TG","Berg TG","Berg (TG)","Berg TG","Berg TG","Berg (TG)","Berg (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4901,60.821484992,385,248,64.894684052,647,997,633,TRUE,"TG","Birwinken","Birwinken","Birwinken","Birwinken TG","Birwinken (TG)","Birwinken (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4911,64.956590371,823,444,56.325301205,1309,2324,1267,TRUE,"TG","Bürglen TG","Bürglen (TG)","Bürglen TG","Bürglen TG","Bürglen (TG)","Bürglen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4921,63.548698168,659,378,64.067186563,1068,1667,1037,TRUE,"TG","Bussnang","Bussnang","Bussnang","Bussnang TG","Bussnang (TG)","Bussnang (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4941,64.724660814,811,442,63.505461768,1279,2014,1253,TRUE,"TG","Märstetten","Märstetten","Märstetten","Märstetten TG","Märstetten (TG)","Märstetten (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4946,57.548845471,2592,1912,60.635950681,4672,7705,4504,TRUE,"TG","Weinfelden","Weinfelden","Weinfelden","Weinfelden TG","Weinfelden (TG)","Weinfelden (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
-20,4951,,,,,,,,FALSE,"TG","Wigoltingen","Wigoltingen","Wigoltingen","Wigoltingen TG","Wigoltingen (TG)","Wigoltingen (TG)","Thurgau","Thurgovie","Turgovia",60.593556179,FALSE,FALSE
+19,4001,43.840503673,4178,5352,66.166336904,9698,14657,9530,TRUE,"AG","Aarau","Aarau","Aarau","Aarau AG","Aarau (AG)","Aarau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4002,57.817772778,514,375,72.800645682,902,1239,889,TRUE,"AG","Biberstein","Biberstein","Biberstein","Biberstein AG","Biberstein (AG)","Biberstein (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4003,50.50999592,1238,1213,58.247663551,2493,4280,2451,TRUE,"AG","Buchs AG","Buchs (AG)","Buchs AG","Buchs AG","Buchs (AG)","Buchs (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4004,60.932944606,209,134,62.032085561,348,561,343,TRUE,"AG","Densbüren","Densbüren","Densbüren","Densbüren AG","Densbüren (AG)","Densbüren (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4005,61.237950279,1207,764,64.285714286,1989,3094,1971,TRUE,"AG","Erlinsbach AG","Erlinsbach (AG)","Erlinsbach AG","Erlinsbach AG","Erlinsbach (AG)","Erlinsbach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4006,58.000638774,1816,1315,60.585328772,3188,5262,3131,TRUE,"AG","Gränichen","Gränichen","Gränichen","Gränichen AG","Gränichen (AG)","Gränichen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4007,60,480,320,62.770897833,811,1292,800,TRUE,"AG","Hirschthal","Hirschthal","Hirschthal","Hirschthal AG","Hirschthal (AG)","Hirschthal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4008,50.995024876,1640,1576,68.134390651,3265,4792,3216,TRUE,"AG","Küttigen","Küttigen","Küttigen","Küttigen AG","Küttigen (AG)","Küttigen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4009,,,,,,,,FALSE,"AG","Muhen","Muhen","Muhen","Muhen AG","Muhen (AG)","Muhen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4010,59.164367363,1501,1036,55.022297728,2591,4709,2537,TRUE,"AG","Oberentfelden","Oberentfelden","Oberentfelden","Oberentfelden AG","Oberentfelden (AG)","Oberentfelden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4012,,,,,,,,FALSE,"AG","Suhr","Suhr","Suhr","Suhr AG","Suhr (AG)","Suhr (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4013,52.756892231,842,754,62.830482115,1616,2572,1596,TRUE,"AG","Unterentfelden","Unterentfelden","Unterentfelden","Unterentfelden AG","Unterentfelden (AG)","Unterentfelden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4021,,,,,,,,FALSE,"AG","Baden","Baden","Baden","Baden AG","Baden (AG)","Baden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4022,60.455764075,451,295,66.550218341,762,1145,746,TRUE,"AG","Bellikon","Bellikon","Bellikon","Bellikon AG","Bellikon (AG)","Bellikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4023,66.58496732,815,409,65.575501584,1242,1894,1224,TRUE,"AG","Bergdietikon","Bergdietikon","Bergdietikon","Bergdietikon AG","Bergdietikon (AG)","Bergdietikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4024,62.283737024,720,436,60.880829016,1175,1930,1156,TRUE,"AG","Birmenstorf AG","Birmenstorf (AG)","Birmenstorf AG","Birmenstorf AG","Birmenstorf (AG)","Birmenstorf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4026,45.174186179,791,960,72.675367047,1782,2452,1751,TRUE,"AG","Ennetbaden","Ennetbaden","Ennetbaden","Ennetbaden AG","Ennetbaden (AG)","Ennetbaden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4027,53.700787402,1023,882,53.965612867,1946,3606,1905,TRUE,"AG","Fislisbach","Fislisbach","Fislisbach","Fislisbach AG","Fislisbach (AG)","Fislisbach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4028,51.412429379,273,258,68.461538462,534,780,531,TRUE,"AG","Freienwil","Freienwil","Freienwil","Freienwil AG","Freienwil (AG)","Freienwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4029,57.24137931,1079,806,56.849925706,1913,3365,1885,TRUE,"AG","Gebenstorf","Gebenstorf","Gebenstorf","Gebenstorf AG","Gebenstorf (AG)","Gebenstorf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4030,55.52193646,367,294,51.136363636,675,1320,661,TRUE,"AG","Killwangen","Killwangen","Killwangen","Killwangen AG","Killwangen (AG)","Killwangen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4031,60.126582278,475,315,62.676056338,801,1278,790,TRUE,"AG","Künten","Künten","Künten","Künten AG","Künten (AG)","Künten (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4032,55.957161981,418,329,57.11026616,751,1315,747,TRUE,"AG","Mägenwil","Mägenwil","Mägenwil","Mägenwil AG","Mägenwil (AG)","Mägenwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4033,56.630620376,995,762,53.562874251,1789,3340,1757,TRUE,"AG","Mellingen","Mellingen","Mellingen","Mellingen AG","Mellingen (AG)","Mellingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4034,54.512195122,894,746,45.566502463,1665,3654,1640,TRUE,"AG","Neuenhof","Neuenhof","Neuenhof","Neuenhof AG","Neuenhof (AG)","Neuenhof (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4035,57.390417941,1126,836,64.140599807,1989,3101,1962,TRUE,"AG","Niederrohrdorf","Niederrohrdorf","Niederrohrdorf","Niederrohrdorf AG","Niederrohrdorf (AG)","Niederrohrdorf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4037,61.356297094,1140,718,68.040491685,1882,2766,1858,TRUE,"AG","Oberrohrdorf","Oberrohrdorf","Oberrohrdorf","Oberrohrdorf AG","Oberrohrdorf (AG)","Oberrohrdorf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4038,52.598055649,1569,1414,60.590936315,3035,5009,2983,TRUE,"AG","Obersiggenthal","Obersiggenthal","Obersiggenthal","Obersiggenthal AG","Obersiggenthal (AG)","Obersiggenthal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4039,61.46393972,571,358,63.93220339,943,1475,929,TRUE,"AG","Remetschwil","Remetschwil","Remetschwil","Remetschwil AG","Remetschwil (AG)","Remetschwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4040,53.559483994,1121,972,42.100098135,2145,5095,2093,TRUE,"AG","Spreitenbach","Spreitenbach","Spreitenbach","Spreitenbach AG","Spreitenbach (AG)","Spreitenbach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4041,62.361623616,507,306,54.780876494,825,1506,813,TRUE,"AG","Stetten AG","Stetten (AG)","Stetten AG","Stetten AG","Stetten (AG)","Stetten (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4044,54.447739066,1469,1229,62.425900593,2738,4386,2698,TRUE,"AG","Untersiggenthal","Untersiggenthal","Untersiggenthal","Untersiggenthal AG","Untersiggenthal (AG)","Untersiggenthal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4045,,,,,,,,FALSE,"AG","Wettingen","Wettingen","Wettingen","Wettingen AG","Wettingen (AG)","Wettingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4046,58.939393939,389,271,59.593280283,674,1131,660,TRUE,"AG","Wohlenschwil","Wohlenschwil","Wohlenschwil","Wohlenschwil AG","Wohlenschwil (AG)","Wohlenschwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4047,62.946673997,1145,674,60.306089222,1852,3071,1819,TRUE,"AG","Würenlingen","Würenlingen","Würenlingen","Würenlingen AG","Würenlingen (AG)","Würenlingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4048,59.024040187,1645,1142,63.783419456,2839,4451,2787,TRUE,"AG","Würenlos","Würenlos","Würenlos","Würenlos AG","Würenlos (AG)","Würenlos (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4049,54.652351738,1069,887,62.058276503,2002,3226,1956,TRUE,"AG","Ehrendingen","Ehrendingen","Ehrendingen","Ehrendingen AG","Ehrendingen (AG)","Ehrendingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4061,59.737417943,546,368,68.740740741,928,1350,914,TRUE,"AG","Arni AG","Arni (AG)","Arni AG","Arni AG","Arni (AG)","Arni (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4062,58.337801609,1088,777,59.634760705,1894,3176,1865,TRUE,"AG","Berikon","Berikon","Berikon","Berikon AG","Berikon (AG)","Berikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4063,,,,,,,,FALSE,"AG","Bremgarten AG","Bremgarten (AG)","Bremgarten AG","Bremgarten AG","Bremgarten (AG)","Bremgarten (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4064,65.494505495,298,157,63.237311385,461,729,455,TRUE,"AG","Büttikon","Büttikon","Büttikon","Büttikon AG","Büttikon (AG)","Büttikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4065,59.911111111,674,451,57.135703555,1141,1997,1125,TRUE,"AG","Dottikon","Dottikon","Dottikon","Dottikon AG","Dottikon (AG)","Dottikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4066,56,238,187,61.925287356,431,696,425,TRUE,"AG","Eggenwil","Eggenwil","Eggenwil","Eggenwil AG","Eggenwil (AG)","Eggenwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4067,60.844250364,418,269,57.785179017,694,1201,687,TRUE,"AG","Fischbach-Göslikon","Fischbach-Göslikon","Fischbach-Göslikon","Fischbach-Göslikon AG","Fischbach-Göslikon (AG)","Fischbach-Göslikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4068,60.440528634,686,449,62.875888464,1150,1829,1135,TRUE,"AG","Hägglingen","Hägglingen","Hägglingen","Hägglingen AG","Hägglingen (AG)","Hägglingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4071,58.039215686,592,428,65.648854962,1032,1572,1020,TRUE,"AG","Jonen","Jonen","Jonen","Jonen AG","Jonen (AG)","Jonen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4072,61.876075731,719,443,60.607621009,1177,1942,1162,TRUE,"AG","Niederwil AG","Niederwil (AG)","Niederwil AG","Niederwil AG","Niederwil (AG)","Niederwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4073,58.309859155,621,444,68.686868687,1088,1584,1065,TRUE,"AG","Oberlunkhofen","Oberlunkhofen","Oberlunkhofen","Oberlunkhofen AG","Oberlunkhofen (AG)","Oberlunkhofen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4074,64.308176101,818,454,67.393561786,1298,1926,1272,TRUE,"AG","Oberwil-Lieli","Oberwil-Lieli","Oberwil-Lieli","Oberwil-Lieli AG","Oberwil-Lieli (AG)","Oberwil-Lieli (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4075,58.458244111,819,582,55.181747873,1427,2586,1401,TRUE,"AG","Rudolfstetten-Friedlisberg","Rudolfstetten-Friedlisberg","Rudolfstetten-Friedlisberg","Rudolfstetten-Friedlisberg AG","Rudolfstetten-Friedlisberg (AG)","Rudolfstetten-Friedlisberg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4076,61.13152094,832,529,64.386129335,1374,2134,1361,TRUE,"AG","Sarmenstorf","Sarmenstorf","Sarmenstorf","Sarmenstorf AG","Sarmenstorf (AG)","Sarmenstorf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4077,62.234042553,351,213,58.847320526,582,989,564,TRUE,"AG","Tägerig","Tägerig","Tägerig","Tägerig AG","Tägerig (AG)","Tägerig (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4078,58.07860262,133,96,63.440860215,236,372,229,TRUE,"AG","Uezwil","Uezwil","Uezwil","Uezwil AG","Uezwil (AG)","Uezwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4079,57.483443709,434,321,65.670367208,769,1171,755,TRUE,"AG","Unterlunkhofen","Unterlunkhofen","Unterlunkhofen","Unterlunkhofen AG","Unterlunkhofen (AG)","Unterlunkhofen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4080,62.804068996,1420,841,52.849264706,2300,4352,2261,TRUE,"AG","Villmergen","Villmergen","Villmergen","Villmergen AG","Villmergen (AG)","Villmergen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4081,59.774881517,1009,679,64.41509434,1707,2650,1688,TRUE,"AG","Widen","Widen","Widen","Widen AG","Widen (AG)","Widen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4082,,,,,,,,FALSE,"AG","Wohlen AG","Wohlen (AG)","Wohlen AG","Wohlen AG","Wohlen (AG)","Wohlen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4083,56.280667321,1147,891,65.498737374,2075,3168,2038,TRUE,"AG","Zufikon","Zufikon","Zufikon","Zufikon AG","Zufikon (AG)","Zufikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4084,63.582089552,213,122,72.162740899,337,467,335,TRUE,"AG","Islisberg","Islisberg","Islisberg","Islisberg AG","Islisberg (AG)","Islisberg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4091,63.913595934,503,284,63.89111289,798,1249,787,TRUE,"AG","Auenstein","Auenstein","Auenstein","Auenstein AG","Auenstein (AG)","Auenstein (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4092,62.982273201,604,355,46.804420951,974,2081,959,TRUE,"AG","Birr","Birr","Birr","Birr AG","Birr (AG)","Birr (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4093,67.134831461,239,117,61.073825503,364,596,356,TRUE,"AG","Birrhard","Birrhard","Birrhard","Birrhard AG","Birrhard (AG)","Birrhard (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4095,52.74767066,2774,2485,61.298104538,5336,8705,5259,TRUE,"AG","Brugg","Brugg","Brugg","Brugg AG","Brugg (AG)","Brugg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4099,65.271966527,156,83,75.632911392,239,316,239,TRUE,"AG","Habsburg","Habsburg","Habsburg","Habsburg AG","Habsburg (AG)","Habsburg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4100,63.07922272,844,494,60.070206231,1369,2279,1338,TRUE,"AG","Hausen AG","Hausen (AG)","Hausen AG","Hausen AG","Hausen (AG)","Hausen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4104,64.182509506,844,471,59.893048128,1344,2244,1315,TRUE,"AG","Lupfig","Lupfig","Lupfig","Lupfig AG","Lupfig (AG)","Lupfig (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4105,63.97515528,103,58,70.995670996,164,231,161,TRUE,"AG","Mandach","Mandach","Mandach","Mandach AG","Mandach (AG)","Mandach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4106,63.855421687,106,60,59.786476868,168,281,166,TRUE,"AG","Mönthal","Mönthal","Mönthal","Mönthal AG","Mönthal (AG)","Mönthal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4107,57.176470588,243,182,59.141274238,427,722,425,TRUE,"AG","Mülligen","Mülligen","Mülligen","Mülligen AG","Mülligen (AG)","Mülligen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4110,64.864864865,360,195,62.666666667,564,900,555,TRUE,"AG","Remigen","Remigen","Remigen","Remigen AG","Remigen (AG)","Remigen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4111,59.083469722,361,250,64.168377823,625,974,611,TRUE,"AG","Riniken","Riniken","Riniken","Riniken AG","Riniken (AG)","Riniken (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4112,60.740740741,246,159,68.333333333,410,600,405,TRUE,"AG","Rüfenach","Rüfenach","Rüfenach","Rüfenach AG","Rüfenach (AG)","Rüfenach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4117,61.396303901,299,188,70.454545455,496,704,487,TRUE,"AG","Thalheim AG","Thalheim (AG)","Thalheim AG","Thalheim AG","Thalheim (AG)","Thalheim (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4120,57.911908646,355,258,60.882352941,621,1020,613,TRUE,"AG","Veltheim AG","Veltheim (AG)","Veltheim AG","Veltheim AG","Veltheim (AG)","Veltheim (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4121,63.151658768,533,311,61.087267525,854,1398,844,TRUE,"AG","Villigen","Villigen","Villigen","Villigen AG","Villigen (AG)","Villigen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4123,,,,,,,,FALSE,"AG","Windisch","Windisch","Windisch","Windisch AG","Windisch (AG)","Windisch (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4124,58.997429306,459,319,65.469387755,802,1225,778,TRUE,"AG","Bözberg","Bözberg","Bözberg","Bözberg AG","Bözberg (AG)","Bözberg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4125,60.55705301,674,439,66.78550208,1124,1683,1113,TRUE,"AG","Schinznach","Schinznach","Schinznach","Schinznach AG","Schinznach (AG)","Schinznach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4131,54.72541507,857,709,63.273453094,1585,2505,1566,TRUE,"AG","Beinwil am See","Beinwil am See","Beinwil am See","Beinwil am See AG","Beinwil am See (AG)","Beinwil am See (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4132,57.741935484,358,262,65.58915537,629,959,620,TRUE,"AG","Birrwil","Birrwil","Birrwil","Birrwil AG","Birrwil (AG)","Birrwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4134,67.441860465,435,210,69.206349206,654,945,645,TRUE,"AG","Dürrenäsch","Dürrenäsch","Dürrenäsch","Dürrenäsch AG","Dürrenäsch (AG)","Dürrenäsch (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4135,64.09978308,591,331,62.893503014,939,1493,922,TRUE,"AG","Gontenschwil","Gontenschwil","Gontenschwil","Gontenschwil AG","Gontenschwil (AG)","Gontenschwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4136,67.226890756,400,195,54.727272727,602,1100,595,TRUE,"AG","Holziken","Holziken","Holziken","Holziken AG","Holziken (AG)","Holziken (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4137,59.90990991,133,89,62.568306011,229,366,222,TRUE,"AG","Leimbach AG","Leimbach (AG)","Leimbach AG","Leimbach AG","Leimbach (AG)","Leimbach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4138,68.393782383,264,122,68.275862069,396,580,386,TRUE,"AG","Leutwil","Leutwil","Leutwil","Leutwil AG","Leutwil (AG)","Leutwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4139,61.396208969,1328,835,51.944378977,2204,4243,2163,TRUE,"AG","Menziken","Menziken","Menziken","Menziken AG","Menziken (AG)","Menziken (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4140,62.455516014,702,422,61.724327293,1124,1821,1124,TRUE,"AG","Oberkulm","Oberkulm","Oberkulm","Oberkulm AG","Oberkulm (AG)","Oberkulm (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4141,60.433244916,1367,895,51.247516008,2321,4529,2262,TRUE,"AG","Reinach AG","Reinach (AG)","Reinach AG","Reinach AG","Reinach (AG)","Reinach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4142,63.408521303,253,146,63.636363636,406,638,399,TRUE,"AG","Schlossrued","Schlossrued","Schlossrued","Schlossrued AG","Schlossrued (AG)","Schlossrued (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4143,65.261044177,325,173,59.906759907,514,858,498,TRUE,"AG","Schmiedrued","Schmiedrued","Schmiedrued","Schmiedrued AG","Schmiedrued (AG)","Schmiedrued (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4144,58.208955224,1053,756,58.639412328,1836,3131,1809,TRUE,"AG","Schöftland","Schöftland","Schöftland","Schöftland AG","Schöftland (AG)","Schöftland (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4145,57.342657343,328,244,56.809338521,584,1028,572,TRUE,"AG","Teufenthal AG","Teufenthal (AG)","Teufenthal AG","Teufenthal AG","Teufenthal (AG)","Teufenthal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4146,61.604095563,722,450,56.585829767,1190,2103,1172,TRUE,"AG","Unterkulm","Unterkulm","Unterkulm","Unterkulm AG","Unterkulm (AG)","Unterkulm (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4147,62.75862069,364,216,61.706555671,593,961,580,TRUE,"AG","Zetzwil","Zetzwil","Zetzwil","Zetzwil AG","Zetzwil (AG)","Zetzwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4161,57.195571956,465,348,53.701298701,827,1540,813,TRUE,"AG","Eiken","Eiken","Eiken","Eiken AG","Eiken (AG)","Eiken (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4163,55.58240696,1150,919,57.431693989,2102,3660,2069,TRUE,"AG","Frick","Frick","Frick","Frick AG","Frick (AG)","Frick (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4164,60.392156863,308,202,67.941952507,515,758,510,TRUE,"AG","Gansingen","Gansingen","Gansingen","Gansingen AG","Gansingen (AG)","Gansingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4165,57.434402332,985,730,65.848129958,1743,2647,1715,TRUE,"AG","Gipf-Oberfrick","Gipf-Oberfrick","Gipf-Oberfrick","Gipf-Oberfrick AG","Gipf-Oberfrick (AG)","Gipf-Oberfrick (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4169,59.387923904,718,491,61.63901458,1226,1989,1209,TRUE,"AG","Kaisten","Kaisten","Kaisten","Kaisten AG","Kaisten (AG)","Kaisten (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4170,61.243611584,719,455,59.059405941,1193,2020,1174,TRUE,"AG","Laufenburg","Laufenburg","Laufenburg","Laufenburg AG","Laufenburg (AG)","Laufenburg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4172,62.65060241,208,124,56.208053691,335,596,332,TRUE,"AG","Münchwilen AG","Münchwilen (AG)","Münchwilen AG","Münchwilen AG","Münchwilen (AG)","Münchwilen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4173,55.271565495,173,140,72.209567198,317,439,313,TRUE,"AG","Oberhof","Oberhof","Oberhof","Oberhof AG","Oberhof (AG)","Oberhof (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4175,58.979591837,289,201,59.495192308,495,832,490,TRUE,"AG","Oeschgen","Oeschgen","Oeschgen","Oeschgen AG","Oeschgen (AG)","Oeschgen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4176,63.76146789,139,79,53.04136253,218,411,218,TRUE,"AG","Schwaderloch","Schwaderloch","Schwaderloch","Schwaderloch AG","Schwaderloch (AG)","Schwaderloch (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4177,58.857142857,309,216,57.373519914,533,929,525,TRUE,"AG","Sisseln","Sisseln","Sisseln","Sisseln AG","Sisseln (AG)","Sisseln (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4181,63.065693431,432,253,66.954851105,697,1041,685,TRUE,"AG","Wittnau","Wittnau","Wittnau","Wittnau AG","Wittnau (AG)","Wittnau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4182,58.20610687,305,219,65.892420538,539,818,524,TRUE,"AG","Wölflinswil","Wölflinswil","Wölflinswil","Wölflinswil AG","Wölflinswil (AG)","Wölflinswil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4183,53.333333333,256,224,59.950556242,485,809,480,TRUE,"AG","Zeihen","Zeihen","Zeihen","Zeihen AG","Zeihen (AG)","Zeihen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4184,57.482993197,507,375,63.154221912,905,1433,882,TRUE,"AG","Mettauertal","Mettauertal","Mettauertal","Mettauertal AG","Mettauertal (AG)","Mettauertal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4185,62.157382847,703,428,61.099365751,1156,1892,1131,TRUE,"AG","Böztal","Böztal","Böztal","Böztal AG","Böztal (AG)","Böztal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4186,54.095701541,667,566,68.481219379,1258,1837,1233,TRUE,"AG","Herznach-Ueken","Herznach-Ueken","Herznach-Ueken","Herznach-Ueken AG","Herznach-Ueken (AG)","Herznach-Ueken (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4191,53.250773994,172,151,62.620423892,325,519,323,TRUE,"AG","Ammerswil","Ammerswil","Ammerswil","Ammerswil AG","Ammerswil (AG)","Ammerswil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4192,59.225806452,459,316,65.429042904,793,1212,775,TRUE,"AG","Boniswil","Boniswil","Boniswil","Boniswil AG","Boniswil (AG)","Boniswil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4193,64.96350365,178,96,52.551984877,278,529,274,TRUE,"AG","Brunegg","Brunegg","Brunegg","Brunegg AG","Brunegg (AG)","Brunegg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4194,59.395532194,452,309,57.048940833,781,1369,761,TRUE,"AG","Dintikon","Dintikon","Dintikon","Dintikon AG","Dintikon (AG)","Dintikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4195,56.647398844,392,300,60.290350128,706,1171,692,TRUE,"AG","Egliswil","Egliswil","Egliswil","Egliswil AG","Egliswil (AG)","Egliswil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4196,56.896551724,462,350,55.363091272,831,1501,812,TRUE,"AG","Fahrwangen","Fahrwangen","Fahrwangen","Fahrwangen AG","Fahrwangen (AG)","Fahrwangen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4197,55.172413793,208,169,57.918552036,384,663,377,TRUE,"AG","Hallwil","Hallwil","Hallwil","Hallwil AG","Hallwil (AG)","Hallwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4198,48.837209302,231,242,56.837098692,478,841,473,TRUE,"AG","Hendschiken","Hendschiken","Hendschiken","Hendschiken AG","Hendschiken (AG)","Hendschiken (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4199,63.325183374,259,150,47.85631518,413,863,409,TRUE,"AG","Holderbank AG","Holderbank (AG)","Holderbank AG","Holderbank AG","Holderbank (AG)","Holderbank (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4200,60.458958517,685,448,48.404701931,1153,2382,1133,TRUE,"AG","Hunzenschwil","Hunzenschwil","Hunzenschwil","Hunzenschwil AG","Hunzenschwil (AG)","Hunzenschwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4201,48.597194389,1940,2052,61.937452326,4060,6555,3992,TRUE,"AG","Lenzburg","Lenzburg","Lenzburg","Lenzburg AG","Lenzburg (AG)","Lenzburg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4202,62.905405405,931,549,63.853367434,1498,2346,1480,TRUE,"AG","Meisterschwanden","Meisterschwanden","Meisterschwanden","Meisterschwanden AG","Meisterschwanden (AG)","Meisterschwanden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4203,60.939947781,1167,748,63.180051813,1951,3088,1915,TRUE,"AG","Möriken-Wildegg","Möriken-Wildegg","Möriken-Wildegg","Möriken-Wildegg AG","Möriken-Wildegg (AG)","Möriken-Wildegg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4204,51.476251605,802,756,57.168784029,1575,2755,1558,TRUE,"AG","Niederlenz","Niederlenz","Niederlenz","Niederlenz AG","Niederlenz (AG)","Niederlenz (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4205,55.294117647,564,456,53.560371517,1038,1938,1020,TRUE,"AG","Othmarsingen","Othmarsingen","Othmarsingen","Othmarsingen AG","Othmarsingen (AG)","Othmarsingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4206,60.751665081,1277,825,57.822210213,2140,3701,2102,TRUE,"AG","Rupperswil","Rupperswil","Rupperswil","Rupperswil AG","Rupperswil (AG)","Rupperswil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4207,57.833333333,694,506,62.013151239,1226,1977,1200,TRUE,"AG","Schafisheim","Schafisheim","Schafisheim","Schafisheim AG","Schafisheim (AG)","Schafisheim (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4208,62.970014279,1323,778,65.950824774,2119,3213,2101,TRUE,"AG","Seengen","Seengen","Seengen","Seengen AG","Seengen (AG)","Seengen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4209,58.421317245,1162,827,58.743089904,2019,3437,1989,TRUE,"AG","Seon","Seon","Seon","Seon AG","Seon (AG)","Seon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4210,54.524495677,946,789,63.682493657,1757,2759,1735,TRUE,"AG","Staufen","Staufen","Staufen","Staufen AG","Staufen (AG)","Staufen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4221,61.047835991,268,171,61.506276151,441,717,439,TRUE,"AG","Abtwil","Abtwil","Abtwil","Abtwil AG","Abtwil (AG)","Abtwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4222,60,378,252,60.754716981,644,1060,630,TRUE,"AG","Aristau","Aristau","Aristau","Aristau AG","Aristau (AG)","Aristau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4223,60.457142857,529,346,60.647829083,880,1451,875,TRUE,"AG","Auw","Auw","Auw","Auw AG","Auw (AG)","Auw (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4224,66.725043783,381,190,65.345413364,577,883,571,TRUE,"AG","Beinwil (Freiamt)","Beinwil (Freiamt)","Beinwil (Freiamt)","Beinwil (Freiamt) AG","Beinwil (Freiamt) (AG)","Beinwil (Freiamt) (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4226,58.032786885,177,128,63.524590164,310,488,305,TRUE,"AG","Besenbüren","Besenbüren","Besenbüren","Besenbüren AG","Besenbüren (AG)","Besenbüren (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4227,65.217391304,225,120,66.353383459,353,532,345,TRUE,"AG","Bettwil","Bettwil","Bettwil","Bettwil AG","Bettwil (AG)","Bettwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4228,64.126712329,749,419,58.137254902,1186,2040,1168,TRUE,"AG","Boswil","Boswil","Boswil","Boswil AG","Boswil (AG)","Boswil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4229,56.310679612,290,225,64.127764128,522,814,515,TRUE,"AG","Bünzen","Bünzen","Bünzen","Bünzen AG","Bünzen (AG)","Bünzen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4230,60.320284698,339,223,64.766248575,568,877,562,TRUE,"AG","Buttwil","Buttwil","Buttwil","Buttwil AG","Buttwil (AG)","Buttwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4231,61.88034188,362,223,61.483007209,597,971,585,TRUE,"AG","Dietwil","Dietwil","Dietwil","Dietwil AG","Dietwil (AG)","Dietwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4232,59.615384615,62,42,65.82278481,104,158,104,TRUE,"AG","Geltwil","Geltwil","Geltwil","Geltwil AG","Geltwil (AG)","Geltwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4233,64.766839378,125,68,70,196,280,193,TRUE,"AG","Kallern","Kallern","Kallern","Kallern AG","Kallern (AG)","Kallern (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4234,60.275862069,874,576,60.576131687,1472,2430,1450,TRUE,"AG","Merenschwand","Merenschwand","Merenschwand","Merenschwand AG","Merenschwand (AG)","Merenschwand (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4235,64.453125,330,182,59.884393064,518,865,512,TRUE,"AG","Mühlau","Mühlau","Mühlau","Mühlau AG","Mühlau (AG)","Mühlau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4236,55.787476281,1764,1398,58.4,3212,5500,3162,TRUE,"AG","Muri AG","Muri (AG)","Muri AG","Muri AG","Muri (AG)","Muri (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4237,58.305647841,351,251,58.829174664,613,1042,602,TRUE,"AG","Oberrüti","Oberrüti","Oberrüti","Oberrüti AG","Oberrüti (AG)","Oberrüti (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4238,62.888888889,283,167,62.983425414,456,724,450,TRUE,"AG","Rottenschwil","Rottenschwil","Rottenschwil","Rottenschwil AG","Rottenschwil (AG)","Rottenschwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4239,62.073027091,1054,644,59.300311742,1712,2887,1698,TRUE,"AG","Sins","Sins","Sins","Sins AG","Sins (AG)","Sins (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4240,57.37704918,735,546,59.448275862,1293,2175,1281,TRUE,"AG","Waltenschwil","Waltenschwil","Waltenschwil","Waltenschwil AG","Waltenschwil (AG)","Waltenschwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4251,65.809768638,256,133,64.763458401,397,613,389,TRUE,"AG","Hellikon","Hellikon","Hellikon","Hellikon AG","Hellikon (AG)","Hellikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4252,53.633633634,893,772,50.610300685,1700,3359,1665,TRUE,"AG","Kaiseraugst","Kaiseraugst","Kaiseraugst","Kaiseraugst AG","Kaiseraugst (AG)","Kaiseraugst (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4253,56.773468241,1010,769,68.207654415,1800,2639,1779,TRUE,"AG","Magden","Magden","Magden","Magden AG","Magden (AG)","Magden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4254,,,,,,,,FALSE,"AG","Möhlin","Möhlin","Möhlin","Möhlin AG","Möhlin (AG)","Möhlin (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4255,57.462686567,231,171,49.457177322,410,829,402,TRUE,"AG","Mumpf","Mumpf","Mumpf","Mumpf AG","Mumpf (AG)","Mumpf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4256,56.233421751,212,165,53.706293706,384,715,377,TRUE,"AG","Obermumpf","Obermumpf","Obermumpf","Obermumpf AG","Obermumpf (AG)","Obermumpf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4257,60.119047619,101,67,68.8,172,250,168,TRUE,"AG","Olsberg","Olsberg","Olsberg","Olsberg AG","Olsberg (AG)","Olsberg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4258,51.390197926,2181,2063,56.010893529,4319,7711,4244,TRUE,"AG","Rheinfelden","Rheinfelden","Rheinfelden","Rheinfelden AG","Rheinfelden (AG)","Rheinfelden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4259,63.275434243,255,148,64.465408805,410,636,403,TRUE,"AG","Schupfart","Schupfart","Schupfart","Schupfart AG","Schupfart (AG)","Schupfart (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4260,58.372641509,495,353,51.22242099,859,1677,848,TRUE,"AG","Stein AG","Stein (AG)","Stein AG","Stein AG","Stein (AG)","Stein (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4261,60.606060606,520,338,63.290229885,881,1392,858,TRUE,"AG","Wallbach","Wallbach","Wallbach","Wallbach AG","Wallbach (AG)","Wallbach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4262,56.803455724,263,200,61.960784314,474,765,463,TRUE,"AG","Wegenstetten","Wegenstetten","Wegenstetten","Wegenstetten AG","Wegenstetten (AG)","Wegenstetten (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4263,55.106382979,518,422,57.45823389,963,1676,940,TRUE,"AG","Zeiningen","Zeiningen","Zeiningen","Zeiningen AG","Zeiningen (AG)","Zeiningen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4264,53.592814371,179,155,55.921052632,340,608,334,TRUE,"AG","Zuzgen","Zuzgen","Zuzgen","Zuzgen AG","Zuzgen (AG)","Zuzgen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4271,52.591463415,1035,933,49.031625398,2000,4079,1968,TRUE,"AG","Aarburg","Aarburg","Aarburg","Aarburg AG","Aarburg (AG)","Aarburg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4273,62.972972973,233,137,61.389337641,380,619,370,TRUE,"AG","Bottenwil","Bottenwil","Bottenwil","Bottenwil AG","Bottenwil (AG)","Bottenwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4274,58.262350937,1026,735,58.298011086,1788,3067,1761,TRUE,"AG","Brittnau","Brittnau","Brittnau","Brittnau AG","Brittnau (AG)","Brittnau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4275,65.6,246,129,61.12,382,625,375,TRUE,"AG","Kirchleerau","Kirchleerau","Kirchleerau","Kirchleerau AG","Kirchleerau (AG)","Kirchleerau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4276,55.548996458,941,753,56.085686465,1728,3081,1694,TRUE,"AG","Kölliken","Kölliken","Kölliken","Kölliken AG","Kölliken (AG)","Kölliken (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4277,62.303664921,238,144,59.083969466,387,655,382,TRUE,"AG","Moosleerau","Moosleerau","Moosleerau","Moosleerau AG","Moosleerau (AG)","Moosleerau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4279,55.801104972,606,480,54.518518519,1104,2025,1086,TRUE,"AG","Murgenthal","Murgenthal","Murgenthal","Murgenthal AG","Murgenthal (AG)","Murgenthal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4280,56.660849331,1948,1490,48.369640627,3486,7207,3438,TRUE,"AG","Oftringen","Oftringen","Oftringen","Oftringen AG","Oftringen (AG)","Oftringen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4281,60.519125683,443,289,63.30749354,735,1161,732,TRUE,"AG","Reitnau","Reitnau","Reitnau","Reitnau AG","Reitnau (AG)","Reitnau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4282,59.340277778,1709,1171,50.136798906,2932,5848,2880,TRUE,"AG","Rothrist","Rothrist","Rothrist","Rothrist AG","Rothrist (AG)","Rothrist (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4283,61.610352265,857,534,53.668683812,1419,2644,1391,TRUE,"AG","Safenwil","Safenwil","Safenwil","Safenwil AG","Safenwil (AG)","Safenwil (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4284,65.511265165,378,199,60.144181256,584,971,577,TRUE,"AG","Staffelbach","Staffelbach","Staffelbach","Staffelbach AG","Staffelbach (AG)","Staffelbach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4285,55.0089982,917,750,56.878573831,1691,2973,1667,TRUE,"AG","Strengelbach","Strengelbach","Strengelbach","Strengelbach AG","Strengelbach (AG)","Strengelbach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4286,58.823529412,370,259,59.627906977,641,1075,629,TRUE,"AG","Uerkheim","Uerkheim","Uerkheim","Uerkheim AG","Uerkheim (AG)","Uerkheim (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4287,60.859728507,538,346,59.418374091,899,1513,884,TRUE,"AG","Vordemwald","Vordemwald","Vordemwald","Vordemwald AG","Vordemwald (AG)","Vordemwald (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4288,71.028037383,76,31,77.464788732,110,142,107,TRUE,"AG","Wiliberg","Wiliberg","Wiliberg","Wiliberg AG","Wiliberg (AG)","Wiliberg (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4289,49.847908745,2622,2638,63.122923588,5320,8428,5260,TRUE,"AG","Zofingen","Zofingue","Zofingue","Zofingen AG","Zofingue (AG)","Zofingue (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4303,61.946133797,713,438,56.621880998,1180,2084,1151,TRUE,"AG","Böttstein","Böttstein","Böttstein","Böttstein AG","Böttstein (AG)","Böttstein (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4304,56.627592426,628,481,54.417475728,1121,2060,1109,TRUE,"AG","Döttingen","Döttingen","Döttingen","Döttingen AG","Döttingen (AG)","Döttingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4305,58.005249344,663,480,64.68298109,1163,1798,1143,TRUE,"AG","Endingen","Endingen","Endingen","Endingen AG","Endingen (AG)","Endingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4306,60.451977401,107,70,55.108359133,178,323,177,TRUE,"AG","Fisibach","Fisibach","Fisibach","Fisibach AG","Fisibach (AG)","Fisibach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4307,59.240506329,234,161,61.419753086,398,648,395,TRUE,"AG","Full-Reuenthal","Full-Reuenthal","Full-Reuenthal","Full-Reuenthal AG","Full-Reuenthal (AG)","Full-Reuenthal (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4309,55.36,692,558,61.020211742,1268,2078,1250,TRUE,"AG","Klingnau","Klingnau","Klingnau","Klingnau AG","Klingnau (AG)","Klingnau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4310,55.112219451,221,180,52.185089974,406,778,401,TRUE,"AG","Koblenz","Koblenz","Koblenz","Koblenz AG","Koblenz (AG)","Koblenz (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4311,71.028037383,304,124,56.732026144,434,765,428,TRUE,"AG","Leibstadt","Leibstadt","Leibstadt","Leibstadt AG","Leibstadt (AG)","Leibstadt (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4312,61.587810746,768,479,64.123294593,1269,1979,1247,TRUE,"AG","Lengnau AG","Lengnau (AG)","Lengnau AG","Lengnau AG","Lengnau (AG)","Lengnau (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4313,60.443037975,573,375,65.751544269,958,1457,948,TRUE,"AG","Leuggern","Leuggern","Leuggern","Leuggern AG","Leuggern (AG)","Leuggern (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4314,57,57,43,65.030674847,106,163,100,TRUE,"AG","Mellikon","Mellikon","Mellikon","Mellikon AG","Mellikon (AG)","Mellikon (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4318,63.347763348,439,254,63.44950849,710,1119,693,TRUE,"AG","Schneisingen","Schneisingen","Schneisingen","Schneisingen AG","Schneisingen (AG)","Schneisingen (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4319,63.190184049,206,120,61.958568738,329,531,326,TRUE,"AG","Siglistorf","Siglistorf","Siglistorf","Siglistorf AG","Siglistorf (AG)","Siglistorf (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4320,59.594095941,323,219,64.093567251,548,855,542,TRUE,"AG","Tegerfelden","Tegerfelden","Tegerfelden","Tegerfelden AG","Tegerfelden (AG)","Tegerfelden (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+19,4324,,,,,,,,FALSE,"AG","Zurzach","Zurzach","Zurzach","Zurzach AG","Zurzach (AG)","Zurzach (AG)","Aargau","Argovie","Argovia",57.233070362,FALSE,FALSE
+20,4401,,,,,,,,FALSE,"TG","Arbon","Arbon","Arbon","Arbon TG","Arbon (TG)","Arbon (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4406,63.829787234,210,119,73.548387097,342,465,329,TRUE,"TG","Dozwil","Dozwil","Dozwil","Dozwil TG","Dozwil (TG)","Dozwil (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4411,65.13064133,1371,734,62.698183915,2175,3469,2105,TRUE,"TG","Egnach","Egnach","Egnach","Egnach TG","Egnach (TG)","Egnach (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4416,64.828897338,341,185,60.622914349,545,899,526,TRUE,"TG","Hefenhofen","Hefenhofen","Hefenhofen","Hefenhofen TG","Hefenhofen (TG)","Hefenhofen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4421,65.948963317,827,427,59.402298851,1292,2175,1254,TRUE,"TG","Horn","Horn","Horn","Horn TG","Horn (TG)","Horn (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4426,60.138248848,261,173,68.325791855,453,663,434,TRUE,"TG","Kesswil","Kesswil","Kesswil","Kesswil TG","Kesswil (TG)","Kesswil (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4431,63.326374391,910,527,61.78556529,1481,2397,1437,TRUE,"TG","Roggwil TG","Roggwil (TG)","Roggwil TG","Roggwil TG","Roggwil (TG)","Roggwil (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4436,56.091370558,1989,1557,56.516348985,3647,6453,3546,TRUE,"TG","Romanshorn","Romanshorn","Romanshorn","Romanshorn TG","Romanshorn (TG)","Romanshorn (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4441,51.467268623,228,215,52.451539339,460,877,443,TRUE,"TG","Salmsach","Salmsach","Salmsach","Salmsach TG","Salmsach (TG)","Salmsach (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4446,59.706959707,163,110,64.7597254,283,437,273,TRUE,"TG","Sommeri","Sommeri","Sommeri","Sommeri TG","Sommeri (TG)","Sommeri (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4451,63.22815534,521,303,66.956521739,847,1265,824,TRUE,"TG","Uttwil","Uttwil","Uttwil","Uttwil TG","Uttwil (TG)","Uttwil (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4461,60.029069767,2478,1650,51.951399116,4233,8148,4128,TRUE,"TG","Amriswil","Amriswil","Amriswil","Amriswil TG","Amriswil (TG)","Amriswil (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4471,58.565153734,1200,849,56.742179072,2104,3708,2049,TRUE,"TG","Bischofszell","Bischofszell","Bischofszell","Bischofszell TG","Bischofszell (TG)","Bischofszell (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4476,63.222131814,777,452,57.536101083,1275,2216,1229,TRUE,"TG","Erlen","Erlen","Erlen","Erlen TG","Erlen (TG)","Erlen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4486,61.832946636,533,329,60.935350757,886,1454,862,TRUE,"TG","Hauptwil-Gottshaus","Hauptwil-Gottshaus","Hauptwil-Gottshaus","Hauptwil-Gottshaus TG","Hauptwil-Gottshaus (TG)","Hauptwil-Gottshaus (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4495,65.538461538,213,112,67.280163599,329,489,325,TRUE,"TG","Hohentannen","Hohentannen","Hohentannen","Hohentannen TG","Hohentannen (TG)","Hohentannen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4501,63.219284603,813,473,58.373626374,1328,2275,1286,TRUE,"TG","Kradolf-Schönenberg","Kradolf-Schönenberg","Kradolf-Schönenberg","Kradolf-Schönenberg TG","Kradolf-Schönenberg (TG)","Kradolf-Schönenberg (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4506,64.692653673,863,471,56.634973129,1370,2419,1334,TRUE,"TG","Sulgen","Sulgen","Sulgen","Sulgen TG","Sulgen (TG)","Sulgen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4511,64.637681159,669,366,61.865889213,1061,1715,1035,TRUE,"TG","Zihlschlacht-Sitterdorf","Zihlschlacht-Sitterdorf","Zihlschlacht-Sitterdorf","Zihlschlacht-Sitterdorf TG","Zihlschlacht-Sitterdorf (TG)","Zihlschlacht-Sitterdorf (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4536,58.168316832,470,338,65.566037736,834,1272,808,TRUE,"TG","Basadingen-Schlattingen","Basadingen-Schlattingen","Basadingen-Schlattingen","Basadingen-Schlattingen TG","Basadingen-Schlattingen (TG)","Basadingen-Schlattingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4545,60.41322314,731,479,58.88372093,1266,2150,1210,TRUE,"TG","Diessenhofen","Diessenhofen","Diessenhofen","Diessenhofen TG","Diessenhofen (TG)","Diessenhofen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4546,62.51572327,497,298,64.921875,831,1280,795,TRUE,"TG","Schlatt TG","Schlatt (TG)","Schlatt TG","Schlatt TG","Schlatt (TG)","Schlatt (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4551,59.566022757,2251,1528,60.586774294,3903,6442,3779,TRUE,"TG","Aadorf","Aadorf","Aadorf","Aadorf TG","Aadorf (TG)","Aadorf (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4561,64.08839779,696,390,53.671245855,1133,2111,1086,TRUE,"TG","Felben-Wellhausen","Felben-Wellhausen","Felben-Wellhausen","Felben-Wellhausen TG","Felben-Wellhausen (TG)","Felben-Wellhausen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4566,,,,,,,,FALSE,"TG","Frauenfeld","Frauenfeld","Frauenfeld","Frauenfeld TG","Frauenfeld (TG)","Frauenfeld (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4571,60.692002269,1070,693,58.518049398,1848,3158,1763,TRUE,"TG","Gachnang","Gachnang","Gachnang","Gachnang TG","Gachnang (TG)","Gachnang (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4590,61.757105943,239,148,66.338259442,404,609,387,TRUE,"TG","Hüttlingen","Hüttlingen","Hüttlingen","Hüttlingen TG","Hüttlingen (TG)","Hüttlingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4591,60.714285714,595,385,53.605015674,1026,1914,980,TRUE,"TG","Matzingen","Matzingen","Matzingen","Matzingen TG","Matzingen (TG)","Matzingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4601,67.391304348,372,180,68.04245283,577,848,552,TRUE,"TG","Neunforn","Neunforn","Neunforn","Neunforn TG","Neunforn (TG)","Neunforn (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4606,68.369028007,415,192,69.555555556,626,900,607,TRUE,"TG","Stettfurt","Stettfurt","Stettfurt","Stettfurt TG","Stettfurt (TG)","Stettfurt (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4611,61.508452536,473,296,63.266932271,794,1255,769,TRUE,"TG","Thundorf","Thundorf","Thundorf","Thundorf TG","Thundorf (TG)","Thundorf (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4616,67.109634551,404,198,69.710467706,626,898,602,TRUE,"TG","Uesslingen-Buch","Uesslingen-Buch","Uesslingen-Buch","Uesslingen-Buch TG","Uesslingen-Buch (TG)","Uesslingen-Buch (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4621,65.671641791,440,230,64.943609023,691,1064,670,TRUE,"TG","Warth-Weiningen","Warth-Weiningen","Warth-Weiningen","Warth-Weiningen TG","Warth-Weiningen (TG)","Warth-Weiningen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4641,53.426124197,499,435,65.994436718,949,1438,934,TRUE,"TG","Altnau","Altnau","Altnau","Altnau TG","Altnau (TG)","Altnau (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4643,58.089033659,535,386,66.501766784,941,1415,921,TRUE,"TG","Bottighofen","Bottighofen","Bottighofen","Bottighofen TG","Bottighofen (TG)","Bottighofen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4646,58.642857143,821,579,66.227272727,1457,2200,1400,TRUE,"TG","Ermatingen","Ermatingen","Ermatingen","Ermatingen TG","Ermatingen (TG)","Ermatingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4651,58.67768595,71,50,72.781065089,123,169,121,TRUE,"TG","Gottlieben","Gottlieben","Gottlieben","Gottlieben TG","Gottlieben (TG)","Gottlieben (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4656,56.438356164,412,318,64.620630861,758,1173,730,TRUE,"TG","Güttingen","Güttingen","Güttingen","Güttingen TG","Güttingen (TG)","Güttingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4666,61.137440758,645,410,62.507026419,1112,1779,1055,TRUE,"TG","Kemmental","Kemmental","Kemmental","Kemmental TG","Kemmental (TG)","Kemmental (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4671,52.693987934,2533,2274,58.693858305,4979,8483,4807,TRUE,"TG","Kreuzlingen","Kreuzlingen","Kreuzlingen","Kreuzlingen TG","Kreuzlingen (TG)","Kreuzlingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4681,62.539184953,399,239,66.531850354,658,989,638,TRUE,"TG","Langrickenbach","Langrickenbach","Langrickenbach","Langrickenbach TG","Langrickenbach (TG)","Langrickenbach (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4683,58.333333333,364,260,64.179104478,645,1005,624,TRUE,"TG","Lengwil","Lengwil","Lengwil","Lengwil TG","Lengwil (TG)","Lengwil (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4691,52.702702703,585,525,64.858757062,1148,1770,1110,TRUE,"TG","Münsterlingen","Münsterlingen","Münsterlingen","Münsterlingen TG","Münsterlingen (TG)","Münsterlingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4696,56.549935149,872,670,60.815868263,1625,2672,1542,TRUE,"TG","Tägerwilen","Tägerwilen","Tägerwilen","Tägerwilen TG","Tägerwilen (TG)","Tägerwilen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4701,66.94214876,324,160,65.771812081,490,745,484,TRUE,"TG","Wäldi","Wäldi","Wäldi","Wäldi TG","Wäldi (TG)","Wäldi (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4711,68.20702403,738,344,62.694877506,1126,1796,1082,TRUE,"TG","Affeltrangen","Affeltrangen","Affeltrangen","Affeltrangen TG","Affeltrangen (TG)","Affeltrangen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4716,68.993839836,336,151,59.543817527,496,833,487,TRUE,"TG","Bettwiesen","Bettwiesen","Bettwiesen","Bettwiesen TG","Bettwiesen (TG)","Bettwiesen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4721,63.694779116,793,452,60.227272727,1272,2112,1245,TRUE,"TG","Bichelsee-Balterswil","Bichelsee-Balterswil","Bichelsee-Balterswil","Bichelsee-Balterswil TG","Bichelsee-Balterswil (TG)","Bichelsee-Balterswil (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4723,62.75,251,149,64.678178964,412,637,400,TRUE,"TG","Braunau","Braunau","Braunau","Braunau TG","Braunau (TG)","Braunau (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4724,,,,,,,,FALSE,"TG","Eschlikon","Eschlikon","Eschlikon","Eschlikon TG","Eschlikon (TG)","Eschlikon (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4726,61.479198767,798,500,61.390667887,1342,2186,1298,TRUE,"TG","Fischingen","Fischingen","Fischingen","Fischingen TG","Fischingen (TG)","Fischingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4741,61.658031088,357,222,63.626609442,593,932,579,TRUE,"TG","Lommis","Lommis","Lommis","Lommis TG","Lommis (TG)","Lommis (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4746,59.376708584,1086,743,51.130482157,1877,3671,1829,TRUE,"TG","Münchwilen TG","Münchwilen (TG)","Münchwilen TG","Münchwilen TG","Münchwilen (TG)","Münchwilen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4751,58.869908016,448,313,51.587301587,780,1512,761,TRUE,"TG","Rickenbach TG","Rickenbach (TG)","Rickenbach TG","Rickenbach TG","Rickenbach (TG)","Rickenbach (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4756,66.336633663,268,136,66.393442623,405,610,404,TRUE,"TG","Schönholzerswilen","Schönholzerswilen","Schönholzerswilen","Schönholzerswilen TG","Schönholzerswilen (TG)","Schönholzerswilen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4761,61.367978601,1606,1011,53.20437671,2723,5118,2617,TRUE,"TG","Sirnach","Sirnach","Sirnach","Sirnach TG","Sirnach (TG)","Sirnach (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4776,61.949685535,394,242,59.75177305,674,1128,636,TRUE,"TG","Tobel-Tägerschen","Tobel-Tägerschen","Tobel-Tägerschen","Tobel-Tägerschen TG","Tobel-Tägerschen (TG)","Tobel-Tägerschen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4781,63.551401869,1224,702,60.982223561,2024,3319,1926,TRUE,"TG","Wängi","Wängi","Wängi","Wängi TG","Wängi (TG)","Wängi (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4786,61.303890641,583,368,59.765865681,970,1623,951,TRUE,"TG","Wilen TG","Wilen (TG)","Wilen TG","Wilen TG","Wilen (TG)","Wilen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4791,59.892086331,333,223,68.143712575,569,835,556,TRUE,"TG","Wuppenau","Wuppenau","Wuppenau","Wuppenau TG","Wuppenau (TG)","Wuppenau (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4801,60.64690027,225,146,65.570934256,379,578,371,TRUE,"TG","Berlingen","Berlingen","Berlingen","Berlingen TG","Berlingen (TG)","Berlingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4806,63.178807947,477,278,61.957379637,785,1267,755,TRUE,"TG","Eschenz","Eschenz","Eschenz","Eschenz TG","Eschenz (TG)","Eschenz (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4811,62.661737523,339,202,68.187422935,553,811,541,TRUE,"TG","Herdern","Herdern","Herdern","Herdern TG","Herdern (TG)","Herdern (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4816,65.972222222,475,245,66.6367713,743,1115,720,TRUE,"TG","Homburg","Homburg","Homburg","Homburg TG","Homburg (TG)","Homburg (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4821,61.39088729,512,322,68.699839486,856,1246,834,TRUE,"TG","Hüttwilen","Hüttwilen","Hüttwilen","Hüttwilen TG","Hüttwilen (TG)","Hüttwilen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4826,61.940298507,166,102,68.564356436,277,404,268,TRUE,"TG","Mammern","Mammern","Mammern","Mammern TG","Mammern (TG)","Mammern (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4831,65.183917879,762,407,55.03875969,1207,2193,1169,TRUE,"TG","Müllheim","Müllheim","Müllheim","Müllheim TG","Müllheim (TG)","Müllheim (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4841,,,,,,,,FALSE,"TG","Pfyn","Pfyn","Pfyn","Pfyn TG","Pfyn (TG)","Pfyn (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4846,60.849056604,129,83,67.936507937,214,315,212,TRUE,"TG","Raperswilen","Raperswilen","Raperswilen","Raperswilen TG","Raperswilen (TG)","Raperswilen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4851,63.130434783,363,212,66.516347238,590,887,575,TRUE,"TG","Salenstein","Salenstein","Salenstein","Salenstein TG","Salenstein (TG)","Salenstein (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4864,56.638418079,802,614,60.361099713,1471,2437,1416,TRUE,"TG","Steckborn","Steckborn","Steckborn","Steckborn TG","Steckborn (TG)","Steckborn (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4871,59.201141227,415,286,63.51590106,719,1132,701,TRUE,"TG","Wagenhausen","Wagenhausen","Wagenhausen","Wagenhausen TG","Wagenhausen (TG)","Wagenhausen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4881,62.02143951,405,248,66.236345581,667,1007,653,TRUE,"TG","Amlikon-Bissegg","Amlikon-Bissegg","Amlikon-Bissegg","Amlikon-Bissegg TG","Amlikon-Bissegg (TG)","Amlikon-Bissegg (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4891,63.108108108,934,546,62.540453074,1546,2472,1480,TRUE,"TG","Berg TG","Berg (TG)","Berg TG","Berg TG","Berg (TG)","Berg (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4901,60.821484992,385,248,64.894684052,647,997,633,TRUE,"TG","Birwinken","Birwinken","Birwinken","Birwinken TG","Birwinken (TG)","Birwinken (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4911,64.956590371,823,444,56.325301205,1309,2324,1267,TRUE,"TG","Bürglen TG","Bürglen (TG)","Bürglen TG","Bürglen TG","Bürglen (TG)","Bürglen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4921,63.548698168,659,378,64.067186563,1068,1667,1037,TRUE,"TG","Bussnang","Bussnang","Bussnang","Bussnang TG","Bussnang (TG)","Bussnang (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4941,64.724660814,811,442,63.505461768,1279,2014,1253,TRUE,"TG","Märstetten","Märstetten","Märstetten","Märstetten TG","Märstetten (TG)","Märstetten (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4946,57.548845471,2592,1912,60.635950681,4672,7705,4504,TRUE,"TG","Weinfelden","Weinfelden","Weinfelden","Weinfelden TG","Weinfelden (TG)","Weinfelden (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
+20,4951,,,,,,,,FALSE,"TG","Wigoltingen","Wigoltingen","Wigoltingen","Wigoltingen TG","Wigoltingen (TG)","Wigoltingen (TG)","Thurgau","Thurgovie","Turgovia",60.620762149,FALSE,FALSE
 21,5001,,,,,,,,FALSE,"TI","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione TI","Arbedo-Castione (TI)","Arbedo-Castione (TI)","Tessin","Tessin","Ticino",54.535141169,FALSE,FALSE
 21,5002,,,,,,,,FALSE,"TI","Bellinzona","Bellinzone","Bellinzona","Bellinzona TI","Bellinzone (TI)","Bellinzona (TI)","Tessin","Tessin","Ticino",54.535141169,FALSE,FALSE
 21,5003,55.769230769,348,276,43.792633015,642,1466,624,TRUE,"TI","Cadenazzo","Cadenazzo","Cadenazzo","Cadenazzo TI","Cadenazzo (TI)","Cadenazzo (TI)","Tessin","Tessin","Ticino",54.535141169,FALSE,FALSE
@@ -2053,54 +2053,54 @@
 25,6643,,,,,,,,FALSE,"GE","Vernier","Vernier","Vernier","Vernier GE","Vernier (GE)","Vernier (GE)","Genf","Genève","Ginevra",44.26849818,FALSE,FALSE
 25,6644,,,,,,,,FALSE,"GE","Versoix","Versoix","Versoix","Versoix GE","Versoix (GE)","Versoix (GE)","Genf","Genève","Ginevra",44.26849818,FALSE,FALSE
 25,6645,,,,,,,,FALSE,"GE","Veyrier","Veyrier","Veyrier","Veyrier GE","Veyrier (GE)","Veyrier (GE)","Genf","Genève","Ginevra",44.26849818,FALSE,FALSE
-26,6702,,,,,,,,FALSE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6703,51.824817518,71,66,55.731225296,141,253,137,TRUE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6704,30.472103004,71,162,59.147869674,236,399,233,TRUE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6706,,,,,,,,FALSE,"JU","Courchapoix","Courchapoix","Courchapoix","Courchapoix JU","Courchapoix (JU)","Courchapoix (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6708,,,,,,,,FALSE,"JU","Courrendlin","Courrendlin","Courrendlin","Courrendlin JU","Courrendlin (JU)","Courrendlin (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6709,41.498791297,515,726,52.79040926,1277,2419,1241,TRUE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6710,,,,,,,,FALSE,"JU","Courtételle","Courtételle","Courtételle","Courtételle JU","Courtételle (JU)","Courtételle (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6711,,,,,,,,FALSE,"JU","Delsberg","Delémont","Delémont","Delsberg JU","Delémont (JU)","Delémont (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6712,,,,,,,,FALSE,"JU","Develier","Develier","Develier","Develier JU","Develier (JU)","Develier (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6713,67.272727273,37,18,63.333333333,57,90,55,TRUE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6715,38.493723849,92,147,58.637469586,241,411,239,TRUE,"JU","Mervelier","Mervelier","Mervelier","Mervelier JU","Mervelier (JU)","Mervelier (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6716,40.384615385,21,31,69.736842105,53,76,52,TRUE,"JU","Mettembert","Mettembert","Mettembert","Mettembert JU","Mettembert (JU)","Mettembert (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6718,50.299401198,84,83,51.044776119,171,335,167,TRUE,"JU","Movelier","Movelier","Movelier","Movelier JU","Movelier (JU)","Movelier (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6719,44.886363636,79,97,54.491017964,182,334,176,TRUE,"JU","Pleigne","Pleigne","Pleigne","Pleigne JU","Pleigne (JU)","Pleigne (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6721,38.532110092,126,201,57.19237435,330,577,327,TRUE,"JU","Rossemaison","Rossemaison","Rossemaison","Rossemaison JU","Rossemaison (JU)","Rossemaison (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6722,50.387596899,65,64,62.962962963,136,216,129,TRUE,"JU","Saulcy","Saulcy","Saulcy","Saulcy JU","Saulcy (JU)","Saulcy (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6724,50.943396226,81,78,53.094462541,163,307,159,TRUE,"JU","Soyhières","Soyhières","Soyhières","Soyhières JU","Soyhières (JU)","Soyhières (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6729,36.94398682,897,1531,47.605363985,2485,5220,2428,TRUE,"JU","Haute-Sorne","Haute-Sorne","Haute-Sorne","Haute-Sorne JU","Haute-Sorne (JU)","Haute-Sorne (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6730,38.323353293,512,824,53.448275862,1364,2552,1336,TRUE,"JU","Val Terbi","Val Terbi","Val Terbi","Val Terbi JU","Val Terbi (JU)","Val Terbi (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6741,41.379310345,60,85,48.829431438,146,299,145,TRUE,"JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Le Bémont JU","Le Bémont (JU)","Le Bémont (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6742,,,,,,,,FALSE,"JU","Les Bois","Les Bois","Les Bois","Les Bois JU","Les Bois (JU)","Les Bois (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6743,,,,,,,,FALSE,"JU","Les Breuleux","Les Breuleux","Les Breuleux","Les Breuleux JU","Les Breuleux (JU)","Les Breuleux (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6745,31.944444444,23,49,64.864864865,72,111,72,TRUE,"JU","Les Enfers","Les Enfers","Les Enfers","Les Enfers JU","Les Enfers (JU)","Les Enfers (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6748,34.433962264,73,139,47.264770241,216,457,212,TRUE,"JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Les Genevez JU","Les Genevez (JU)","Les Genevez (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6750,26.1829653,83,234,55.348047538,326,589,317,TRUE,"JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Lajoux JU","Lajoux (JU)","Lajoux (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6751,39.453125,101,155,54.29769392,259,477,256,TRUE,"JU","Montfaucon","Montfaucon","Montfaucon","Montfaucon JU","Montfaucon (JU)","Montfaucon (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6753,49.099099099,109,113,48.17987152,225,467,222,TRUE,"JU","Muriaux","Muriaux","Muriaux","Muriaux JU","Muriaux (JU)","Muriaux (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6754,34.844192635,246,460,50.070224719,713,1424,706,TRUE,"JU","Le Noirmont","Le Noirmont","Le Noirmont","Le Noirmont JU","Le Noirmont (JU)","Le Noirmont (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6757,28.754578755,314,778,54.822834646,1114,2032,1092,TRUE,"JU","Saignelégier","Saignelégier","Saignelégier","Saignelégier JU","Saignelégier (JU)","Saignelégier (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6758,35.051546392,34,63,47.169811321,100,212,97,TRUE,"JU","Saint-Brais","Saint-Brais","Saint-Brais","Saint-Brais JU","Saint-Brais (JU)","Saint-Brais (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6759,55.93220339,33,26,44.029850746,59,134,59,TRUE,"JU","Soubey","Soubey","Soubey","Soubey JU","Soubey (JU)","Soubey (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6771,,,,,,,,FALSE,"JU","Alle","Alle","Alle","Alle JU","Alle (JU)","Alle (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6774,,,,,,,,FALSE,"JU","Boncourt","Boncourt","Boncourt","Boncourt JU","Boncourt (JU)","Boncourt (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6778,58.160237389,196,141,57.983193277,345,595,337,TRUE,"JU","Bure","Bure","Bure","Bure JU","Bure (JU)","Bure (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6781,40.363636364,111,164,47.474747475,282,594,275,TRUE,"JU","Coeuve","Coeuve","Coeuve","Coeuve JU","Coeuve (JU)","Coeuve (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6782,45.888594164,173,204,45.803357314,382,834,377,TRUE,"JU","Cornol","Cornol","Cornol","Cornol JU","Cornol (JU)","Cornol (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6783,45.070422535,64,78,59.414225941,142,239,142,TRUE,"JU","Courchavon","Courchavon","Courchavon","Courchavon JU","Courchavon (JU)","Courchavon (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6784,,,,,,,,FALSE,"JU","Courgenay","Courgenay","Courgenay","Courgenay JU","Courgenay (JU)","Courgenay (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6785,,,,,,,,FALSE,"JU","Courtedoux","Courtedoux","Courtedoux","Courtedoux JU","Courtedoux (JU)","Courtedoux (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6789,41.428571429,58,82,50.883392226,144,283,140,TRUE,"JU","Fahy","Fahy","Fahy","Fahy JU","Fahy (JU)","Fahy (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6790,,,,,,,,FALSE,"JU","Fontenais","Fontenais","Fontenais","Fontenais JU","Fontenais (JU)","Fontenais (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6792,49.006622517,74,77,50.825082508,154,303,151,TRUE,"JU","Grandfontaine","Grandfontaine","Grandfontaine","Grandfontaine JU","Grandfontaine (JU)","Grandfontaine (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6800,,,,,,,,FALSE,"JU","Pruntrut","Porrentruy","Porrentruy","Pruntrut JU","Porrentruy (JU)","Porrentruy (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6806,,,,,,,,FALSE,"JU","Vendlincourt","Vendlincourt","Vendlincourt","Vendlincourt JU","Vendlincourt (JU)","Vendlincourt (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6807,52.028639618,218,201,45.521601686,432,949,419,TRUE,"JU","Basse-Allaine","Basse-Allaine","Basse-Allaine","Basse-Allaine JU","Basse-Allaine (JU)","Basse-Allaine (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6808,42.768595041,207,277,43.091537133,499,1158,484,TRUE,"JU","Clos du Doubs","Clos du Doubs","Clos du Doubs","Clos du Doubs JU","Clos du Doubs (JU)","Clos du Doubs (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6809,46.044624746,227,266,49.069539667,501,1021,493,TRUE,"JU","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie JU","Haute-Ajoie (JU)","Haute-Ajoie (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6810,45.708154506,213,253,48.390342052,481,994,466,TRUE,"JU","La Baroche","La Baroche","La Baroche","La Baroche JU","La Baroche (JU)","La Baroche (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6811,49.333333333,74,76,51.170568562,153,299,150,TRUE,"JU","Damphreux-Lugnez","Damphreux-Lugnez","Damphreux-Lugnez","Damphreux-Lugnez JU","Damphreux-Lugnez (JU)","Damphreux-Lugnez (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6812,46.254071661,142,165,44.316546763,308,695,307,TRUE,"JU","Basse-Vendline","Basse-Vendline","Basse-Vendline","Basse-Vendline JU","Basse-Vendline (JU)","Basse-Vendline (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
-26,6831,,,,,,,,FALSE,"JU","Moutier","Moutier","Moutier","Moutier JU","Moutier (JU)","Moutier (JU)","Jura","Jura","Giura",40.329460215,FALSE,FALSE
+26,6702,39.889196676,144,217,50.68119891,372,734,361,TRUE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6703,51.824817518,71,66,55.731225296,141,253,137,TRUE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6704,30.472103004,71,162,59.147869674,236,399,233,TRUE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6706,37.288135593,66,111,49.720670391,178,358,177,TRUE,"JU","Courchapoix","Courchapoix","Courchapoix","Courchapoix JU","Courchapoix (JU)","Courchapoix (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6708,,,,,,,,FALSE,"JU","Courrendlin","Courrendlin","Courrendlin","Courrendlin JU","Courrendlin (JU)","Courrendlin (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6709,41.498791297,515,726,52.79040926,1277,2419,1241,TRUE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6710,,,,,,,,FALSE,"JU","Courtételle","Courtételle","Courtételle","Courtételle JU","Courtételle (JU)","Courtételle (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6711,,,,,,,,FALSE,"JU","Delsberg","Delémont","Delémont","Delsberg JU","Delémont (JU)","Delémont (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6712,38.848920863,216,340,56.955645161,565,992,556,TRUE,"JU","Develier","Develier","Develier","Develier JU","Develier (JU)","Develier (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6713,67.272727273,37,18,63.333333333,57,90,55,TRUE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6715,38.493723849,92,147,58.637469586,241,411,239,TRUE,"JU","Mervelier","Mervelier","Mervelier","Mervelier JU","Mervelier (JU)","Mervelier (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6716,40.384615385,21,31,69.736842105,53,76,52,TRUE,"JU","Mettembert","Mettembert","Mettembert","Mettembert JU","Mettembert (JU)","Mettembert (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6718,50.299401198,84,83,51.044776119,171,335,167,TRUE,"JU","Movelier","Movelier","Movelier","Movelier JU","Movelier (JU)","Movelier (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6719,44.886363636,79,97,54.491017964,182,334,176,TRUE,"JU","Pleigne","Pleigne","Pleigne","Pleigne JU","Pleigne (JU)","Pleigne (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6721,38.532110092,126,201,57.19237435,330,577,327,TRUE,"JU","Rossemaison","Rossemaison","Rossemaison","Rossemaison JU","Rossemaison (JU)","Rossemaison (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6722,50.387596899,65,64,62.962962963,136,216,129,TRUE,"JU","Saulcy","Saulcy","Saulcy","Saulcy JU","Saulcy (JU)","Saulcy (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6724,50.943396226,81,78,53.094462541,163,307,159,TRUE,"JU","Soyhières","Soyhières","Soyhières","Soyhières JU","Soyhières (JU)","Soyhières (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6729,36.94398682,897,1531,47.605363985,2485,5220,2428,TRUE,"JU","Haute-Sorne","Haute-Sorne","Haute-Sorne","Haute-Sorne JU","Haute-Sorne (JU)","Haute-Sorne (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6730,38.323353293,512,824,53.448275862,1364,2552,1336,TRUE,"JU","Val Terbi","Val Terbi","Val Terbi","Val Terbi JU","Val Terbi (JU)","Val Terbi (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6741,41.379310345,60,85,48.829431438,146,299,145,TRUE,"JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Le Bémont JU","Le Bémont (JU)","Le Bémont (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6742,38.850574713,169,266,46.058091286,444,964,435,TRUE,"JU","Les Bois","Les Bois","Les Bois","Les Bois JU","Les Bois (JU)","Les Bois (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6743,32.706222865,226,465,57.039420756,709,1243,691,TRUE,"JU","Les Breuleux","Les Breuleux","Les Breuleux","Les Breuleux JU","Les Breuleux (JU)","Les Breuleux (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6745,31.944444444,23,49,64.864864865,72,111,72,TRUE,"JU","Les Enfers","Les Enfers","Les Enfers","Les Enfers JU","Les Enfers (JU)","Les Enfers (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6748,34.433962264,73,139,47.264770241,216,457,212,TRUE,"JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Les Genevez JU","Les Genevez (JU)","Les Genevez (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6750,26.1829653,83,234,55.348047538,326,589,317,TRUE,"JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Lajoux JU","Lajoux (JU)","Lajoux (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6751,39.453125,101,155,54.29769392,259,477,256,TRUE,"JU","Montfaucon","Montfaucon","Montfaucon","Montfaucon JU","Montfaucon (JU)","Montfaucon (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6753,49.099099099,109,113,48.17987152,225,467,222,TRUE,"JU","Muriaux","Muriaux","Muriaux","Muriaux JU","Muriaux (JU)","Muriaux (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6754,34.844192635,246,460,50.070224719,713,1424,706,TRUE,"JU","Le Noirmont","Le Noirmont","Le Noirmont","Le Noirmont JU","Le Noirmont (JU)","Le Noirmont (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6757,28.754578755,314,778,54.822834646,1114,2032,1092,TRUE,"JU","Saignelégier","Saignelégier","Saignelégier","Saignelégier JU","Saignelégier (JU)","Saignelégier (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6758,35.051546392,34,63,47.169811321,100,212,97,TRUE,"JU","Saint-Brais","Saint-Brais","Saint-Brais","Saint-Brais JU","Saint-Brais (JU)","Saint-Brais (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6759,55.93220339,33,26,44.029850746,59,134,59,TRUE,"JU","Soubey","Soubey","Soubey","Soubey JU","Soubey (JU)","Soubey (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6771,43.47826087,320,416,51.780821918,756,1460,736,TRUE,"JU","Alle","Alle","Alle","Alle JU","Alle (JU)","Alle (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6774,55.476190476,233,187,43.306288032,427,986,420,TRUE,"JU","Boncourt","Boncourt","Boncourt","Boncourt JU","Boncourt (JU)","Boncourt (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6778,58.160237389,196,141,57.983193277,345,595,337,TRUE,"JU","Bure","Bure","Bure","Bure JU","Bure (JU)","Bure (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6781,40.363636364,111,164,47.474747475,282,594,275,TRUE,"JU","Coeuve","Coeuve","Coeuve","Coeuve JU","Coeuve (JU)","Coeuve (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6782,45.888594164,173,204,45.803357314,382,834,377,TRUE,"JU","Cornol","Cornol","Cornol","Cornol JU","Cornol (JU)","Cornol (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6783,45.070422535,64,78,59.414225941,142,239,142,TRUE,"JU","Courchavon","Courchavon","Courchavon","Courchavon JU","Courchavon (JU)","Courchavon (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6784,42.307692308,363,495,47.740881873,877,1837,858,TRUE,"JU","Courgenay","Courgenay","Courgenay","Courgenay JU","Courgenay (JU)","Courgenay (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6785,41.955835962,133,184,53.833333333,323,600,317,TRUE,"JU","Courtedoux","Courtedoux","Courtedoux","Courtedoux JU","Courtedoux (JU)","Courtedoux (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6789,41.428571429,58,82,50.883392226,144,283,140,TRUE,"JU","Fahy","Fahy","Fahy","Fahy JU","Fahy (JU)","Fahy (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6790,34.27672956,218,418,49.845440495,645,1294,636,TRUE,"JU","Fontenais","Fontenais","Fontenais","Fontenais JU","Fontenais (JU)","Fontenais (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6792,49.006622517,74,77,50.825082508,154,303,151,TRUE,"JU","Grandfontaine","Grandfontaine","Grandfontaine","Grandfontaine JU","Grandfontaine (JU)","Grandfontaine (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6800,,,,,,,,FALSE,"JU","Pruntrut","Porrentruy","Porrentruy","Pruntrut JU","Porrentruy (JU)","Porrentruy (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6806,48.638132296,125,132,54.184100418,259,478,257,TRUE,"JU","Vendlincourt","Vendlincourt","Vendlincourt","Vendlincourt JU","Vendlincourt (JU)","Vendlincourt (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6807,52.028639618,218,201,45.521601686,432,949,419,TRUE,"JU","Basse-Allaine","Basse-Allaine","Basse-Allaine","Basse-Allaine JU","Basse-Allaine (JU)","Basse-Allaine (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6808,42.768595041,207,277,43.091537133,499,1158,484,TRUE,"JU","Clos du Doubs","Clos du Doubs","Clos du Doubs","Clos du Doubs JU","Clos du Doubs (JU)","Clos du Doubs (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6809,46.044624746,227,266,49.069539667,501,1021,493,TRUE,"JU","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie JU","Haute-Ajoie (JU)","Haute-Ajoie (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6810,45.708154506,213,253,48.390342052,481,994,466,TRUE,"JU","La Baroche","La Baroche","La Baroche","La Baroche JU","La Baroche (JU)","La Baroche (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6811,49.333333333,74,76,51.170568562,153,299,150,TRUE,"JU","Damphreux-Lugnez","Damphreux-Lugnez","Damphreux-Lugnez","Damphreux-Lugnez JU","Damphreux-Lugnez (JU)","Damphreux-Lugnez (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6812,46.254071661,142,165,44.316546763,308,695,307,TRUE,"JU","Basse-Vendline","Basse-Vendline","Basse-Vendline","Basse-Vendline JU","Basse-Vendline (JU)","Basse-Vendline (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
+26,6831,,,,,,,,FALSE,"JU","Moutier","Moutier","Moutier","Moutier JU","Moutier (JU)","Moutier (JU)","Jura","Jura","Giura",40.421174246,FALSE,FALSE
