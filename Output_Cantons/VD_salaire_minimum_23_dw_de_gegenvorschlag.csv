@@ -1,5 +1,5 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_de","Text_de"
-5401,50,0,0,"Aigle VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5401,45.1,45.1,45.4,"Aigle VD",
 5402,44.7,44.7,45.3,"Bex VD",
 5403,54,54,41.5,"Chessel VD",
 5404,40.9,40.9,53.5,"Corbeyrier VD",
@@ -18,7 +18,7 @@
 5423,29.6,29.6,65,"Ballens VD",
 5424,49.6,49.6,46.3,"Berolle VD",
 5425,50,0,0,"Bière VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5426,50,0,0,"Bougy-Villars VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5426,51.8,51.8,42.4,"Bougy-Villars VD",
 5427,58.6,58.6,38,"Féchy VD",
 5428,51.6,51.6,40.2,"Gimel VD",
 5429,60.1,60.1,33.2,"Longirod VD",
@@ -33,7 +33,7 @@
 5458,47.9,47.9,44.9,"Faoug VD",
 5464,50.9,50.9,39,"Vully-les-Lacs VD",
 5471,54.5,54.5,40.8,"Bettens VD",
-5472,50,0,0,"Bournens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5472,52.9,52.9,44.2,"Bournens VD",
 5473,46,46,46,"Boussens VD",
 5474,53.8,53.8,43,"La Chaux (Cossonay) VD",
 5475,55.1,55.1,39.7,"Chavannes-le-Veyron VD",
@@ -47,11 +47,11 @@
 5484,47.2,47.2,45.5,"Gollion VD",
 5485,58.9,58.9,37.8,"Grancy VD",
 5486,48,48,43.8,"L'Isle VD",
-5487,50,0,0,"Lussery-Villars VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5487,42.8,42.8,49.4,"Lussery-Villars VD",
 5488,52.9,52.9,47.1,"Mauraz VD",
-5489,50,0,0,"Mex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5489,57.4,57.4,36.2,"Mex VD",
 5490,36.1,36.1,58.6,"Moiry VD",
-5491,50,0,0,"Mont-la-Ville VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5491,57.6,57.6,40,"Mont-la-Ville VD",
 5492,59.1,59.1,37.5,"Montricher VD",
 5493,50,0,0,"Orny VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5495,47,47,43.8,"Penthalaz VD",
@@ -59,14 +59,14 @@
 5497,48.8,48.8,41.2,"Pompaples VD",
 5498,50,0,0,"La Sarraz VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5499,60,60,35.7,"Senarclens VD",
-5501,50,0,0,"Sullens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5501,56.7,56.7,37.1,"Sullens VD",
 5503,50,0,0,"Vufflens-la-Ville VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5511,60.4,60.4,34.8,"Assens VD",
 5512,50.2,50.2,40.2,"Bercher VD",
 5514,54,54,43.1,"Bottens VD",
 5515,47.1,47.1,48.7,"Bretigny-sur-Morrens VD",
 5516,46.2,46.2,46.7,"Cugy VD",
-5518,50,0,0,"Echallens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5518,45.5,45.5,46.1,"Echallens VD",
 5520,50.5,50.5,41.4,"Essertines-sur-Yverdon VD",
 5521,49.2,49.2,43.8,"Etagnières VD",
 5522,43.2,43.2,53.4,"Fey VD",
@@ -80,7 +80,7 @@
 5535,58.8,58.8,35.4,"Saint-Barthélemy VD",
 5537,57.2,57.2,34.9,"Villars-le-Terroir VD",
 5539,55.4,55.4,37.7,"Vuarrens VD",
-5540,50,0,0,"Montilliez VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5540,56.3,56.3,39.7,"Montilliez VD",
 5541,55.9,55.9,35.2,"Goumoëns VD",
 5551,63.3,63.3,33.6,"Bonvillars VD",
 5552,56.8,56.8,36.1,"Bullet VD",
@@ -105,12 +105,12 @@
 5584,45.7,45.7,46.9,"Epalinges VD",
 5585,52.3,52.3,41.3,"Jouxtens-Mézery VD",
 5586,50,0,0,"Lausanne VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5587,50,0,0,"Le Mont-sur-Lausanne VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5587,49.6,49.6,43.2,"Le Mont-sur-Lausanne VD",
 5588,50,0,0,"Paudex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5589,40.3,40.3,52,"Prilly VD",
 5590,48,48,45.7,"Pully VD",
-5591,50,0,0,"Renens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5592,50,0,0,"Romanel-sur-Lausanne VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5591,35.9,35.9,57,"Renens VD",
+5592,44.1,44.1,47.5,"Romanel-sur-Lausanne VD",
 5601,49.8,49.8,46.2,"Chexbres VD",
 5604,50,0,0,"Forel (Lavaux) VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5606,54.9,54.9,39.3,"Lutry VD",
@@ -128,7 +128,7 @@
 5629,62.4,62.4,32.9,"Clarmont VD",
 5631,56.7,56.7,37.7,"Denens VD",
 5632,50,0,0,"Denges VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5633,50,0,0,"Echandens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5633,52.4,52.4,43.4,"Echandens VD",
 5634,55,55,38,"Echichens VD",
 5635,42.9,42.9,49.4,"Ecublens VD",
 5636,49.4,49.4,42.5,"Etoy VD",
@@ -137,17 +137,17 @@
 5639,53.5,53.5,38.3,"Lully VD",
 5640,58.4,58.4,39.2,"Lussy-sur-Morges VD",
 5642,43.8,43.8,48.9,"Morges VD",
-5643,50,0,0,"Préverenges VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5643,45.3,45.3,46.1,"Préverenges VD",
 5645,52.1,52.1,43.2,"Romanel-sur-Morges VD",
 5646,52.5,52.5,40.4,"Saint-Prex VD",
 5648,52.4,52.4,41.3,"Saint-Sulpice VD",
 5649,47.5,47.5,45.4,"Tolochenaz VD",
 5650,54.5,54.5,38.4,"Vaux-sur-Morges VD",
-5651,50,0,0,"Villars-Sainte-Croix VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5651,56.5,56.5,37.8,"Villars-Sainte-Croix VD",
 5652,50.6,50.6,47.3,"Villars-sous-Yens VD",
 5653,58.6,58.6,36.6,"Vufflens-le-Château VD",
 5654,59.4,59.4,37.7,"Vullierens VD",
-5655,50,0,0,"Yens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5655,51.1,51.1,43.3,"Yens VD",
 5656,49.3,49.3,42.7,"Hautemorges VD",
 5661,46.7,46.7,50.7,"Boulens VD",
 5663,67.6,67.6,19.6,"Bussy-sur-Moudon VD",
@@ -164,14 +164,14 @@
 5688,58.3,58.3,41.7,"Syens VD",
 5690,71.9,71.9,25,"Villars-le-Comte VD",
 5692,53,53,41.3,"Vucherens VD",
-5693,50,0,0,"Montanaire VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5693,52.4,52.4,43.4,"Montanaire VD",
 5701,70.5,70.5,25,"Arnex-sur-Nyon VD",
 5702,51.7,51.7,39.3,"Arzier-Le Muids VD",
 5703,52.3,52.3,39.5,"Bassins VD",
 5704,50,0,0,"Begnins VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5705,56.4,56.4,41,"Bogis-Bossey VD",
 5706,50,0,0,"Borex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5707,50,0,0,"Chavannes-de-Bogis VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5707,62.2,62.2,31.8,"Chavannes-de-Bogis VD",
 5708,58.1,58.1,36.2,"Chavannes-des-Bois VD",
 5709,51.2,51.2,41.3,"Chéserex VD",
 5710,59.9,59.9,33,"Coinsins VD",
@@ -192,9 +192,9 @@
 5725,50.8,50.8,41.3,"Prangins VD",
 5726,55.9,55.9,40.6,"La Rippe VD",
 5727,48.7,48.7,42.5,"Saint-Cergue VD",
-5728,50,0,0,"Signy-Avenex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5728,51.9,51.9,40.7,"Signy-Avenex VD",
 5729,50,0,0,"Tannay VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5730,50,0,0,"Trélex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5730,54,54,38.5,"Trélex VD",
 5731,50,0,0,"Le Vaud VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5732,56.5,56.5,37.8,"Vich VD",
 5741,49.3,49.3,48,"L'Abergement VD",
@@ -206,8 +206,8 @@
 5747,55.4,55.4,38,"Bofflens VD",
 5748,49.6,49.6,46.3,"Bretonnières VD",
 5749,47.1,47.1,45.1,"Chavornay VD",
-5750,50,0,0,"Les Clées VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5752,50,0,0,"Croy VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5750,49.3,49.3,41.1,"Les Clées VD",
+5752,39.5,39.5,57.6,"Croy VD",
 5754,46.7,46.7,47.4,"Juriens VD",
 5755,60.1,60.1,36.2,"Lignerolle VD",
 5756,51.2,51.2,48.2,"Montcherand VD",
@@ -217,11 +217,11 @@
 5760,52.4,52.4,45.5,"Rances VD",
 5761,50,0,0,"Romainmôtier-Envy VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5762,38.5,38.5,50.8,"Sergey VD",
-5763,50,0,0,"Valeyres-sous-Rances VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5763,57,57,37.6,"Valeyres-sous-Rances VD",
 5764,46.4,46.4,44.7,"Vallorbe VD",
 5765,50.5,50.5,44.1,"Vaulion VD",
-5766,50,0,0,"Vuiteboeuf VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5785,50,0,0,"Corcelles-le-Jorat VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5766,48,48,46.1,"Vuiteboeuf VD",
+5785,59,59,37.4,"Corcelles-le-Jorat VD",
 5790,46,46,47.7,"Maracon VD",
 5792,51.9,51.9,45.7,"Montpreveyres VD",
 5798,56.8,56.8,38,"Ropraz VD",
@@ -231,7 +231,7 @@
 5805,44.9,44.9,47.3,"Oron VD",
 5806,50,0,0,"Jorat-Mézières VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5812,44.2,44.2,51.9,"Champtauroz VD",
-5813,50,0,0,"Chevroux VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5813,48.1,48.1,47.6,"Chevroux VD",
 5816,52.8,52.8,37.5,"Corcelles-près-Payerne VD",
 5817,51.8,51.8,44.1,"Grandcour VD",
 5819,56.1,56.1,41.2,"Henniez VD",
@@ -239,7 +239,7 @@
 5822,49.8,49.8,39.8,"Payerne VD",
 5827,56.2,56.2,35.7,"Trey VD",
 5828,75,75,20.8,"Treytorrens (Payerne) VD",
-5830,50,0,0,"Villarzel VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5830,55.8,55.8,42.3,"Villarzel VD",
 5831,51.7,51.7,39.4,"Valbroye VD",
 5841,54.7,54.7,35.1,"Château-d'Oex VD",
 5842,53.1,53.1,42.6,"Rossinière VD",
@@ -276,7 +276,7 @@
 5907,61.5,61.5,35.6,"Chavannes-le-Chêne VD",
 5908,46.8,46.8,45.2,"Chêne-Pâquier VD",
 5909,59.6,59.6,36.6,"Cheseaux-Noréaz VD",
-5910,50,0,0,"Cronay VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5910,48.5,48.5,46.6,"Cronay VD",
 5911,50.9,50.9,43,"Cuarny VD",
 5912,51.2,51.2,42.9,"Démoret VD",
 5913,50,0,0,"Donneloye VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
@@ -294,7 +294,7 @@
 5931,47.3,47.3,47.9,"Treycovagnes VD",
 5932,58.1,58.1,37.6,"Ursins VD",
 5933,44.1,44.1,48.8,"Valeyres-sous-Montagny VD",
-5934,50,0,0,"Valeyres-sous-Ursins VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5934,54.7,54.7,39.4,"Valeyres-sous-Ursins VD",
 5935,50,0,0,"Villars-Epeney VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5937,51.9,51.9,38.5,"Vugelles-La Mothe VD",
 5938,50,0,0,"Yverdon-les-Bains VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."

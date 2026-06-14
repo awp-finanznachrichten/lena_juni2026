@@ -1,5 +1,5 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
-5401,"nessun risultato",0,0,"Aigle (VD)","I resultati di questa comune non sono ancora noti."
+5401,"due no",43.8,47.3,"Aigle (VD)",
 5402,"due no",45.5,45.7,"Bex (VD)",
 5403,"controproposta si",39.2,57.4,"Chessel (VD)",
 5404,"iniziative si",50,46,"Corbeyrier (VD)",
@@ -18,7 +18,7 @@
 5423,"iniziative si",61.1,34.5,"Ballens (VD)",
 5424,"due no",44.7,49.6,"Berolle (VD)",
 5425,"nessun risultato",0,0,"Bière (VD)","I resultati di questa comune non sono ancora noti."
-5426,"nessun risultato",0,0,"Bougy-Villars (VD)","I resultati di questa comune non sono ancora noti."
+5426,"controproposta si",35.1,60.7,"Bougy-Villars (VD)",
 5427,"controproposta si",32.5,65.6,"Féchy (VD)",
 5428,"controproposta si",43.1,51,"Gimel (VD)",
 5429,"controproposta si",43.8,51,"Longirod (VD)",
@@ -33,7 +33,7 @@
 5458,"due no",35.1,58.9,"Faoug (VD)",
 5464,"controproposta si",29.2,61.2,"Vully-les-Lacs (VD)",
 5471,"controproposta si",34.7,61.5,"Bettens (VD)",
-5472,"nessun risultato",0,0,"Bournens (VD)","I resultati di questa comune non sono ancora noti."
+5472,"controproposta si",32.2,64.4,"Bournens (VD)",
 5473,"due no",44,49.3,"Boussens (VD)",
 5474,"controproposta si",39.2,57,"La Chaux (Cossonay) (VD)",
 5475,"controproposta si",41,56.4,"Chavannes-le-Veyron (VD)",
@@ -47,11 +47,11 @@
 5484,"due no",44.3,50.1,"Gollion (VD)",
 5485,"controproposta si",33.5,64.9,"Grancy (VD)",
 5486,"due no",38,52.9,"L'Isle (VD)",
-5487,"nessun risultato",0,0,"Lussery-Villars (VD)","I resultati di questa comune non sono ancora noti."
+5487,"iniziative si",53,40.4,"Lussery-Villars (VD)",
 5488,"controproposta si",50,50,"Mauraz (VD)",
-5489,"nessun risultato",0,0,"Mex (VD)","I resultati di questa comune non sono ancora noti."
+5489,"controproposta si",36.2,59.6,"Mex (VD)",
 5490,"iniziative si",58.6,39.1,"Moiry (VD)",
-5491,"nessun risultato",0,0,"Mont-la-Ville (VD)","I resultati di questa comune non sono ancora noti."
+5491,"controproposta si",43,55.8,"Mont-la-Ville (VD)",
 5492,"controproposta si",35.7,62.2,"Montricher (VD)",
 5493,"nessun risultato",0,0,"Orny (VD)","I resultati di questa comune non sono ancora noti."
 5495,"due no",42.4,49.2,"Penthalaz (VD)",
@@ -59,14 +59,14 @@
 5497,"due no",36.1,54,"Pompaples (VD)",
 5498,"nessun risultato",0,0,"La Sarraz (VD)","I resultati di questa comune non sono ancora noti."
 5499,"controproposta si",32.4,63.8,"Senarclens (VD)",
-5501,"nessun risultato",0,0,"Sullens (VD)","I resultati di questa comune non sono ancora noti."
+5501,"controproposta si",38.8,56.7,"Sullens (VD)",
 5503,"nessun risultato",0,0,"Vufflens-la-Ville (VD)","I resultati di questa comune non sono ancora noti."
 5511,"controproposta si",33.7,63,"Assens (VD)",
 5512,"controproposta si",36.6,54.5,"Bercher (VD)",
 5514,"controproposta si",38.9,58.4,"Bottens (VD)",
 5515,"due no",47.1,49,"Bretigny-sur-Morrens (VD)",
 5516,"due no",49.5,43.6,"Cugy (VD)",
-5518,"nessun risultato",0,0,"Echallens (VD)","I resultati di questa comune non sono ancora noti."
+5518,"due no",44.9,47.3,"Echallens (VD)",
 5520,"controproposta si",42,51.6,"Essertines-sur-Yverdon (VD)",
 5521,"due no",41.8,51,"Etagnières (VD)",
 5522,"due no",44.6,50.7,"Fey (VD)",
@@ -80,7 +80,7 @@
 5535,"controproposta si",32.9,61.9,"Saint-Barthélemy (VD)",
 5537,"controproposta si",34.3,58.6,"Villars-le-Terroir (VD)",
 5539,"controproposta si",35,59.1,"Vuarrens (VD)",
-5540,"nessun risultato",0,0,"Montilliez (VD)","I resultati di questa comune non sono ancora noti."
+5540,"controproposta si",37.8,59.7,"Montilliez (VD)",
 5541,"controproposta si",33,59.2,"Goumoëns (VD)",
 5551,"controproposta si",29.7,67.7,"Bonvillars (VD)",
 5552,"controproposta si",30.5,61.2,"Bullet (VD)",
@@ -105,12 +105,12 @@
 5584,"due no",46.2,47.7,"Epalinges (VD)",
 5585,"controproposta si",35.7,58.7,"Jouxtens-Mézery (VD)",
 5586,"nessun risultato",0,0,"Losanna (VD)","I resultati di questa comune non sono ancora noti."
-5587,"nessun risultato",0,0,"Le Mont-sur-Lausanne (VD)","I resultati di questa comune non sono ancora noti."
+5587,"due no",43,50,"Le Mont-sur-Lausanne (VD)",
 5588,"nessun risultato",0,0,"Paudex (VD)","I resultati di questa comune non sono ancora noti."
 5589,"iniziative si",55,38.1,"Prilly (VD)",
 5590,"due no",42.3,51.3,"Pully (VD)",
-5591,"nessun risultato",0,0,"Renens (VD)","I resultati di questa comune non sono ancora noti."
-5592,"nessun risultato",0,0,"Romanel-sur-Lausanne (VD)","I resultati di questa comune non sono ancora noti."
+5591,"iniziative si",60.8,33.1,"Renens (VD)",
+5592,"due no",48.9,43.5,"Romanel-sur-Lausanne (VD)",
 5601,"due no",44.2,52.6,"Chexbres (VD)",
 5604,"nessun risultato",0,0,"Forel (Lavaux) (VD)","I resultati di questa comune non sono ancora noti."
 5606,"controproposta si",35.7,58.5,"Lutry (VD)",
@@ -128,7 +128,7 @@
 5629,"controproposta si",27.1,67.1,"Clarmont (VD)",
 5631,"controproposta si",34.3,60.7,"Denens (VD)",
 5632,"nessun risultato",0,0,"Denges (VD)","I resultati di questa comune non sono ancora noti."
-5633,"nessun risultato",0,0,"Echandens (VD)","I resultati di questa comune non sono ancora noti."
+5633,"controproposta si",41.7,55.3,"Echandens (VD)",
 5634,"controproposta si",37,56.6,"Echichens (VD)",
 5635,"due no",49.7,42.7,"Ecublens (VD)",
 5636,"due no",40.9,51.3,"Etoy (VD)",
@@ -137,17 +137,17 @@
 5639,"controproposta si",35.2,58.6,"Lully (VD)",
 5640,"controproposta si",41.6,56.7,"Lussy-sur-Morges (VD)",
 5642,"due no",48.6,44.6,"Morges (VD)",
-5643,"nessun risultato",0,0,"Préverenges (VD)","I resultati di questa comune non sono ancora noti."
+5643,"due no",47.1,44.6,"Préverenges (VD)",
 5645,"controproposta si",39.6,55.7,"Romanel-sur-Morges (VD)",
 5646,"controproposta si",38.7,55.1,"Saint-Prex (VD)",
 5648,"controproposta si",37.6,56.3,"Saint-Sulpice (VD)",
 5649,"due no",42.4,51,"Tolochenaz (VD)",
 5650,"controproposta si",41.4,50.5,"Vaux-sur-Morges (VD)",
-5651,"nessun risultato",0,0,"Villars-Sainte-Croix (VD)","I resultati di questa comune non sono ancora noti."
+5651,"controproposta si",42.1,53.6,"Villars-Sainte-Croix (VD)",
 5652,"controproposta si",47.3,51.4,"Villars-sous-Yens (VD)",
 5653,"controproposta si",30.5,65,"Vufflens-le-Château (VD)",
 5654,"controproposta si",31.9,61.8,"Vullierens (VD)",
-5655,"nessun risultato",0,0,"Yens (VD)","I resultati di questa comune non sono ancora noti."
+5655,"controproposta si",32.6,62.6,"Yens (VD)",
 5656,"due no",40,53.5,"Hautemorges (VD)",
 5661,"iniziative si",50,48.7,"Boulens (VD)",
 5663,"controproposta si",26.5,63.7,"Bussy-sur-Moudon (VD)",
@@ -164,14 +164,14 @@
 5688,"controproposta si",50,50,"Syens (VD)",
 5690,"controproposta si",23.4,75,"Villars-le-Comte (VD)",
 5692,"controproposta si",45.7,49.1,"Vucherens (VD)",
-5693,"nessun risultato",0,0,"Montanaire (VD)","I resultati di questa comune non sono ancora noti."
+5693,"controproposta si",39.8,56.9,"Montanaire (VD)",
 5701,"controproposta si",30.7,67,"Arnex-sur-Nyon (VD)",
 5702,"controproposta si",35.3,55.1,"Arzier-Le Muids (VD)",
 5703,"controproposta si",39.1,52.5,"Bassins (VD)",
 5704,"nessun risultato",0,0,"Begnins (VD)","I resultati di questa comune non sono ancora noti."
 5705,"controproposta si",38.4,59.3,"Bogis-Bossey (VD)",
 5706,"nessun risultato",0,0,"Borex (VD)","I resultati di questa comune non sono ancora noti."
-5707,"nessun risultato",0,0,"Chavannes-de-Bogis (VD)","I resultati di questa comune non sono ancora noti."
+5707,"controproposta si",30.4,64.8,"Chavannes-de-Bogis (VD)",
 5708,"controproposta si",31.6,63.5,"Chavannes-des-Bois (VD)",
 5709,"controproposta si",31,61.3,"Chéserex (VD)",
 5710,"controproposta si",35.7,57.7,"Coinsins (VD)",
@@ -192,9 +192,9 @@
 5725,"controproposta si",40.9,51.2,"Prangins (VD)",
 5726,"controproposta si",36.3,60.3,"La Rippe (VD)",
 5727,"due no",42.5,49.4,"Saint-Cergue (VD)",
-5728,"nessun risultato",0,0,"Signy-Avenex (VD)","I resultati di questa comune non sono ancora noti."
+5728,"controproposta si",32.4,61.6,"Signy-Avenex (VD)",
 5729,"nessun risultato",0,0,"Tannay (VD)","I resultati di questa comune non sono ancora noti."
-5730,"nessun risultato",0,0,"Trélex (VD)","I resultati di questa comune non sono ancora noti."
+5730,"controproposta si",34.4,57.9,"Trélex (VD)",
 5731,"nessun risultato",0,0,"Le Vaud (VD)","I resultati di questa comune non sono ancora noti."
 5732,"controproposta si",35.2,58.5,"Vich (VD)",
 5741,"due no",48,49.3,"L'Abergement (VD)",
@@ -206,8 +206,8 @@
 5747,"controproposta si",37,57.6,"Bofflens (VD)",
 5748,"due no",48,50.4,"Bretonnières (VD)",
 5749,"due no",46.4,46.8,"Chavornay (VD)",
-5750,"nessun risultato",0,0,"Les Clées (VD)","I resultati di questa comune non sono ancora noti."
-5752,"nessun risultato",0,0,"Croy (VD)","I resultati di questa comune non sono ancora noti."
+5750,"due no",49.3,39.7,"Les Clées (VD)",
+5752,"iniziative si",52.9,44.2,"Croy (VD)",
 5754,"due no",39.5,53.9,"Juriens (VD)",
 5755,"controproposta si",36.8,60.7,"Lignerolle (VD)",
 5756,"controproposta si",47.1,52.9,"Montcherand (VD)",
@@ -217,11 +217,11 @@
 5760,"controproposta si",43.3,55.4,"Rances (VD)",
 5761,"nessun risultato",0,0,"Romainmôtier-Envy (VD)","I resultati di questa comune non sono ancora noti."
 5762,"due no",44.6,49.2,"Sergey (VD)",
-5763,"nessun risultato",0,0,"Valeyres-sous-Rances (VD)","I resultati di questa comune non sono ancora noti."
+5763,"controproposta si",36.8,59.1,"Valeyres-sous-Rances (VD)",
 5764,"due no",41.3,50.5,"Vallorbe (VD)",
 5765,"controproposta si",43.1,54.3,"Vaulion (VD)",
-5766,"nessun risultato",0,0,"Vuiteboeuf (VD)","I resultati di questa comune non sono ancora noti."
-5785,"nessun risultato",0,0,"Corcelles-le-Jorat (VD)","I resultati di questa comune non sono ancora noti."
+5766,"due no",46.6,49,"Vuiteboeuf (VD)",
+5785,"controproposta si",40.5,55.9,"Corcelles-le-Jorat (VD)",
 5790,"due no",46,49.4,"Maracon (VD)",
 5792,"controproposta si",51,46.5,"Montpreveyres (VD)",
 5798,"controproposta si",37,58.3,"Ropraz (VD)",
@@ -231,7 +231,7 @@
 5805,"due no",47.2,45.6,"Oron (VD)",
 5806,"nessun risultato",0,0,"Jorat-Mézières (VD)","I resultati di questa comune non sono ancora noti."
 5812,"iniziative si",50.6,46.8,"Champtauroz (VD)",
-5813,"nessun risultato",0,0,"Chevroux (VD)","I resultati di questa comune non sono ancora noti."
+5813,"due no",39.9,55.8,"Chevroux (VD)",
 5816,"controproposta si",35.5,55.3,"Corcelles-près-Payerne (VD)",
 5817,"controproposta si",32.6,63.3,"Grandcour (VD)",
 5819,"controproposta si",39.5,57,"Henniez (VD)",
@@ -239,7 +239,7 @@
 5822,"due no",38.1,52.7,"Payerne (VD)",
 5827,"controproposta si",35.7,60.7,"Trey (VD)",
 5828,"controproposta si",14.6,85.4,"Treytorrens (Payerne) (VD)",
-5830,"nessun risultato",0,0,"Villarzel (VD)","I resultati di questa comune non sono ancora noti."
+5830,"controproposta si",44.9,54.5,"Villarzel (VD)",
 5831,"controproposta si",33.2,57.9,"Valbroye (VD)",
 5841,"controproposta si",28.8,61.9,"Château-d'Oex (VD)",
 5842,"controproposta si",29,69.8,"Rossinière (VD)",
@@ -276,7 +276,7 @@
 5907,"controproposta si",31.7,64.4,"Chavannes-le-Chêne (VD)",
 5908,"due no",37.1,56.5,"Chêne-Pâquier (VD)",
 5909,"controproposta si",39.8,56.8,"Cheseaux-Noréaz (VD)",
-5910,"nessun risultato",0,0,"Cronay (VD)","I resultati di questa comune non sono ancora noti."
+5910,"due no",44.6,50.5,"Cronay (VD)",
 5911,"controproposta si",30.7,66.7,"Cuarny (VD)",
 5912,"controproposta si",38.1,60.7,"Démoret (VD)",
 5913,"nessun risultato",0,0,"Donneloye (VD)","I resultati di questa comune non sono ancora noti."
@@ -294,7 +294,7 @@
 5931,"due no",41.4,55,"Treycovagnes (VD)",
 5932,"controproposta si",22.6,74.2,"Ursins (VD)",
 5933,"due no",43,50.8,"Valeyres-sous-Montagny (VD)",
-5934,"nessun risultato",0,0,"Valeyres-sous-Ursins (VD)","I resultati di questa comune non sono ancora noti."
+5934,"controproposta si",51.8,44.5,"Valeyres-sous-Ursins (VD)",
 5935,"nessun risultato",0,0,"Villars-Epeney (VD)","I resultati di questa comune non sono ancora noti."
 5937,"controproposta si",32.7,59.6,"Vugelles-La Mothe (VD)",
 5938,"nessun risultato",0,0,"Yverdon-les-Bains (VD)","I resultati di questa comune non sono ancora noti."

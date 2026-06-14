@@ -1,5 +1,5 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_de","Text_de"
-5401,"Noch keine Resultate",0,0,"Aigle VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5401,"Zweimal Nein",43.8,47.3,"Aigle VD",
 5402,"Zweimal Nein",45.5,45.7,"Bex VD",
 5403,"Gegenvorschlag Ja",39.2,57.4,"Chessel VD",
 5404,"Initiative Ja",50,46,"Corbeyrier VD",
@@ -18,7 +18,7 @@
 5423,"Initiative Ja",61.1,34.5,"Ballens VD",
 5424,"Zweimal Nein",44.7,49.6,"Berolle VD",
 5425,"Noch keine Resultate",0,0,"Bière VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5426,"Noch keine Resultate",0,0,"Bougy-Villars VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5426,"Gegenvorschlag Ja",35.1,60.7,"Bougy-Villars VD",
 5427,"Gegenvorschlag Ja",32.5,65.6,"Féchy VD",
 5428,"Gegenvorschlag Ja",43.1,51,"Gimel VD",
 5429,"Gegenvorschlag Ja",43.8,51,"Longirod VD",
@@ -33,7 +33,7 @@
 5458,"Zweimal Nein",35.1,58.9,"Faoug VD",
 5464,"Gegenvorschlag Ja",29.2,61.2,"Vully-les-Lacs VD",
 5471,"Gegenvorschlag Ja",34.7,61.5,"Bettens VD",
-5472,"Noch keine Resultate",0,0,"Bournens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5472,"Gegenvorschlag Ja",32.2,64.4,"Bournens VD",
 5473,"Zweimal Nein",44,49.3,"Boussens VD",
 5474,"Gegenvorschlag Ja",39.2,57,"La Chaux (Cossonay) VD",
 5475,"Gegenvorschlag Ja",41,56.4,"Chavannes-le-Veyron VD",
@@ -47,11 +47,11 @@
 5484,"Zweimal Nein",44.3,50.1,"Gollion VD",
 5485,"Gegenvorschlag Ja",33.5,64.9,"Grancy VD",
 5486,"Zweimal Nein",38,52.9,"L'Isle VD",
-5487,"Noch keine Resultate",0,0,"Lussery-Villars VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5487,"Initiative Ja",53,40.4,"Lussery-Villars VD",
 5488,"Gegenvorschlag Ja",50,50,"Mauraz VD",
-5489,"Noch keine Resultate",0,0,"Mex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5489,"Gegenvorschlag Ja",36.2,59.6,"Mex VD",
 5490,"Initiative Ja",58.6,39.1,"Moiry VD",
-5491,"Noch keine Resultate",0,0,"Mont-la-Ville VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5491,"Gegenvorschlag Ja",43,55.8,"Mont-la-Ville VD",
 5492,"Gegenvorschlag Ja",35.7,62.2,"Montricher VD",
 5493,"Noch keine Resultate",0,0,"Orny VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5495,"Zweimal Nein",42.4,49.2,"Penthalaz VD",
@@ -59,14 +59,14 @@
 5497,"Zweimal Nein",36.1,54,"Pompaples VD",
 5498,"Noch keine Resultate",0,0,"La Sarraz VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5499,"Gegenvorschlag Ja",32.4,63.8,"Senarclens VD",
-5501,"Noch keine Resultate",0,0,"Sullens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5501,"Gegenvorschlag Ja",38.8,56.7,"Sullens VD",
 5503,"Noch keine Resultate",0,0,"Vufflens-la-Ville VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5511,"Gegenvorschlag Ja",33.7,63,"Assens VD",
 5512,"Gegenvorschlag Ja",36.6,54.5,"Bercher VD",
 5514,"Gegenvorschlag Ja",38.9,58.4,"Bottens VD",
 5515,"Zweimal Nein",47.1,49,"Bretigny-sur-Morrens VD",
 5516,"Zweimal Nein",49.5,43.6,"Cugy VD",
-5518,"Noch keine Resultate",0,0,"Echallens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5518,"Zweimal Nein",44.9,47.3,"Echallens VD",
 5520,"Gegenvorschlag Ja",42,51.6,"Essertines-sur-Yverdon VD",
 5521,"Zweimal Nein",41.8,51,"Etagnières VD",
 5522,"Zweimal Nein",44.6,50.7,"Fey VD",
@@ -80,7 +80,7 @@
 5535,"Gegenvorschlag Ja",32.9,61.9,"Saint-Barthélemy VD",
 5537,"Gegenvorschlag Ja",34.3,58.6,"Villars-le-Terroir VD",
 5539,"Gegenvorschlag Ja",35,59.1,"Vuarrens VD",
-5540,"Noch keine Resultate",0,0,"Montilliez VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5540,"Gegenvorschlag Ja",37.8,59.7,"Montilliez VD",
 5541,"Gegenvorschlag Ja",33,59.2,"Goumoëns VD",
 5551,"Gegenvorschlag Ja",29.7,67.7,"Bonvillars VD",
 5552,"Gegenvorschlag Ja",30.5,61.2,"Bullet VD",
@@ -105,12 +105,12 @@
 5584,"Zweimal Nein",46.2,47.7,"Epalinges VD",
 5585,"Gegenvorschlag Ja",35.7,58.7,"Jouxtens-Mézery VD",
 5586,"Noch keine Resultate",0,0,"Lausanne VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5587,"Noch keine Resultate",0,0,"Le Mont-sur-Lausanne VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5587,"Zweimal Nein",43,50,"Le Mont-sur-Lausanne VD",
 5588,"Noch keine Resultate",0,0,"Paudex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5589,"Initiative Ja",55,38.1,"Prilly VD",
 5590,"Zweimal Nein",42.3,51.3,"Pully VD",
-5591,"Noch keine Resultate",0,0,"Renens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5592,"Noch keine Resultate",0,0,"Romanel-sur-Lausanne VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5591,"Initiative Ja",60.8,33.1,"Renens VD",
+5592,"Zweimal Nein",48.9,43.5,"Romanel-sur-Lausanne VD",
 5601,"Zweimal Nein",44.2,52.6,"Chexbres VD",
 5604,"Noch keine Resultate",0,0,"Forel (Lavaux) VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5606,"Gegenvorschlag Ja",35.7,58.5,"Lutry VD",
@@ -128,7 +128,7 @@
 5629,"Gegenvorschlag Ja",27.1,67.1,"Clarmont VD",
 5631,"Gegenvorschlag Ja",34.3,60.7,"Denens VD",
 5632,"Noch keine Resultate",0,0,"Denges VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5633,"Noch keine Resultate",0,0,"Echandens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5633,"Gegenvorschlag Ja",41.7,55.3,"Echandens VD",
 5634,"Gegenvorschlag Ja",37,56.6,"Echichens VD",
 5635,"Zweimal Nein",49.7,42.7,"Ecublens VD",
 5636,"Zweimal Nein",40.9,51.3,"Etoy VD",
@@ -137,17 +137,17 @@
 5639,"Gegenvorschlag Ja",35.2,58.6,"Lully VD",
 5640,"Gegenvorschlag Ja",41.6,56.7,"Lussy-sur-Morges VD",
 5642,"Zweimal Nein",48.6,44.6,"Morges VD",
-5643,"Noch keine Resultate",0,0,"Préverenges VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5643,"Zweimal Nein",47.1,44.6,"Préverenges VD",
 5645,"Gegenvorschlag Ja",39.6,55.7,"Romanel-sur-Morges VD",
 5646,"Gegenvorschlag Ja",38.7,55.1,"Saint-Prex VD",
 5648,"Gegenvorschlag Ja",37.6,56.3,"Saint-Sulpice VD",
 5649,"Zweimal Nein",42.4,51,"Tolochenaz VD",
 5650,"Gegenvorschlag Ja",41.4,50.5,"Vaux-sur-Morges VD",
-5651,"Noch keine Resultate",0,0,"Villars-Sainte-Croix VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5651,"Gegenvorschlag Ja",42.1,53.6,"Villars-Sainte-Croix VD",
 5652,"Gegenvorschlag Ja",47.3,51.4,"Villars-sous-Yens VD",
 5653,"Gegenvorschlag Ja",30.5,65,"Vufflens-le-Château VD",
 5654,"Gegenvorschlag Ja",31.9,61.8,"Vullierens VD",
-5655,"Noch keine Resultate",0,0,"Yens VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5655,"Gegenvorschlag Ja",32.6,62.6,"Yens VD",
 5656,"Zweimal Nein",40,53.5,"Hautemorges VD",
 5661,"Initiative Ja",50,48.7,"Boulens VD",
 5663,"Gegenvorschlag Ja",26.5,63.7,"Bussy-sur-Moudon VD",
@@ -164,14 +164,14 @@
 5688,"Gegenvorschlag Ja",50,50,"Syens VD",
 5690,"Gegenvorschlag Ja",23.4,75,"Villars-le-Comte VD",
 5692,"Gegenvorschlag Ja",45.7,49.1,"Vucherens VD",
-5693,"Noch keine Resultate",0,0,"Montanaire VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5693,"Gegenvorschlag Ja",39.8,56.9,"Montanaire VD",
 5701,"Gegenvorschlag Ja",30.7,67,"Arnex-sur-Nyon VD",
 5702,"Gegenvorschlag Ja",35.3,55.1,"Arzier-Le Muids VD",
 5703,"Gegenvorschlag Ja",39.1,52.5,"Bassins VD",
 5704,"Noch keine Resultate",0,0,"Begnins VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5705,"Gegenvorschlag Ja",38.4,59.3,"Bogis-Bossey VD",
 5706,"Noch keine Resultate",0,0,"Borex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5707,"Noch keine Resultate",0,0,"Chavannes-de-Bogis VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5707,"Gegenvorschlag Ja",30.4,64.8,"Chavannes-de-Bogis VD",
 5708,"Gegenvorschlag Ja",31.6,63.5,"Chavannes-des-Bois VD",
 5709,"Gegenvorschlag Ja",31,61.3,"Chéserex VD",
 5710,"Gegenvorschlag Ja",35.7,57.7,"Coinsins VD",
@@ -192,9 +192,9 @@
 5725,"Gegenvorschlag Ja",40.9,51.2,"Prangins VD",
 5726,"Gegenvorschlag Ja",36.3,60.3,"La Rippe VD",
 5727,"Zweimal Nein",42.5,49.4,"Saint-Cergue VD",
-5728,"Noch keine Resultate",0,0,"Signy-Avenex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5728,"Gegenvorschlag Ja",32.4,61.6,"Signy-Avenex VD",
 5729,"Noch keine Resultate",0,0,"Tannay VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5730,"Noch keine Resultate",0,0,"Trélex VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5730,"Gegenvorschlag Ja",34.4,57.9,"Trélex VD",
 5731,"Noch keine Resultate",0,0,"Le Vaud VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5732,"Gegenvorschlag Ja",35.2,58.5,"Vich VD",
 5741,"Zweimal Nein",48,49.3,"L'Abergement VD",
@@ -206,8 +206,8 @@
 5747,"Gegenvorschlag Ja",37,57.6,"Bofflens VD",
 5748,"Zweimal Nein",48,50.4,"Bretonnières VD",
 5749,"Zweimal Nein",46.4,46.8,"Chavornay VD",
-5750,"Noch keine Resultate",0,0,"Les Clées VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5752,"Noch keine Resultate",0,0,"Croy VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5750,"Zweimal Nein",49.3,39.7,"Les Clées VD",
+5752,"Initiative Ja",52.9,44.2,"Croy VD",
 5754,"Zweimal Nein",39.5,53.9,"Juriens VD",
 5755,"Gegenvorschlag Ja",36.8,60.7,"Lignerolle VD",
 5756,"Gegenvorschlag Ja",47.1,52.9,"Montcherand VD",
@@ -217,11 +217,11 @@
 5760,"Gegenvorschlag Ja",43.3,55.4,"Rances VD",
 5761,"Noch keine Resultate",0,0,"Romainmôtier-Envy VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5762,"Zweimal Nein",44.6,49.2,"Sergey VD",
-5763,"Noch keine Resultate",0,0,"Valeyres-sous-Rances VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5763,"Gegenvorschlag Ja",36.8,59.1,"Valeyres-sous-Rances VD",
 5764,"Zweimal Nein",41.3,50.5,"Vallorbe VD",
 5765,"Gegenvorschlag Ja",43.1,54.3,"Vaulion VD",
-5766,"Noch keine Resultate",0,0,"Vuiteboeuf VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
-5785,"Noch keine Resultate",0,0,"Corcelles-le-Jorat VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5766,"Zweimal Nein",46.6,49,"Vuiteboeuf VD",
+5785,"Gegenvorschlag Ja",40.5,55.9,"Corcelles-le-Jorat VD",
 5790,"Zweimal Nein",46,49.4,"Maracon VD",
 5792,"Gegenvorschlag Ja",51,46.5,"Montpreveyres VD",
 5798,"Gegenvorschlag Ja",37,58.3,"Ropraz VD",
@@ -231,7 +231,7 @@
 5805,"Zweimal Nein",47.2,45.6,"Oron VD",
 5806,"Noch keine Resultate",0,0,"Jorat-Mézières VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5812,"Initiative Ja",50.6,46.8,"Champtauroz VD",
-5813,"Noch keine Resultate",0,0,"Chevroux VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5813,"Zweimal Nein",39.9,55.8,"Chevroux VD",
 5816,"Gegenvorschlag Ja",35.5,55.3,"Corcelles-près-Payerne VD",
 5817,"Gegenvorschlag Ja",32.6,63.3,"Grandcour VD",
 5819,"Gegenvorschlag Ja",39.5,57,"Henniez VD",
@@ -239,7 +239,7 @@
 5822,"Zweimal Nein",38.1,52.7,"Payerne VD",
 5827,"Gegenvorschlag Ja",35.7,60.7,"Trey VD",
 5828,"Gegenvorschlag Ja",14.6,85.4,"Treytorrens (Payerne) VD",
-5830,"Noch keine Resultate",0,0,"Villarzel VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5830,"Gegenvorschlag Ja",44.9,54.5,"Villarzel VD",
 5831,"Gegenvorschlag Ja",33.2,57.9,"Valbroye VD",
 5841,"Gegenvorschlag Ja",28.8,61.9,"Château-d'Oex VD",
 5842,"Gegenvorschlag Ja",29,69.8,"Rossinière VD",
@@ -276,7 +276,7 @@
 5907,"Gegenvorschlag Ja",31.7,64.4,"Chavannes-le-Chêne VD",
 5908,"Zweimal Nein",37.1,56.5,"Chêne-Pâquier VD",
 5909,"Gegenvorschlag Ja",39.8,56.8,"Cheseaux-Noréaz VD",
-5910,"Noch keine Resultate",0,0,"Cronay VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5910,"Zweimal Nein",44.6,50.5,"Cronay VD",
 5911,"Gegenvorschlag Ja",30.7,66.7,"Cuarny VD",
 5912,"Gegenvorschlag Ja",38.1,60.7,"Démoret VD",
 5913,"Noch keine Resultate",0,0,"Donneloye VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
@@ -294,7 +294,7 @@
 5931,"Zweimal Nein",41.4,55,"Treycovagnes VD",
 5932,"Gegenvorschlag Ja",22.6,74.2,"Ursins VD",
 5933,"Zweimal Nein",43,50.8,"Valeyres-sous-Montagny VD",
-5934,"Noch keine Resultate",0,0,"Valeyres-sous-Ursins VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
+5934,"Gegenvorschlag Ja",51.8,44.5,"Valeyres-sous-Ursins VD",
 5935,"Noch keine Resultate",0,0,"Villars-Epeney VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
 5937,"Gegenvorschlag Ja",32.7,59.6,"Vugelles-La Mothe VD",
 5938,"Noch keine Resultate",0,0,"Yverdon-les-Bains VD","Die Resultate dieser Gemeinde sind noch nicht bekannt."
