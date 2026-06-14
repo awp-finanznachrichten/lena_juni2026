@@ -1,10 +1,10 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
-1301,50,0,0,"Einsiedeln (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1301,41.2,41.2,58.8,"Einsiedeln (SZ)",
 1311,41.7,41.7,58.3,"Gersau (SZ)",
 1321,34.6,34.6,65.4,"Feusisberg (SZ)",
 1322,40.4,40.4,59.6,"Freienbach (SZ)",
 1323,33.1,33.1,66.9,"Wollerau (SZ)",
-1331,50,0,0,"Küssnacht (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1331,41.8,41.8,58.2,"Küssnacht (SZ)",
 1341,36.7,36.7,63.3,"Altendorf (SZ)",
 1342,41.4,41.4,58.6,"Galgenen (SZ)",
 1343,56.4,56.4,43.6,"Innerthal (SZ)",
@@ -24,7 +24,7 @@
 1368,37.5,37.5,62.5,"Oberiberg (SZ)",
 1369,46.3,46.3,53.7,"Riemenstalden (SZ)",
 1370,40.6,40.6,59.4,"Rothenthurm (SZ)",
-1371,50,0,0,"Sattel (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1371,37.5,37.5,62.5,"Sattel (SZ)",
 1372,41,41,59,"Schwyz (SZ)",
 1373,39.2,39.2,60.8,"Steinen (SZ)",
 1374,33.3,33.3,66.7,"Steinerberg (SZ)",

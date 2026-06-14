@@ -35,7 +35,7 @@
 52,50,0,0,"Bassersdorf (ZH)","I resultati di questa comune non sono ancora noti."
 53,50,0,0,"Bülach (ZH)","I resultati di questa comune non sono ancora noti."
 54,50,0,0,"Dietlikon (ZH)","I resultati di questa comune non sono ancora noti."
-55,50,0,0,"Eglisau (ZH)","I resultati di questa comune non sono ancora noti."
+55,32.1,32.1,67.9,"Eglisau (ZH)",
 56,50,0,0,"Embrach (ZH)","I resultati di questa comune non sono ancora noti."
 57,28,28,72,"Freienstein-Teufen (ZH)",
 58,50,0,0,"Glattfelden (ZH)","I resultati di questa comune non sono ancora noti."
@@ -61,7 +61,7 @@
 86,50,0,0,"Dielsdorf (ZH)","I resultati di questa comune non sono ancora noti."
 87,18.2,18.2,81.8,"Hüttikon (ZH)",
 88,50,0,0,"Neerach (ZH)","I resultati di questa comune non sono ancora noti."
-89,50,0,0,"Niederglatt (ZH)","I resultati di questa comune non sono ancora noti."
+89,36.5,36.5,63.5,"Niederglatt (ZH)",
 90,50,0,0,"Niederhasli (ZH)","I resultati di questa comune non sono ancora noti."
 91,33.5,33.5,66.5,"Niederweningen (ZH)",
 92,50,0,0,"Oberglatt (ZH)","I resultati di questa comune non sono ancora noti."
@@ -89,7 +89,7 @@
 131,50,0,0,"Adliswil (ZH)","I resultati di questa comune non sono ancora noti."
 135,50,0,0,"Kilchberg (ZH)","I resultati di questa comune non sono ancora noti."
 136,50,0,0,"Langnau am Albis (ZH)","I resultati di questa comune non sono ancora noti."
-137,50,0,0,"Oberrieden (ZH)","I resultati di questa comune non sono ancora noti."
+137,34.3,34.3,65.7,"Oberrieden (ZH)",
 138,50,0,0,"Richterswil (ZH)","I resultati di questa comune non sono ancora noti."
 139,28.1,28.1,71.9,"Rüschlikon (ZH)",
 141,50,0,0,"Thalwil (ZH)","I resultati di questa comune non sono ancora noti."
@@ -109,16 +109,16 @@
 176,50,0,0,"Lindau (ZH)","I resultati di questa comune non sono ancora noti."
 177,36.8,36.8,63.2,"Pfäffikon (ZH)",
 178,50,0,0,"Russikon (ZH)","I resultati di questa comune non sono ancora noti."
-180,50,0,0,"Weisslingen (ZH)","I resultati di questa comune non sono ancora noti."
-181,50,0,0,"Wila (ZH)","I resultati di questa comune non sono ancora noti."
-182,50,0,0,"Wildberg (ZH)","I resultati di questa comune non sono ancora noti."
+180,23.3,23.3,76.7,"Weisslingen (ZH)",
+181,30.7,30.7,69.3,"Wila (ZH)",
+182,26.2,26.2,73.8,"Wildberg (ZH)",
 191,50,0,0,"Dübendorf (ZH)","I resultati di questa comune non sono ancora noti."
 192,50,0,0,"Egg (ZH)","I resultati di questa comune non sono ancora noti."
 193,50,0,0,"Fällanden (ZH)","I resultati di questa comune non sono ancora noti."
 194,50,0,0,"Greifensee (ZH)","I resultati di questa comune non sono ancora noti."
-195,50,0,0,"Maur (ZH)","I resultati di questa comune non sono ancora noti."
+195,27.4,27.4,72.6,"Maur (ZH)",
 196,33.3,33.3,66.7,"Mönchaltorf (ZH)",
-197,50,0,0,"Schwerzenbach (ZH)","I resultati di questa comune non sono ancora noti."
+197,36.9,36.9,63.1,"Schwerzenbach (ZH)",
 198,50,0,0,"Uster (ZH)","I resultati di questa comune non sono ancora noti."
 199,34.6,34.6,65.4,"Volketswil (ZH)",
 200,29.8,29.8,70.2,"Wangen-Brüttisellen (ZH)",
@@ -137,7 +137,7 @@
 226,50,0,0,"Schlatt (ZH)","I resultati di questa comune non sono ancora noti."
 227,31.5,31.5,68.5,"Seuzach (ZH)",
 228,50,0,0,"Turbenthal (ZH)","I resultati di questa comune non sono ancora noti."
-230,50,0,0,"Winterthour (ZH)","I resultati di questa comune non sono ancora noti."
+230,50.2,50.2,49.8,"Winterthour (ZH)","I resultati di questa comune non sono ancora noti."
 231,50,0,0,"Zell (ZH)","I resultati di questa comune non sono ancora noti."
 241,22.8,22.8,77.2,"Aesch (ZH)",
 242,50,0,0,"Birmensdorf (ZH)","I resultati di questa comune non sono ancora noti."
