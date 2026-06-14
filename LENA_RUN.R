@@ -45,21 +45,21 @@ time_start <- Sys.time()
 if (time_check_national == FALSE || simulation == TRUE) {
   
   #Dataframe for Overview
-  data_overview <- data.frame(50,50,"Abstimmung_de","Abstimmung_fr","Abstimmung_it")
-  colnames(data_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")
-  
-  ###Nationale Abstimmungen###
-  source("./Nationale_Abstimmungen/nationale_abstimmungen_neu.R", encoding="UTF-8")
-  
-  ###Output Übersichtsgrafiken###
-  source("./Nationale_Abstimmungen/outputs_overview.R", encoding="UTF-8")
-  
-  #Make Commit
-  source("./Config/commit.R", encoding="UTF-8")
-  
-  #Tabellen aktualisieren
-  source("./top_flop/top_flop_run.R", encoding="UTF-8")
-  source("./top_cantons/run_top_flop_cant.R", encoding="UTF-8")
+  # data_overview <- data.frame(50,50,"Abstimmung_de","Abstimmung_fr","Abstimmung_it")
+  # colnames(data_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")
+  # 
+  # ###Nationale Abstimmungen###
+  # source("./Nationale_Abstimmungen/nationale_abstimmungen_neu.R", encoding="UTF-8")
+  # 
+  # ###Output Übersichtsgrafiken###
+  # source("./Nationale_Abstimmungen/outputs_overview.R", encoding="UTF-8")
+  # 
+  # #Make Commit
+  # source("./Config/commit.R", encoding="UTF-8")
+  # 
+  # #Tabellen aktualisieren
+  # source("./top_flop/top_flop_run.R", encoding="UTF-8")
+  # source("./top_cantons/run_top_flop_cant.R", encoding="UTF-8")
 }
 
 if (time_check_kantonal == FALSE || simulation == TRUE) {   

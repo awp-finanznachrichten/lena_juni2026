@@ -35,7 +35,7 @@ datum_de <- "14. Juni 2026"
 datum_fr <- "14 juin 2026"
 datum_it <- "14 giugno 2026"
 
-for (i in 4:length(vorlagen_short) ) {
+for (i in 1:length(vorlagen_short) ) {
 
 #Nationale Ergebnisse holen
 results_national <- get_results(json_data,i,level="national")
