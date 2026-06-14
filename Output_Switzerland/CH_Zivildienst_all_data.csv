@@ -623,17 +623,17 @@
 6,1405,62.137681159,686,418,69.156041287,1139,1647,1104,TRUE,"OW","Lungern","Lungern","Lungern","Lungern OW","Lungern (OW)","Lungern (OW)","Obwalden","Obwald","Obvaldo",63.293225647,FALSE,FALSE
 6,1406,60.48513302,1546,1010,67.774343122,2631,3882,2556,TRUE,"OW","Sachseln","Sachseln","Sachseln","Sachseln OW","Sachseln (OW)","Sachseln (OW)","Obwalden","Obwald","Obvaldo",63.293225647,FALSE,FALSE
 6,1407,61.433793664,3025,1899,66.653532966,5075,7614,4924,TRUE,"OW","Sarnen","Sarnen","Sarnen","Sarnen OW","Sarnen (OW)","Sarnen (OW)","Obwalden","Obwald","Obvaldo",63.293225647,FALSE,FALSE
-7,1501,,,,,,,,FALSE,"NW","Beckenried","Beckenried","Beckenried","Beckenried NW","Beckenried (NW)","Beckenried (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1502,,,,,,,,FALSE,"NW","Buochs","Buochs","Buochs","Buochs NW","Buochs (NW)","Buochs (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1503,,,,,,,,FALSE,"NW","Dallenwil","Dallenwil","Dallenwil","Dallenwil NW","Dallenwil (NW)","Dallenwil (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1504,,,,,,,,FALSE,"NW","Emmetten","Emmetten","Emmetten","Emmetten NW","Emmetten (NW)","Emmetten (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1505,,,,,,,,FALSE,"NW","Ennetbürgen","Ennetbürgen","Ennetbürgen","Ennetbürgen NW","Ennetbürgen (NW)","Ennetbürgen (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1506,,,,,,,,FALSE,"NW","Ennetmoos","Ennetmoos","Ennetmoos","Ennetmoos NW","Ennetmoos (NW)","Ennetmoos (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1507,,,,,,,,FALSE,"NW","Hergiswil NW","Hergiswil (NW)","Hergiswil NW","Hergiswil NW","Hergiswil (NW)","Hergiswil (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1508,,,,,,,,FALSE,"NW","Oberdorf NW","Oberdorf (NW)","Oberdorf NW","Oberdorf NW","Oberdorf (NW)","Oberdorf (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1509,,,,,,,,FALSE,"NW","Stans","Stans","Stans","Stans NW","Stans (NW)","Stans (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1510,,,,,,,,FALSE,"NW","Stansstad","Stansstad","Stansstad","Stansstad NW","Stansstad (NW)","Stansstad (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1511,,,,,,,,FALSE,"NW","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen NW","Wolfenschiessen (NW)","Wolfenschiessen (NW)","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
+7,1501,66.722689076,1191,594,66.738973247,1846,2766,1785,TRUE,"NW","Beckenried","Beckenried","Beckenried","Beckenried NW","Beckenried (NW)","Beckenried (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1502,65.149599663,1546,827,62.076053443,2416,3892,2373,TRUE,"NW","Buochs","Buochs","Buochs","Buochs NW","Buochs (NW)","Buochs (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1503,61.600810537,608,379,68.767123288,1004,1460,987,TRUE,"NW","Dallenwil","Dallenwil","Dallenwil","Dallenwil NW","Dallenwil (NW)","Dallenwil (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1504,67.994505495,495,233,65.47826087,753,1150,728,TRUE,"NW","Emmetten","Emmetten","Emmetten","Emmetten NW","Emmetten (NW)","Emmetten (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1505,66.83188765,1618,803,66.47894878,2479,3729,2421,TRUE,"NW","Ennetbürgen","Ennetbürgen","Ennetbürgen","Ennetbürgen NW","Ennetbürgen (NW)","Ennetbürgen (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1506,64.285714286,711,395,67.447447447,1123,1665,1106,TRUE,"NW","Ennetmoos","Ennetmoos","Ennetmoos","Ennetmoos NW","Ennetmoos (NW)","Ennetmoos (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1507,68.865826538,1858,840,66.974708171,2754,4112,2698,TRUE,"NW","Hergiswil NW","Hergiswil (NW)","Hergiswil NW","Hergiswil NW","Hergiswil (NW)","Hergiswil (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1508,63.854679803,1037,587,70.908311911,1655,2334,1624,TRUE,"NW","Oberdorf NW","Oberdorf (NW)","Oberdorf NW","Oberdorf NW","Oberdorf (NW)","Oberdorf (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1509,57.016543069,1999,1507,59.727755644,3598,6024,3506,TRUE,"NW","Stans","Stans","Stans","Stans NW","Stans (NW)","Stans (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1510,56.381549485,1259,974,67.54176611,2264,3352,2233,TRUE,"NW","Stansstad","Stansstad","Stansstad","Stansstad NW","Stansstad (NW)","Stansstad (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
+7,1511,61.343719572,630,397,63.454545455,1047,1650,1027,TRUE,"NW","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen NW","Wolfenschiessen (NW)","Wolfenschiessen (NW)","Nidwalden","Nidwald","Nidvaldo",63.217493167,FALSE,FALSE
 8,1630,62.731021842,4107,2440,57.474747475,6828,11880,6547,TRUE,"GL","Glarus Nord","Glarus Nord","Glarus Nord","Glarus Nord GL","Glarus Nord (GL)","Glarus Nord (GL)","Glarus","Glaris","Glarona",62.495004662,FALSE,FALSE
 8,1631,65.558019217,2661,1398,59.171937895,4116,6956,4059,TRUE,"GL","Glarus Süd","Glarus Süd","Glarus Süd","Glarus Süd GL","Glarus Süd (GL)","Glarus Süd (GL)","Glarus","Glaris","Glarona",62.495004662,FALSE,FALSE
 8,1632,59.323956443,2615,1793,56.75102855,4552,8021,4408,TRUE,"GL","Glarus","Glaris","Glarona","Glarus GL","Glaris (GL)","Glarona (GL)","Glarus","Glaris","Glarona",62.495004662,FALSE,FALSE
