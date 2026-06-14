@@ -1,7 +1,7 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
 1301,50,0,0,"Einsiedeln (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1311,50,0,0,"Gersau (SZ)","Les résultats ne sont pas encore connus dans cette commune."
-1321,50,0,0,"Feusisberg (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1321,34.6,34.6,65.4,"Feusisberg (SZ)",
 1322,50,0,0,"Freienbach (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1323,50,0,0,"Wollerau (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1331,50,0,0,"Küssnacht (SZ)","Les résultats ne sont pas encore connus dans cette commune."
@@ -14,7 +14,7 @@
 1347,50,0,0,"Tuggen (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1348,50,0,0,"Vorderthal (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1349,50,0,0,"Wangen (SZ)","Les résultats ne sont pas encore connus dans cette commune."
-1361,50,0,0,"Alpthal (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1361,30.4,30.4,69.6,"Alpthal (SZ)",
 1362,50,0,0,"Arth (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1363,50,0,0,"Illgau (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1364,50,0,0,"Ingenbohl (SZ)","Les résultats ne sont pas encore connus dans cette commune."
@@ -22,10 +22,10 @@
 1366,50,0,0,"Morschach (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1367,50,0,0,"Muotathal (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1368,50,0,0,"Oberiberg (SZ)","Les résultats ne sont pas encore connus dans cette commune."
-1369,50,0,0,"Riemenstalden (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1369,46.3,46.3,53.7,"Riemenstalden (SZ)",
 1370,50,0,0,"Rothenthurm (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1371,50,0,0,"Sattel (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1372,50,0,0,"Schwyz (SZ)","Les résultats ne sont pas encore connus dans cette commune."
 1373,50,0,0,"Steinen (SZ)","Les résultats ne sont pas encore connus dans cette commune."
-1374,50,0,0,"Steinerberg (SZ)","Les résultats ne sont pas encore connus dans cette commune."
+1374,33.3,33.3,66.7,"Steinerberg (SZ)",
 1375,50,0,0,"Unteriberg (SZ)","Les résultats ne sont pas encore connus dans cette commune."
