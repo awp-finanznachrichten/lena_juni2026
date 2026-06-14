@@ -13,7 +13,7 @@
 12,50,0,0,"Rifferswil (ZH)","I risultati di questo comune non sono ancora noti."
 13,50,0,0,"Stallikon (ZH)","I risultati di questo comune non sono ancora noti."
 14,50,0,0,"Wettswil am Albis (ZH)","I risultati di questo comune non sono ancora noti."
-22,50,0,0,"Benken (ZH)","I risultati di questo comune non sono ancora noti."
+22,31.9,31.9,68.1,"Benken (ZH)",
 23,50,0,0,"Berg am Irchel (ZH)","I risultati di questo comune non sono ancora noti."
 24,50,0,0,"Buch am Irchel (ZH)","I risultati di questo comune non sono ancora noti."
 25,50,0,0,"Dachsen (ZH)","I risultati di questo comune non sono ancora noti."
@@ -21,7 +21,7 @@
 27,50,0,0,"Feuerthalen (ZH)","I risultati di questo comune non sono ancora noti."
 28,50,0,0,"Flaach (ZH)","I risultati di questo comune non sono ancora noti."
 29,50,0,0,"Flurlingen (ZH)","I risultati di questo comune non sono ancora noti."
-31,50,0,0,"Henggart (ZH)","I risultati di questo comune non sono ancora noti."
+31,29.2,29.2,70.8,"Henggart (ZH)",
 33,50,0,0,"Kleinandelfingen (ZH)","I risultati di questo comune non sono ancora noti."
 34,50,0,0,"Laufen-Uhwiesen (ZH)","I risultati di questo comune non sono ancora noti."
 35,50,0,0,"Marthalen (ZH)","I risultati di questo comune non sono ancora noti."
@@ -30,7 +30,7 @@
 39,50,0,0,"Thalheim an der Thur (ZH)","I risultati di questo comune non sono ancora noti."
 40,50,0,0,"Trüllikon (ZH)","I risultati di questo comune non sono ancora noti."
 41,33.6,33.6,66.4,"Truttikon (ZH)",
-43,50,0,0,"Volken (ZH)","I risultati di questo comune non sono ancora noti."
+43,36.2,36.2,63.8,"Volken (ZH)",
 51,50,0,0,"Bachenbülach (ZH)","I risultati di questo comune non sono ancora noti."
 52,50,0,0,"Bassersdorf (ZH)","I risultati di questo comune non sono ancora noti."
 53,50,0,0,"Bülach (ZH)","I risultati di questo comune non sono ancora noti."
@@ -43,7 +43,7 @@
 60,50,0,0,"Höri (ZH)","I risultati di questo comune non sono ancora noti."
 61,30.3,30.3,69.7,"Hüntwangen (ZH)",
 62,50,0,0,"Kloten (ZH)","I risultati di questo comune non sono ancora noti."
-63,50,0,0,"Lufingen (ZH)","I risultati di questo comune non sono ancora noti."
+63,34,34,66,"Lufingen (ZH)",
 64,50,0,0,"Nürensdorf (ZH)","I risultati di questo comune non sono ancora noti."
 65,36.7,36.7,63.3,"Oberembrach (ZH)",
 66,50,0,0,"Opfikon (ZH)","I risultati di questo comune non sono ancora noti."
@@ -139,7 +139,7 @@
 228,50,0,0,"Turbenthal (ZH)","I risultati di questo comune non sono ancora noti."
 230,50,0,0,"Winterthour (ZH)","I risultati di questo comune non sono ancora noti."
 231,50,0,0,"Zell (ZH)","I risultati di questo comune non sono ancora noti."
-241,50,0,0,"Aesch (ZH)","I risultati di questo comune non sono ancora noti."
+241,28.5,28.5,71.5,"Aesch (ZH)",
 242,50,0,0,"Birmensdorf (ZH)","I risultati di questo comune non sono ancora noti."
 243,50,0,0,"Dietikon (ZH)","I risultati di questo comune non sono ancora noti."
 244,50,0,0,"Geroldswil (ZH)","I risultati di questo comune non sono ancora noti."
