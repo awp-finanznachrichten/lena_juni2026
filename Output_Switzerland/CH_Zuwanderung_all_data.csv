@@ -871,9 +871,9 @@
 11,2620,62.876254181,188,111,62.761506276,300,478,299,TRUE,"SO","Meltingen","Meltingen","Meltingen","Meltingen SO","Meltingen (SO)","Meltingen (SO)","Solothurn","Soleure","Soletta",50.673493135,FALSE,FALSE
 11,2621,58.823529412,530,371,58.957654723,905,1535,901,TRUE,"SO","Nunningen","Nunningen","Nunningen","Nunningen SO","Nunningen (SO)","Nunningen (SO)","Solothurn","Soleure","Soletta",50.673493135,FALSE,FALSE
 11,2622,64.754098361,158,86,50.935550936,245,481,244,TRUE,"SO","Zullwil","Zullwil","Zullwil","Zullwil SO","Zullwil (SO)","Zullwil (SO)","Solothurn","Soleure","Soletta",50.673493135,FALSE,FALSE
-12,2701,25.506572736,14048,41028,61.303197354,55602,90700,55076,FALSE,"BS","Basel","Bâle","Basilea","Basel BS","Bâle (BS)","Basilea (BS)","Basel-Stadt","Bâle-Ville","Basilea Città",26.752773044,FALSE,FALSE
-12,2702,36.89516129,183,313,65.110246433,502,771,496,FALSE,"BS","Bettingen","Bettingen","Bettingen","Bettingen BS","Bettingen (BS)","Bettingen (BS)","Basel-Stadt","Bâle-Ville","Basilea Città",26.752773044,FALSE,FALSE
-12,2703,34.50028885,2986,5669,66.786150092,8757,13112,8655,FALSE,"BS","Riehen","Riehen","Riehen","Riehen BS","Riehen (BS)","Riehen (BS)","Basel-Stadt","Bâle-Ville","Basilea Città",26.752773044,FALSE,FALSE
+12,2701,25.282502985,14610,43177,64.339581036,58356,90700,57787,TRUE,"BS","Basel","Bâle","Basilea","Basel BS","Bâle (BS)","Basilea (BS)","Basel-Stadt","Bâle-Ville","Basilea Città",26.517370986,FALSE,FALSE
+12,2702,36.594911937,187,324,67.055771725,517,771,511,TRUE,"BS","Bettingen","Bettingen","Bettingen","Bettingen BS","Bettingen (BS)","Bettingen (BS)","Basel-Stadt","Bâle-Ville","Basilea Città",26.517370986,FALSE,FALSE
+12,2703,34.251310068,3072,5897,69.211409396,9075,13112,8969,TRUE,"BS","Riehen","Riehen","Riehen","Riehen BS","Riehen (BS)","Riehen (BS)","Basel-Stadt","Bâle-Ville","Basilea Città",26.517370986,FALSE,FALSE
 13,2761,45.271523179,1709,2066,54.855755498,3841,7002,3775,TRUE,"BL","Aesch BL","Aesch (BL)","Aesch BL","Aesch BL","Aesch (BL)","Aesch (BL)","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",44.131151665,FALSE,FALSE
 13,2762,38.667220837,2791,4427,56.844178471,7504,13201,7218,TRUE,"BL","Allschwil","Allschwil","Allschwil","Allschwil BL","Allschwil (BL)","Allschwil (BL)","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",44.131151665,FALSE,FALSE
 13,2763,31.264667536,1199,2636,62.967067764,3977,6316,3835,TRUE,"BL","Arlesheim","Arlesheim","Arlesheim","Arlesheim BL","Arlesheim (BL)","Arlesheim (BL)","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",44.131151665,FALSE,FALSE
