@@ -18,8 +18,8 @@
 24,20.8,20.8,79.2,"Buch am Irchel (ZH)",
 25,50,0,0,"Dachsen (ZH)","I resultati di questa comune non sono ancora noti."
 26,16,16,84,"Dorf (ZH)",
-27,50,0,0,"Feuerthalen (ZH)","I resultati di questa comune non sono ancora noti."
-28,50,0,0,"Flaach (ZH)","I resultati di questa comune non sono ancora noti."
+27,33.4,33.4,66.6,"Feuerthalen (ZH)",
+28,19.9,19.9,80.1,"Flaach (ZH)",
 29,30.8,30.8,69.2,"Flurlingen (ZH)",
 31,24.2,24.2,75.8,"Henggart (ZH)",
 33,50,0,0,"Kleinandelfingen (ZH)","I resultati di questa comune non sono ancora noti."
@@ -40,7 +40,7 @@
 57,26.3,26.3,73.7,"Freienstein-Teufen (ZH)",
 58,50,0,0,"Glattfelden (ZH)","I resultati di questa comune non sono ancora noti."
 59,27.7,27.7,72.3,"Hochfelden (ZH)",
-60,50,0,0,"Höri (ZH)","I resultati di questa comune non sono ancora noti."
+60,29.8,29.8,70.2,"Höri (ZH)",
 61,24.3,24.3,75.7,"Hüntwangen (ZH)",
 62,50,0,0,"Kloten (ZH)","I resultati di questa comune non sono ancora noti."
 63,23.2,23.2,76.8,"Lufingen (ZH)",
@@ -48,8 +48,8 @@
 65,26.2,26.2,73.8,"Oberembrach (ZH)",
 66,50,0,0,"Opfikon (ZH)","I resultati di questa comune non sono ancora noti."
 67,31.5,31.5,68.5,"Rafz (ZH)",
-68,50,0,0,"Rorbas (ZH)","I resultati di questa comune non sono ancora noti."
-69,50,0,0,"Wallisellen (ZH)","I resultati di questa comune non sono ancora noti."
+68,35.1,35.1,64.9,"Rorbas (ZH)",
+69,34.7,34.7,65.3,"Wallisellen (ZH)",
 70,27.6,27.6,72.4,"Wasterkingen (ZH)",
 71,28,28,72,"Wil (ZH)",
 72,50,0,0,"Winkel (ZH)","I resultati di questa comune non sono ancora noti."
@@ -68,7 +68,7 @@
 93,50,0,0,"Oberweningen (ZH)","I resultati di questa comune non sono ancora noti."
 94,50,0,0,"Otelfingen (ZH)","I resultati di questa comune non sono ancora noti."
 95,30.6,30.6,69.4,"Regensberg (ZH)",
-96,50,0,0,"Regensdorf (ZH)","I resultati di questa comune non sono ancora noti."
+96,38.9,38.9,61.1,"Regensdorf (ZH)",
 97,35.7,35.7,64.3,"Rümlang (ZH)",
 98,29.6,29.6,70.4,"Schleinikon (ZH)",
 99,24.3,24.3,75.7,"Schöfflisdorf (ZH)",
@@ -78,7 +78,7 @@
 111,50,0,0,"Bäretswil (ZH)","I resultati di questa comune non sono ancora noti."
 112,28.8,28.8,71.2,"Bubikon (ZH)",
 113,50,0,0,"Dürnten (ZH)","I resultati di questa comune non sono ancora noti."
-114,50,0,0,"Fischenthal (ZH)","I resultati di questa comune non sono ancora noti."
+114,26.1,26.1,73.9,"Fischenthal (ZH)",
 115,50,0,0,"Gossau (ZH)","I resultati di questa comune non sono ancora noti."
 116,50,0,0,"Grüningen (ZH)","I resultati di questa comune non sono ancora noti."
 117,50,0,0,"Hinwil (ZH)","I resultati di questa comune non sono ancora noti."
@@ -101,7 +101,7 @@
 156,28.6,28.6,71.4,"Meilen (ZH)",
 157,50,0,0,"Oetwil am See (ZH)","I resultati di questa comune non sono ancora noti."
 158,50,0,0,"Stäfa (ZH)","I resultati di questa comune non sono ancora noti."
-159,50,0,0,"Uetikon am See (ZH)","I resultati di questa comune non sono ancora noti."
+159,29.1,29.1,70.9,"Uetikon am See (ZH)",
 160,50,0,0,"Zumikon (ZH)","I resultati di questa comune non sono ancora noti."
 161,50,0,0,"Zollikon (ZH)","I resultati di questa comune non sono ancora noti."
 172,50,0,0,"Fehraltorf (ZH)","I resultati di questa comune non sono ancora noti."
@@ -130,7 +130,7 @@
 218,24.7,24.7,75.3,"Ellikon an der Thur (ZH)",
 219,50,0,0,"Elsau (ZH)","I resultati di questa comune non sono ancora noti."
 220,50,0,0,"Hagenbuch (ZH)","I resultati di questa comune non sono ancora noti."
-221,50,0,0,"Hettlingen (ZH)","I resultati di questa comune non sono ancora noti."
+221,24.8,24.8,75.2,"Hettlingen (ZH)",
 223,50,0,0,"Neftenbach (ZH)","I resultati di questa comune non sono ancora noti."
 224,50,0,0,"Pfungen (ZH)","I resultati di questa comune non sono ancora noti."
 225,50,0,0,"Rickenbach (ZH)","I resultati di questa comune non sono ancora noti."
@@ -147,7 +147,7 @@
 246,23.5,23.5,76.5,"Oetwil an der Limmat (ZH)",
 247,50,0,0,"Schlieren (ZH)","I resultati di questa comune non sono ancora noti."
 248,50,0,0,"Uitikon (ZH)","I resultati di questa comune non sono ancora noti."
-249,50,0,0,"Unterengstringen (ZH)","I resultati di questa comune non sono ancora noti."
+249,29,29,71,"Unterengstringen (ZH)",
 250,50,0,0,"Urdorf (ZH)","I resultati di questa comune non sono ancora noti."
 251,50,0,0,"Weiningen (ZH)","I resultati di questa comune non sono ancora noti."
 261,50,0,0,"Zurigo (ZH)","I resultati di questa comune non sono ancora noti."
