@@ -2,7 +2,7 @@
 1,27,27,73,"Aeugst am Albis (ZH)",
 2,37,37,63,"Affoltern am Albis (ZH)",
 3,50,0,0,"Bonstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-4,50,0,0,"Hausen am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+4,37.5,37.5,62.5,"Hausen am Albis (ZH)",
 5,50,0,0,"Hedingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 6,27.5,27.5,72.5,"Kappel am Albis (ZH)",
 7,32.5,32.5,67.5,"Knonau (ZH)",
@@ -11,7 +11,7 @@
 10,35.8,35.8,64.2,"Obfelden (ZH)",
 11,29.3,29.3,70.7,"Ottenbach (ZH)",
 12,41,41,59,"Rifferswil (ZH)",
-13,50,0,0,"Stallikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+13,31.5,31.5,68.5,"Stallikon (ZH)",
 14,25.8,25.8,74.2,"Wettswil am Albis (ZH)",
 22,29,29,71,"Benken (ZH)",
 23,24.1,24.1,75.9,"Berg am Irchel (ZH)",
@@ -28,7 +28,7 @@
 37,32.1,32.1,67.9,"Ossingen (ZH)",
 38,34,34,66,"Rheinau (ZH)",
 39,50,0,0,"Thalheim an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-40,50,0,0,"Trüllikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+40,28.9,28.9,71.1,"Trüllikon (ZH)",
 41,38.2,38.2,61.8,"Truttikon (ZH)",
 43,22.6,22.6,77.4,"Volken (ZH)",
 51,50,0,0,"Bachenbülach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -63,9 +63,9 @@
 88,50,0,0,"Neerach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 89,50,0,0,"Niederglatt (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 90,50,0,0,"Niederhasli (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-91,50,0,0,"Niederweningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+91,33.5,33.5,66.5,"Niederweningen (ZH)",
 92,50,0,0,"Oberglatt (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-93,50,0,0,"Oberweningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+93,32.5,32.5,67.5,"Oberweningen (ZH)",
 94,50,0,0,"Otelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 95,33.3,33.3,66.7,"Regensberg (ZH)",
 96,41.5,41.5,58.5,"Regensdorf (ZH)",
@@ -117,7 +117,7 @@
 193,50,0,0,"Fällanden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 194,50,0,0,"Greifensee (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 195,50,0,0,"Maur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-196,50,0,0,"Mönchaltorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+196,33.3,33.3,66.7,"Mönchaltorf (ZH)",
 197,50,0,0,"Schwerzenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 198,50,0,0,"Uster (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 199,34.6,34.6,65.4,"Volketswil (ZH)",
@@ -132,8 +132,8 @@
 220,50,0,0,"Hagenbuch (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 221,25.3,25.3,74.7,"Hettlingen (ZH)",
 223,50,0,0,"Neftenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-224,50,0,0,"Pfungen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-225,50,0,0,"Rickenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+224,34.2,34.2,65.8,"Pfungen (ZH)",
+225,27.1,27.1,72.9,"Rickenbach (ZH)",
 226,50,0,0,"Schlatt (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 227,31.5,31.5,68.5,"Seuzach (ZH)",
 228,50,0,0,"Turbenthal (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -154,7 +154,7 @@
 291,50,0,0,"Andelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 292,50,0,0,"Stammheim (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 293,50,0,0,"Wädenswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-294,50,0,0,"Elgg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+294,32.3,32.3,67.7,"Elgg (ZH)",
 295,50,0,0,"Horgen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 296,50,0,0,"Illnau-Effretikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 297,50,0,0,"Bauma (ZH)","Les résultats ne sont pas encore connus dans cette commune."
