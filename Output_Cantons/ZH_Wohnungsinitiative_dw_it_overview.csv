@@ -1,7 +1,7 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
 1,"controproposta si",26.4,73.6,"Aeugst am Albis (ZH)",
 2,"controproposta si",37.1,62.9,"Affoltern am Albis (ZH)",
-3,"nessun risultato",0,0,"Bonstetten (ZH)","I resultati di questa comune non sono ancora noti."
+3,"controproposta si",34.2,65.8,"Bonstetten (ZH)",
 4,"controproposta si",36.4,63.6,"Hausen am Albis (ZH)",
 5,"nessun risultato",0,0,"Hedingen (ZH)","I resultati di questa comune non sono ancora noti."
 6,"controproposta si",28,72,"Kappel am Albis (ZH)",
@@ -34,7 +34,7 @@
 51,"controproposta si",33.3,66.7,"Bachenbülach (ZH)",
 52,"nessun risultato",0,0,"Bassersdorf (ZH)","I resultati di questa comune non sono ancora noti."
 53,"controproposta si",40,60,"Bülach (ZH)",
-54,"nessun risultato",0,0,"Dietlikon (ZH)","I resultati di questa comune non sono ancora noti."
+54,"controproposta si",35.8,64.2,"Dietlikon (ZH)",
 55,"controproposta si",30.2,69.8,"Eglisau (ZH)",
 56,"controproposta si",32.1,67.9,"Embrach (ZH)",
 57,"controproposta si",27.3,72.7,"Freienstein-Teufen (ZH)",
@@ -42,7 +42,7 @@
 59,"controproposta si",29.2,70.8,"Hochfelden (ZH)",
 60,"controproposta si",31.4,68.6,"Höri (ZH)",
 61,"controproposta si",23.7,76.3,"Hüntwangen (ZH)",
-62,"nessun risultato",0,0,"Kloten (ZH)","I resultati di questa comune non sono ancora noti."
+62,"controproposta si",43,57,"Kloten (ZH)",
 63,"controproposta si",23.3,76.7,"Lufingen (ZH)",
 64,"nessun risultato",0,0,"Nürensdorf (ZH)","I resultati di questa comune non sono ancora noti."
 65,"controproposta si",25.7,74.3,"Oberembrach (ZH)",
@@ -55,7 +55,7 @@
 72,"controproposta si",24.4,75.6,"Winkel (ZH)",
 81,"controproposta si",25.6,74.4,"Bachs (ZH)",
 82,"controproposta si",22.3,77.7,"Boppelsen (ZH)",
-83,"nessun risultato",0,0,"Buchs (ZH)","I resultati di questa comune non sono ancora noti."
+83,"controproposta si",32.7,67.3,"Buchs (ZH)",
 84,"controproposta si",33.4,66.6,"Dällikon (ZH)",
 85,"controproposta si",33.2,66.8,"Dänikon (ZH)",
 86,"controproposta si",34.2,65.8,"Dielsdorf (ZH)",
@@ -64,7 +64,7 @@
 89,"controproposta si",31.1,68.9,"Niederglatt (ZH)",
 90,"nessun risultato",0,0,"Niederhasli (ZH)","I resultati di questa comune non sono ancora noti."
 91,"controproposta si",29.4,70.6,"Niederweningen (ZH)",
-92,"nessun risultato",0,0,"Oberglatt (ZH)","I resultati di questa comune non sono ancora noti."
+92,"controproposta si",37.8,62.2,"Oberglatt (ZH)",
 93,"controproposta si",28.4,71.6,"Oberweningen (ZH)",
 94,"controproposta si",28.8,71.2,"Otelfingen (ZH)",
 95,"controproposta si",30.7,69.3,"Regensberg (ZH)",
@@ -81,12 +81,12 @@
 114,"controproposta si",24.9,75.1,"Fischenthal (ZH)",
 115,"nessun risultato",0,0,"Gossau (ZH)","I resultati di questa comune non sono ancora noti."
 116,"nessun risultato",0,0,"Grüningen (ZH)","I resultati di questa comune non sono ancora noti."
-117,"nessun risultato",0,0,"Hinwil (ZH)","I resultati di questa comune non sono ancora noti."
+117,"controproposta si",30.8,69.2,"Hinwil (ZH)",
 118,"nessun risultato",0,0,"Rüti (ZH)","I resultati di questa comune non sono ancora noti."
 119,"controproposta si",29.7,70.3,"Seegräben (ZH)",
 120,"nessun risultato",0,0,"Wald (ZH)","I resultati di questa comune non sono ancora noti."
 121,"nessun risultato",0,0,"Wetzikon (ZH)","I resultati di questa comune non sono ancora noti."
-131,"nessun risultato",0,0,"Adliswil (ZH)","I resultati di questa comune non sono ancora noti."
+131,"controproposta si",42,58,"Adliswil (ZH)",
 135,"nessun risultato",0,0,"Kilchberg (ZH)","I resultati di questa comune non sono ancora noti."
 136,"nessun risultato",0,0,"Langnau am Albis (ZH)","I resultati di questa comune non sono ancora noti."
 137,"controproposta si",33.8,66.2,"Oberrieden (ZH)",
@@ -119,7 +119,7 @@
 195,"controproposta si",26.2,73.8,"Maur (ZH)",
 196,"controproposta si",32.4,67.6,"Mönchaltorf (ZH)",
 197,"controproposta si",35.9,64.1,"Schwerzenbach (ZH)",
-198,"nessun risultato",0,0,"Uster (ZH)","I resultati di questa comune non sono ancora noti."
+198,"controproposta si",39.6,60.4,"Uster (ZH)",
 199,"controproposta si",32.6,67.4,"Volketswil (ZH)",
 200,"controproposta si",28.5,71.5,"Wangen-Brüttisellen (ZH)",
 211,"controproposta si",23.1,76.9,"Altikon (ZH)",
@@ -128,13 +128,13 @@
 215,"controproposta si",22.6,77.4,"Dättlikon (ZH)",
 216,"controproposta si",24.7,75.3,"Dinhard (ZH)",
 218,"controproposta si",23.9,76.1,"Ellikon an der Thur (ZH)",
-219,"nessun risultato",0,0,"Elsau (ZH)","I resultati di questa comune non sono ancora noti."
+219,"controproposta si",31.8,68.2,"Elsau (ZH)",
 220,"controproposta si",25.2,74.8,"Hagenbuch (ZH)",
 221,"controproposta si",24.6,75.4,"Hettlingen (ZH)",
 223,"nessun risultato",0,0,"Neftenbach (ZH)","I resultati di questa comune non sono ancora noti."
 224,"controproposta si",33.5,66.5,"Pfungen (ZH)",
 225,"controproposta si",27.5,72.5,"Rickenbach (ZH)",
-226,"nessun risultato",0,0,"Schlatt (ZH)","I resultati di questa comune non sono ancora noti."
+226,"controproposta si",34.1,65.9,"Schlatt (ZH)",
 227,"controproposta si",28.2,71.8,"Seuzach (ZH)",
 228,"nessun risultato",0,0,"Turbenthal (ZH)","I resultati di questa comune non sono ancora noti."
 230,"nessun risultato",0,0,"Winterthour (ZH)","I resultati di questa comune non sono ancora noti."
@@ -152,10 +152,10 @@
 251,"controproposta si",30.1,69.9,"Weiningen (ZH)",
 261,"nessun risultato",0,0,"Zurigo (ZH)","I resultati di questa comune non sono ancora noti."
 291,"controproposta si",25.6,74.4,"Andelfingen (ZH)",
-292,"nessun risultato",0,0,"Stammheim (ZH)","I resultati di questa comune non sono ancora noti."
+292,"controproposta si",26.2,73.8,"Stammheim (ZH)",
 293,"nessun risultato",0,0,"Wädenswil (ZH)","I resultati di questa comune non sono ancora noti."
 294,"controproposta si",31.5,68.5,"Elgg (ZH)",
-295,"nessun risultato",0,0,"Horgen (ZH)","I resultati di questa comune non sono ancora noti."
-296,"nessun risultato",0,0,"Illnau-Effretikon (ZH)","I resultati di questa comune non sono ancora noti."
-297,"nessun risultato",0,0,"Bauma (ZH)","I resultati di questa comune non sono ancora noti."
-298,"nessun risultato",0,0,"Wiesendangen (ZH)","I resultati di questa comune non sono ancora noti."
+295,"controproposta si",37,63,"Horgen (ZH)",
+296,"controproposta si",38.2,61.8,"Illnau-Effretikon (ZH)",
+297,"controproposta si",24.4,75.6,"Bauma (ZH)",
+298,"controproposta si",26.7,73.3,"Wiesendangen (ZH)",

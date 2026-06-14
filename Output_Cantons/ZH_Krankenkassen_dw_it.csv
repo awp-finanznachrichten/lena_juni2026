@@ -1,7 +1,7 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
 1,52.4,52.4,47.6,"Aeugst am Albis (ZH)",
 2,56.2,56.2,43.8,"Affoltern am Albis (ZH)",
-3,50,0,0,"Bonstetten (ZH)","I risultati di questo comune non sono ancora noti."
+3,53.3,53.3,46.7,"Bonstetten (ZH)",
 4,54.3,54.3,45.7,"Hausen am Albis (ZH)",
 5,50,0,0,"Hedingen (ZH)","I risultati di questo comune non sono ancora noti."
 6,58.3,58.3,41.7,"Kappel am Albis (ZH)",
@@ -34,7 +34,7 @@
 51,59.1,59.1,40.9,"Bachenbülach (ZH)",
 52,50,0,0,"Bassersdorf (ZH)","I risultati di questo comune non sono ancora noti."
 53,58.5,58.5,41.5,"Bülach (ZH)",
-54,50,0,0,"Dietlikon (ZH)","I risultati di questo comune non sono ancora noti."
+54,57.8,57.8,42.2,"Dietlikon (ZH)",
 55,55.5,55.5,44.5,"Eglisau (ZH)",
 56,65.5,65.5,34.5,"Embrach (ZH)",
 57,60,60,40,"Freienstein-Teufen (ZH)",
@@ -42,7 +42,7 @@
 59,67.4,67.4,32.6,"Hochfelden (ZH)",
 60,69.8,69.8,30.2,"Höri (ZH)",
 61,56.1,56.1,43.9,"Hüntwangen (ZH)",
-62,50,0,0,"Kloten (ZH)","I risultati di questo comune non sono ancora noti."
+62,63,63,37,"Kloten (ZH)",
 63,62.7,62.7,37.3,"Lufingen (ZH)",
 64,50,0,0,"Nürensdorf (ZH)","I risultati di questo comune non sono ancora noti."
 65,63.2,63.2,36.8,"Oberembrach (ZH)",
@@ -55,7 +55,7 @@
 72,59.6,59.6,40.4,"Winkel (ZH)",
 81,59.4,59.4,40.6,"Bachs (ZH)",
 82,57,57,43,"Boppelsen (ZH)",
-83,50,0,0,"Buchs (ZH)","I risultati di questo comune non sono ancora noti."
+83,62.4,62.4,37.6,"Buchs (ZH)",
 84,62.3,62.3,37.7,"Dällikon (ZH)",
 85,63.3,63.3,36.7,"Dänikon (ZH)",
 86,62.9,62.9,37.1,"Dielsdorf (ZH)",
@@ -64,7 +64,7 @@
 89,64.5,64.5,35.5,"Niederglatt (ZH)",
 90,50,0,0,"Niederhasli (ZH)","I risultati di questo comune non sono ancora noti."
 91,59.6,59.6,40.4,"Niederweningen (ZH)",
-92,50,0,0,"Oberglatt (ZH)","I risultati di questo comune non sono ancora noti."
+92,65.5,65.5,34.5,"Oberglatt (ZH)",
 93,63.6,63.6,36.4,"Oberweningen (ZH)",
 94,59.2,59.2,40.8,"Otelfingen (ZH)",
 95,48.2,48.2,51.8,"Regensberg (ZH)",
@@ -81,12 +81,12 @@
 114,67.8,67.8,32.2,"Fischenthal (ZH)",
 115,50,0,0,"Gossau (ZH)","I risultati di questo comune non sono ancora noti."
 116,50,0,0,"Grüningen (ZH)","I risultati di questo comune non sono ancora noti."
-117,50,0,0,"Hinwil (ZH)","I risultati di questo comune non sono ancora noti."
+117,61.8,61.8,38.2,"Hinwil (ZH)",
 118,50,0,0,"Rüti (ZH)","I risultati di questo comune non sono ancora noti."
 119,55.1,55.1,44.9,"Seegräben (ZH)",
 120,50,0,0,"Wald (ZH)","I risultati di questo comune non sono ancora noti."
 121,50,0,0,"Wetzikon (ZH)","I risultati di questo comune non sono ancora noti."
-131,50,0,0,"Adliswil (ZH)","I risultati di questo comune non sono ancora noti."
+131,55.9,55.9,44.1,"Adliswil (ZH)",
 135,50,0,0,"Kilchberg (ZH)","I risultati di questo comune non sono ancora noti."
 136,50,0,0,"Langnau am Albis (ZH)","I risultati di questo comune non sono ancora noti."
 137,49.1,49.1,50.9,"Oberrieden (ZH)",
@@ -119,7 +119,7 @@
 195,56.3,56.3,43.7,"Maur (ZH)",
 196,57.1,57.1,42.9,"Mönchaltorf (ZH)",
 197,58.4,58.4,41.6,"Schwerzenbach (ZH)",
-198,50,0,0,"Uster (ZH)","I risultati di questo comune non sono ancora noti."
+198,51.3,51.3,48.7,"Uster (ZH)",
 199,63,63,37,"Volketswil (ZH)",
 200,62.4,62.4,37.6,"Wangen-Brüttisellen (ZH)",
 211,63.7,63.7,36.3,"Altikon (ZH)",
@@ -128,13 +128,13 @@
 215,58.8,58.8,41.2,"Dättlikon (ZH)",
 216,59.8,59.8,40.2,"Dinhard (ZH)",
 218,64.1,64.1,35.9,"Ellikon an der Thur (ZH)",
-219,50,0,0,"Elsau (ZH)","I risultati di questo comune non sono ancora noti."
+219,58.2,58.2,41.8,"Elsau (ZH)",
 220,61.4,61.4,38.6,"Hagenbuch (ZH)",
 221,53.8,53.8,46.2,"Hettlingen (ZH)",
 223,50,0,0,"Neftenbach (ZH)","I risultati di questo comune non sono ancora noti."
 224,61.4,61.4,38.6,"Pfungen (ZH)",
 225,53.5,53.5,46.5,"Rickenbach (ZH)",
-226,50,0,0,"Schlatt (ZH)","I risultati di questo comune non sono ancora noti."
+226,66.2,66.2,33.8,"Schlatt (ZH)",
 227,56.5,56.5,43.5,"Seuzach (ZH)",
 228,50,0,0,"Turbenthal (ZH)","I risultati di questo comune non sono ancora noti."
 230,50,0,0,"Winterthour (ZH)","I risultati di questo comune non sono ancora noti."
@@ -152,10 +152,10 @@
 251,61.8,61.8,38.2,"Weiningen (ZH)",
 261,50,0,0,"Zurigo (ZH)","I risultati di questo comune non sono ancora noti."
 291,56.2,56.2,43.8,"Andelfingen (ZH)",
-292,50,0,0,"Stammheim (ZH)","I risultati di questo comune non sono ancora noti."
+292,57.1,57.1,42.9,"Stammheim (ZH)",
 293,50,0,0,"Wädenswil (ZH)","I risultati di questo comune non sono ancora noti."
 294,54.7,54.7,45.3,"Elgg (ZH)",
-295,50,0,0,"Horgen (ZH)","I risultati di questo comune non sono ancora noti."
-296,50,0,0,"Illnau-Effretikon (ZH)","I risultati di questo comune non sono ancora noti."
-297,50,0,0,"Bauma (ZH)","I risultati di questo comune non sono ancora noti."
-298,50,0,0,"Wiesendangen (ZH)","I risultati di questo comune non sono ancora noti."
+295,55.2,55.2,44.8,"Horgen (ZH)",
+296,54.6,54.6,45.4,"Illnau-Effretikon (ZH)",
+297,68,68,32,"Bauma (ZH)",
+298,58.1,58.1,41.9,"Wiesendangen (ZH)",
