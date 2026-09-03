@@ -45,8 +45,7 @@ output_dw_kantone <- dta %>%
            Legende = NA,
            Text_de = "",
            Text_fr = "",
-           Text_it = "",
-           link_wappen) %>%
+           Text_it = "") %>%
     unique()
 
 for (y in 1:nrow(output_dw_kantone)) {
